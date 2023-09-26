@@ -10,11 +10,11 @@ assistant_id: 20230923-015740-ash-delta
 # https://rasa.com/docs/rasa/nlu/components/
 language: en
 
-pipeline: "spacy_sklearn"
+pipeline:
 # # No configuration for the NLU pipeline was provided. The following default pipeline was used to train your model.
 # # If you'd like to customize it, uncomment and adjust the pipeline.
 # # See https://rasa.com/docs/rasa/tuning-your-model for more information.
-#   - name: WhitespaceTokenizer
+   - name: "SpacyNLP"
 #   - name: RegexFeaturizer
 #   - name: LexicalSyntacticFeaturizer
 #   - name: CountVectorsFeaturizer
