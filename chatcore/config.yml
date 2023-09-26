@@ -8,7 +8,7 @@ assistant_id: 20230923-015740-ash-delta
 
 # Configuration for Rasa NLU.
 # https://rasa.com/docs/rasa/nlu/components/
-language: en
+language: en_core_web_sm
 
 pipeline:
 # # No configuration for the NLU pipeline was provided. The following default pipeline was used to train your model.
