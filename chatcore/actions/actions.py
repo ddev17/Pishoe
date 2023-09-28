@@ -7,7 +7,7 @@
 
 # This is a simple example for a custom action which utters "Hello World!"
 # Test git branch
-# Test git 2
+# Test git branch
 
 # from typing import Any, Text, Dict, List
 #
