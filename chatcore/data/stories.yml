@@ -2,29 +2,23 @@ version: "3.1"
 
 stories:
 
-- story: happy path
+- story: customer ask shoes
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_great
-  - action: utter_happy
+  - intent: ask_buy_shoes
+  - action: action_recommend_shoes
 
-- story: sad path 1
+- story: customer ask special shoes agree
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: affirm
-  - action: utter_happy
+  - intent: ask_buy_special_shoes
+  - action: action_recommend_shoes
+  - intent: disagree_product
+  - action: action_recommend_shoes
+  - intent: disagree_product
+  - action: action_recommend_shoes
 
-- story: sad path 2
+- story: customer ask special shoes
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: deny
-  - action: utter_goodbye
+  - intent: ask_buy_special_shoes
+  - action: action_recommend_shoes
+  - intent: agree_product
+  - action: utter_order_confirm
