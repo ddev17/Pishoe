@@ -1,34 +1,54 @@
 version: "3.1"
 
 intents:
-  - greet
+  - give_cust_name
+  - cust_greet
   - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
+  - bot_or_people
+  - ask_name_shop
+  - ask_loai_san_pham
+  - ask_diachi_shop
+  - ask_time_open_close
+
+actions:
+  - action_save_name
+  - action_save_hang_giay
+
+entities:
+  - cust_name
+
+slots:
+  cust_name:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: cust_name
 
 responses:
-  utter_greet:
-  - text: "Hey! How are you?"
+  utter_cust_greet:
+  - text: "Chao quy khach! Ten quy khach la gi?"
 
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_did_that_help:
-  - text: "Did that help you?"
-
-  utter_happy:
-  - text: "Great, carry on!"
+  utter_ask_name_shop:
+  - text: "Shop ten la The Gioi Giay."
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Cam on quy khach chuc quy khach mot ngay moi tot lanh."
 
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  utter_bot_or_people:
+  - text: "Toi la bot tra loi tu dong cua shop."
+  
+  utter_rep_name:
+  - text: "Xin chao {cust_name} toi co the giup gi cho ban."
 
+  utter_ask_loai_san_pham:
+  - text: "Shop kinh doanh nhieu loai giay nhu: Giay the thao, giay luoi,..."
+
+  utter_ask_diachi_shop:
+  - text: "Dia chi cua shop la So 19, Tran Phu, Ha Dong, Ha Noi."
+
+  utter_ask_time_open_close:
+  - text: "Shop mo cua vao tat ca cac ngay trong tuan, buoi sang tu 7:00 den 11:00, buoi chieu tu 14:00 den 20:00."
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

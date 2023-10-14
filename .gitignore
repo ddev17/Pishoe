@@ -1,2 +1,5 @@
 __pycache__
 *.log
+chatcore/.rasa/
+
+chatcore/models/
