@@ -4,9 +4,15 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 
 from actions import utils
+from typing import Any, Coroutine, Text, Dict, List
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
+from rasa_sdk.types import DomainDict
+from rasa_sdk.events import SlotSet
 
-
-class ActionHelloWorld(Action):
+class action_save_name(Action):
+    def name(self) -> Text:
+        return 'action_save_name'
 
     def name(self) -> Text:
         return "action_hello_world"
@@ -46,3 +52,11 @@ class ActionRecommendShoes(Action):
         recommend_shoes_list = utils.get_recommend_product(brands, price_range, 1)
         dispatcher.utter_message(text=f"Dạ shop gửi anh chị tham khảo mẫu: \nNhãn hiệu: {recommend_shoes_list[0]['brand']}\nSản phẩm: {recommend_shoes_list[0]['name']}\nGiá ưu đãi: {recommend_shoes_list[0]['price']}\nimg:{recommend_shoes_list[0]['image_src']}\n\nMẫu này đang hot, anh chị có muốn đặt hàng không ạ?")
         return []
+
+
+class ActionHelloWorld(Action):
+    def run(self, dispatcher: CollectingDispatcher,
+             tracker: Tracker,
+             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        cust_name = next(tracker.get_latest_entity_values("cust_name"), None)
+        return [SlotSet('cust_name', cust_name)]
