@@ -10,7 +10,7 @@ def getAdidasProduct():
         brands_data = json.load(file)
 
     # Url adidas shoes page
-    url = "https://www.adidas.com.vn/vi/nam-giay?start=48"
+    url = "https://www.adidas.com.vn/vi/nam-quan_vot-giay"
 
     payload = {}
     headers = {
@@ -36,9 +36,9 @@ def getAdidasProduct():
             image_src = item.find('img')['src']
             name = item.select_one('.glass-product-card__title').text
             url_product = item.select_one('[class*="product-card-content-badges-wrapper"]')['href']
-
+            print(image_src)
             # Sleep 5 second to stabilize request
-            time.sleep(5)
+            time.sleep(3)
             # Get detail product info
             detailInfo = getDetailAdidasProduct(f"https://www.adidas.com.vn{url_product}")
 
