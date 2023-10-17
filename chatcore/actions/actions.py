@@ -4,32 +4,12 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 
 from actions import utils
-from typing import Any, Coroutine, Text, Dict, List
-from rasa_sdk import Action, Tracker
-from rasa_sdk.executor import CollectingDispatcher
-from rasa_sdk.types import DomainDict
-from rasa_sdk.events import SlotSet
 
-class action_save_name(Action):
-    def name(self) -> Text:
-        return 'action_save_name'
+
+class ActionRecommendSpecialShoes(Action):
 
     def name(self) -> Text:
-        return "action_hello_world"
-
-    def run(self, dispatcher: CollectingDispatcher,
-            tracker: Tracker,
-            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-
-        dispatcher.utter_message(text="Hello World!")
-
-        return []
-
-
-class ActionRecommendShoes(Action):
-
-    def name(self) -> Text:
-        return "action_recommend_shoes"
+        return "action_recommend_special_shoes"
 
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
@@ -49,14 +29,35 @@ class ActionRecommendShoes(Action):
                 return []
 
         price_range = utils.parse_price_from_question(question)
-        recommend_shoes_list = utils.get_recommend_product(brands, price_range, 1)
-        dispatcher.utter_message(text=f"Dạ shop gửi anh chị tham khảo mẫu: \nNhãn hiệu: {recommend_shoes_list[0]['brand']}\nSản phẩm: {recommend_shoes_list[0]['name']}\nGiá ưu đãi: {recommend_shoes_list[0]['price']}\nimg:{recommend_shoes_list[0]['image_src']}\n\nMẫu này đang hot, anh chị có muốn đặt hàng không ạ?")
+        recommend_shoes_list = utils.get_recommend_product(1)
+        # recommend_shoes_list = utils.get_recommend_product(1, brands, price_range, 1)
+        if (len(recommend_shoes_list)):
+            dispatcher.utter_message(
+                text=f"Dạ shop gửi anh chị tham khảo mẫu: \nNhãn hiệu: {recommend_shoes_list[0]['brand']}\nSản phẩm: {recommend_shoes_list[0]['name']}\nGiá ưu đãi: {recommend_shoes_list[0]['price']}\n\nMẫu này đang hot, anh chị có muốn đặt hàng không ạ?",
+                image=recommend_shoes_list[0]['image_src'])
+        else:
+            dispatcher.utter_message(
+                text="Dạ hiện tại shop không có sản phẩm nào phù hợp với yêu cầu, anh chị có thể tham khảo 1 số mẫu hot của shop ạ.")
         return []
 
 
-class ActionHelloWorld(Action):
+class ActionRecommendShoes(Action):
+
+    def name(self) -> Text:
+        return "action_recommend_shoes"
+
     def run(self, dispatcher: CollectingDispatcher,
-             tracker: Tracker,
-             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        cust_name = next(tracker.get_latest_entity_values("cust_name"), None)
-        return [SlotSet('cust_name', cust_name)]
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        brands = ["adidas", "nike", "puma"]
+        recommend_shoes_list = utils.get_recommend_product(1)
+        # recommend_shoes_list = utils.get_recommend_product(1, brands, price_range, 1)
+        if (len(recommend_shoes_list)):
+            dispatcher.utter_message(
+                text=f"Dạ shop gửi anh chị tham khảo mẫu: \nNhãn hiệu: {recommend_shoes_list[0]['brand']}\nSản phẩm: {recommend_shoes_list[0]['name']}\nGiá ưu đãi: {recommend_shoes_list[0]['price']}\n\nMẫu này đang hot, anh chị có muốn đặt hàng không ạ?",
+                image=recommend_shoes_list[0]['image_src'])
+        else:
+            dispatcher.utter_message(
+                text="Dạ hiện tại shop không có sản phẩm nào phù hợp với yêu cầu, anh chị có thể tham khảo 1 số mẫu hot của shop ạ.")
+        return []

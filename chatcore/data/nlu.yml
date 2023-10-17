@@ -2,7 +2,6 @@ version: "3.1"
 
 nlu:
 - intent: give_cust_name
-- intent: bot_challenge
   examples: |
     - Toi ten la [Tri]{"entity": "cust_name"}.
     - Toi ten la [Ai]{"entity": "cust_name"}.
@@ -808,100 +807,96 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
 
-- intent: cust_greet
 - intent: ask_buy_shoes
   examples: |
-    - Chao ban, ban co the tu van giup minh ve mot so loai giay duoc khong?
-    - Minh muon tim giay phu hop, khong biet shop cua ban ban nhung loai giay nao nhi?
-    - Chao shop, shop tu van cho minh ve mot so loai giay duoc khong?
-    - Ban tu van giup minh chon giay voi
-    - Chao shop
-    - shop tu van giup minh chon giay voi
-    - Toi muon mua giay phu hop voi ban than
-    - Hello shop
-    - Mình muốn mua giày
+    - Mình muốn mua giày.
+
+- intent: cust_greet
+  examples: |
+    - Chào bạn, bạn có thể tư vấn giúp mình về một số loại giày được không?
+    - Mình muốn tìm giày phù hợp, không biết shop của bạn bán những loại giày nào nhỉ?
+    - Chào shop, shop tư vấn cho mình về một số loại giày được không?
+    - Bạn tư vấn giúp mình chọn giày với.
+    - Chào shop.
+    - Shop tư vấn giúp mình chọn giày với.
+    - Tôi muốn mua giày phù hợp với bản thân.
+    - Hello shop.
 
 - intent: goodbye
+  examples: |
+    - Cám ơn shop.
+    - Ok, cảm ơn shop.
+    - Cám ơn bạn vì đã giúp đỡ.
+
 - intent: agree_product
   examples: |
-    - Cam on shop
-    - Ok thank shop
-    - Cam on ban vi da giup do
-    - OK
-    - Tôi chọn mẫu này
-    - Mẫu này OK đó
+    - OK.
+    - Tôi chọn mẫu này.
+    - Mẫu này OK đó.
 
-- intent: bot_or_people
 - intent: disagree_product
   examples: |
-    - Bạn la bot hay nhan vien cua shop vay?
-    - Ban la bot tra loi tu dong cua shop dung khong?
-    - Toi dang tro chuyen voi bot dung khong?
-    - Toi dang duoc tu van boi bot dung khong?
-    - Ban la bot a?
-    - Ban la bot dung khong?
-    - Minh dang duoc tu van boi bot dung khong?
-    - Ban la ai?
-    - Ban la nhan vien cua shop dung khong?
-    - Minh dang noi chuyen voi bot hay nhan vien cua shop vay?
-    - Mẫu này xấu
-    - Tôi không thích mẫu này
+    - Mẫu này xấu.
+    - Tôi không thích mẫu này.
 
-- intent: ask_name_shop
+- intent: bot_or_people
+  examples: |
+    - Bạn là bot hay nhân viên của shop vậy?
+    - Bạn là bot trả lời tự động của shop đúng không?
+    - Tôi đang trò chuyện với bot đúng không?
+    - Tôi đang được tư vấn bởi bot đúng không?
+    - Bạn là bot à?
+    - Bạn là bot đúng không?
+    - Mình đang được tư vấn bởi bot đúng không?
+    - Bạn là ai?
+    - Bạn là nhân viên của shop đúng không?
+    - Mình đang nói chuyện với bot hay nhân viên của shop vậy?
+
 - intent: ask_buy_special_shoes
   examples: |
-    - Ten shop la gi?
-    - Cho minh biet ten shop duoc khong?
-    - shop ten gi?
-    - Cho toi biet ten shop 
-    - Cho toi hoi shop ten gi?
-    - Minh hoi ten shop voi?
-    - Co phai shop ten la The Gioi Giay khong?
-    - shop ten la The Gioi Giay dung khong nhi?
-    - Co the cho toi biet ten shop khong?
+    - Tôi muốn mua mẫu Adidas Ultraboot 1.0 size 44 màu đỏ sẫm.
+    - Tôi cần tìm giày Adidas.
+    - Tôi cần tìm giày Adidas.
+    - Tôi cần tìm giày.
+    - Tôi cần tìm mẫu Adidas Ultraboot 1.0.
+    - Tôi cần mẫu giày nam size 42.
+    - Tôi cần tìm đôi giày màu đỏ.
+    - Tôi cần tìm mẫu giày giá từ 1 - 4 triệu.
+
+- intent: ask_name_shop
+  examples: |
+    - Tên shop là gì?
+    - Cho mình biết tên shop được không?
+    - Shop tên gì?
+    - Cho tôi biết tên shop.
+    - Cho tôi hỏi tên shop?
+    - Mình hỏi tên shop với?
+    - Có phải shop tên là The Gioi Giay không?
+    - Shop tên là The Gioi Giay đúng không?
+    - Có thể cho tôi biết tên shop không?
+
 - intent: ask_loai_san_pham
   examples: |
-    - Shop ban nhung loai giay nao?
-    - Shop co mau giay gi?
-    - Shop cua ban co ban nhung loai giay nao?
-    - Shop co nhieu loai giay khong?
-    - Ban noi qua ve cac mau giay cua shop giup minh voi?
-    - Cho toi biet cac loai giay ma shop ban?
-    - Cac loai giay ma shop ban la gi?
-    - Cho toi biet cac loai giay ma shop kinh doanh.
-    - Shop kinh doanh nhung san pham nao
-    - Shop ban nhung gi
+    - Shop bán những loại giày nào?
+    - Shop có màu giày gì?
+    - Shop của bạn có bán những loại giày nào?
+    - Shop có nhiều loại giày không?
+    - Bạn nói qua về các mẫu giày của shop giúp mình với?
+    - Cho tôi biết các loại giày mà shop bán?
+    - Các loại giày mà shop bán là gì?
+    - Cho tôi biết các loại giày mà shop kinh doanh.
+    - Shop kinh doanh những sản phẩm nào?
+    - Shop bán những gì?
+
 - intent: ask_diachi_shop
   examples: |
-    - Shop o dau nhi?
-    - Dia chi shop la gi?
-    - Cho toi xin dia chi shop?
-    - Minh muon biet vi tri cu the cua shop?
-    - Shop o vi tri nao?
-    - Shop nam o khu vuc nao?
-    - Dia chi cu the cua shop la gi?
-    - Cho minh xin dia chi cua shop voi?
-    - Shop cua ban o dau?
-    - Dia chi shop o dau?
-- intent: ask_time_open_close
-  examples: |
-    - Shop mo cua vao khoang thoi gian nao?
-    - Thoi gian mo cua cua shop.
-    - Cho minh hoi shop mo cua vao khoang thoi gian nao?
-    - Cua hang mo cua vao nhung khoang thoi gian nao trong ngay?
-    - Cua hang hoat dong vao nhung gio nao trong ngay?
-    - Cua hang hoat dong vao nhung ngay nao?
-    - Shop ben minh hoat dong vao thoi gian nao nhi?
-    - Cua hang mo cua vao thoi gian nao ?
-    - Thoi gian mo cua va dong cua cua cua hang la gi?
-    - Shop co mo cua vao buoi toi khong?
-    - Shop hoat dong vao thoi gian nao?
-    - Tôi muốn mua mẫu Adidas Ultraboot 1.0 size 44 màu đỏ sẫm
-    - Tôi cần tìm giày Adidas
-    - Toi can tim giay Adidas
-    - Toi can tim giay
-    - Tôi cần tìm mẫu Adidas Ultraboot 1.0
-    - Tôi cần mẫu giày nam size 42
-    - Tôi cần tìm đôi giày màu đỏ
-    - Tôi cần tìm mẫu giày giá từ 1 - 4 triệu
-
+    - Shop ở đâu nhỉ?
+    - Địa chỉ shop là gì?
+    - Cho tôi xin địa chỉ shop?
+    - Mình muốn biết vị trí cụ thể của shop?
+    - Shop ở vị trí nào?
+    - Shop nằm ở khu vực nào?
+    - Địa chỉ cụ thể của shop là gì?
+    - Cho mình xin địa chỉ của shop với?
+    - Shop của bạn ở đâu?
+    - Địa chỉ shop ở đâu?

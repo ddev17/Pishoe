@@ -3,7 +3,6 @@ version: "3.1"
 stories:
 
 - story: customer ask shoes
-- story: TH1
   steps:
   - intent: ask_buy_shoes
   - action: action_recommend_shoes
@@ -11,19 +10,21 @@ stories:
 - story: customer ask special shoes agree
   steps:
   - intent: ask_buy_special_shoes
-  - action: action_recommend_shoes
+  - action: action_recommend_special_shoes
   - intent: disagree_product
-  - action: action_recommend_shoes
+  - action: action_recommend_special_shoes
   - intent: disagree_product
-  - action: action_recommend_shoes
+  - action: action_recommend_special_shoes
 
 - story: customer ask special shoes
   steps:
   - intent: ask_buy_special_shoes
-  - action: action_recommend_shoes
+  - action: action_recommend_special_shoes
   - intent: agree_product
   - action: utter_order_confirm
 
+- story: TH1
+  steps:
   - intent: cust_greet
   - action: utter_cust_greet
   - intent: give_cust_name
@@ -37,4 +38,3 @@ stories:
   - intent: ask_time_open_close
   - action: utter_ask_time_open_close
   - intent: goodbye
-  - action: utter_goodbye
