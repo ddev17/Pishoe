@@ -1,33 +1,67 @@
 version: "3.1"
 
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
   - bot_challenge
+  - ask_buy_shoes
+  - ask_buy_special_shoes
+  - disagree_product
+  - agree_product
+  - give_cust_name
+  - cust_greet
+  - goodbye
+  - bot_or_people
+  - ask_name_shop
+  - ask_loai_san_pham
+  - ask_diachi_shop
+  - ask_time_open_close
 
 responses:
-  utter_greet:
-  - text: "Hey! How are you?"
+  utter_default:
+   - text: "Toi cung deo bit"
+  utter_iamabot:
+   - text: "I am a bot, powered by Rasa."
 
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  utter_order_confirm:
+    - text: "Dạ vâng cảm ơn anh đã mua sản phẩm, chúc anh 1 ngày tốt lành"
 
-  utter_did_that_help:
-  - text: "Did that help you?"
+  utter_cust_greet:
+    - text: "Chao quy khach! Ten quy khach la gi?"
 
-  utter_happy:
-  - text: "Great, carry on!"
+  utter_ask_name_shop:
+    - text: "Shop ten la The Gioi Giay."
 
   utter_goodbye:
-  - text: "Bye"
+    - text: "Cam on quy khach chuc quy khach mot ngay moi tot lanh."
 
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  utter_bot_or_people:
+    - text: "Toi la bot tra loi tu dong cua shop."
+
+  utter_rep_name:
+    - text: "Xin chao {cust_name} toi co the giup gi cho ban."
+
+  utter_ask_loai_san_pham:
+    - text: "Shop kinh doanh nhieu loai giay nhu: Giay the thao, giay luoi,..."
+
+  utter_ask_diachi_shop:
+    - text: "Dia chi cua shop la So 19, Tran Phu, Ha Dong, Ha Noi."
+
+  utter_ask_time_open_close:
+    - text: "Shop mo cua vao tat ca cac ngay trong tuan, buoi sang tu 7:00 den 11:00, buoi chieu tu 14:00 den 20:00."
+
+
+entities:
+  - cust_name
+slots:
+  cust_name:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: cust_name
+
+actions:
+  - action_hello_world
+  - action_recommend_shoes
+  - action_recommend_special_shoes
 
 session_config:
   session_expiration_time: 60

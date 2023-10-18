@@ -1,91 +1,902 @@
 version: "3.1"
 
 nlu:
-- intent: greet
+- intent: give_cust_name
   examples: |
-    - hey
-    - hello
-    - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
-
-- intent: goodbye
-  examples: |
-    - cu
-    - good by
-    - cee you later
-    - good night
-    - bye
-    - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
-
-- intent: affirm
-  examples: |
-    - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
-
-- intent: deny
-  examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
-
-- intent: mood_great
-  examples: |
-    - perfect
-    - great
-    - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
-
-- intent: mood_unhappy
-  examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
-
-- intent: bot_challenge
-  examples: |
+    - Toi ten la [Tri]{"entity": "cust_name"}.
+    - Toi ten la [Ai]{"entity": "cust_name"}.
+    - Toi ten la [An]{"entity": "cust_name"}.
+    - Toi ten la [Anh]{"entity": "cust_name"}.
+    - Toi ten la [Bac]{"entity": "cust_name"}.
+    - Toi ten la [Bach]{"entity": "cust_name"}.
+    - Toi ten la [Bang]{"entity": "cust_name"}.
+    - Toi ten la [Bao]{"entity": "cust_name"}.
+    - Toi ten la [Bich]{"entity": "cust_name"}.
+    - Toi ten la [Binh]{"entity": "cust_name"}.
+    - Toi ten la [Bong]{"entity": "cust_name"}.
+    - Toi ten la [Buu]{"entity": "cust_name"}.
+    - Toi ten la [Ca]{"entity": "cust_name"}.
+    - Toi ten la [Cam]{"entity": "cust_name"}.
+    - Toi ten la [Can]{"entity": "cust_name"}.
+    - Toi ten la [Canh]{"entity": "cust_name"}.
+    - Toi ten la [Cao]{"entity": "cust_name"}.
+    - Toi ten la [Cat]{"entity": "cust_name"}.
+    - Toi ten la [Chan]{"entity": "cust_name"}.
+    - Toi ten la [Chau]{"entity": "cust_name"}.
+    - Toi ten la [Chi]{"entity": "cust_name"}.
+    - Toi ten la [Chien]{"entity": "cust_name"}.
+    - Toi ten la [Chieu]{"entity": "cust_name"}.
+    - Toi ten la [Chinh]{"entity": "cust_name"}.
+    - Toi ten la [Chung]{"entity": "cust_name"}.
+    - Toi ten la [Chuong]{"entity": "cust_name"}.
+    - Toi ten la [Chuyen]{"entity": "cust_name"}.
+    - Toi ten la [Co]{"entity": "cust_name"}.
+    - Toi ten la [Cong]{"entity": "cust_name"}.
+    - Toi ten la [Cuc]{"entity": "cust_name"}.
+    - Toi ten la [Cung]{"entity": "cust_name"}.
+    - Toi ten la [Cuong]{"entity": "cust_name"}.
+    - Toi ten la [Da]{"entity": "cust_name"}.
+    - Toi ten la [Dan]{"entity": "cust_name"}.
+    - Toi ten la [Dang]{"entity": "cust_name"}.
+    - Toi ten la [Danh]{"entity": "cust_name"}.
+    - Toi ten la [Dao]{"entity": "cust_name"}.
+    - Toi ten la [Di]{"entity": "cust_name"}.
+    - Toi ten la [Diem]{"entity": "cust_name"}.
+    - Toi ten la [Diep]{"entity": "cust_name"}.
+    - Toi ten la [Dieu]{"entity": "cust_name"}.
+    - Toi ten la [Dinh]{"entity": "cust_name"}.
+    - Toi ten la [Doanh]{"entity": "cust_name"}.
+    - Toi ten la [Du]{"entity": "cust_name"}.
+    - Toi ten la [Duc]{"entity": "cust_name"}.
+    - Toi ten la [Due]{"entity": "cust_name"}.
+    - Toi ten la [Dung]{"entity": "cust_name"}.
+    - Toi ten la [Duong]{"entity": "cust_name"}.
+    - Toi ten la [Duy]{"entity": "cust_name"}.
+    - Toi ten la [Duyen]{"entity": "cust_name"}.
+    - Toi ten la [Duyet]{"entity": "cust_name"}.
+    - Toi ten la [Gia]{"entity": "cust_name"}.
+    - Toi ten la [Giac]{"entity": "cust_name"}.
+    - Toi ten la [Giang]{"entity": "cust_name"}.
+    - Toi ten la [Giao]{"entity": "cust_name"}.
+    - Toi ten la [Giap]{"entity": "cust_name"}.
+    - Toi ten la [Ha]{"entity": "cust_name"}.
+    - Toi ten la [Hai]{"entity": "cust_name"}.
+    - Toi ten la [Ham]{"entity": "cust_name"}.
+    - Toi ten la [Han]{"entity": "cust_name"}.
+    - Toi ten la [Hang]{"entity": "cust_name"}.
+    - Toi ten la [Hanh]{"entity": "cust_name"}.
+    - Toi ten la [Hao]{"entity": "cust_name"}.
+    - Toi ten la [Hau]{"entity": "cust_name"}.
+    - Toi ten la [Hien]{"entity": "cust_name"}.
+    - Toi ten la [Hiep]{"entity": "cust_name"}.
+    - Toi ten la [Hieu]{"entity": "cust_name"}.
+    - Toi ten la [Hoa]{"entity": "cust_name"}.
+    - Toi ten la [Hoai]{"entity": "cust_name"}.
+    - Toi ten la [Hoan]{"entity": "cust_name"}.
+    - Toi ten la [Hoang]{"entity": "cust_name"}.
+    - Toi ten la [Hoat]{"entity": "cust_name"}.
+    - Toi ten la [Hoc]{"entity": "cust_name"}.
+    - Toi ten la [Hoi]{"entity": "cust_name"}.
+    - Toi ten la [Hong]{"entity": "cust_name"}.
+    - Toi ten la [Hop]{"entity": "cust_name"}.
+    - Toi ten la [Huan]{"entity": "cust_name"}.
+    - Toi ten la [Hue]{"entity": "cust_name"}.
+    - Toi ten la [Hung]{"entity": "cust_name"}.
+    - Toi ten la [Huong]{"entity": "cust_name"}.
+    - Toi ten la [Huu]{"entity": "cust_name"}.
+    - Toi ten la [Huy]{"entity": "cust_name"}.
+    - Toi ten la [Huyen]{"entity": "cust_name"}.
+    - Toi ten la [Huynh]{"entity": "cust_name"}.
+    - Toi ten la [Hy]{"entity": "cust_name"}.
+    - Toi ten la [Ke]{"entity": "cust_name"}.
+    - Toi ten la [Kha]{"entity": "cust_name"}.
+    - Toi ten la [Khai]{"entity": "cust_name"}.
+    - Toi ten la [Khang]{"entity": "cust_name"}.
+    - Toi ten la [Khanh]{"entity": "cust_name"}.
+    - Toi ten la [Khe]{"entity": "cust_name"}.
+    - Toi ten la [Khiem]{"entity": "cust_name"}.
+    - Toi ten la [Khieu]{"entity": "cust_name"}.
+    - Toi ten la [Khoa]{"entity": "cust_name"}.
+    - Toi ten la [Khoan]{"entity": "cust_name"}.
+    - Toi ten la [Khoat]{"entity": "cust_name"}.
+    - Toi ten la [Khoi]{"entity": "cust_name"}.
+    - Toi ten la [Khue]{"entity": "cust_name"}.
+    - Toi ten la [Khuong]{"entity": "cust_name"}.
+    - Toi ten la [Khuyen]{"entity": "cust_name"}.
+    - Toi ten la [Kiem]{"entity": "cust_name"}.
+    - Toi ten la [Kien]{"entity": "cust_name"}.
+    - Toi ten la [Kiet]{"entity": "cust_name"}.
+    - Toi ten la [Kieu]{"entity": "cust_name"}.
+    - Toi ten la [Kim]{"entity": "cust_name"}.
+    - Toi ten la [Kinh]{"entity": "cust_name"}.
+    - Toi ten la [Ky]{"entity": "cust_name"}.
+    - Toi ten la [Lac]{"entity": "cust_name"}.
+    - Toi ten la [Lai]{"entity": "cust_name"}.
+    - Toi ten la [Lam]{"entity": "cust_name"}.
+    - Toi ten la [Lan]{"entity": "cust_name"}.
+    - Toi ten la [Lang]{"entity": "cust_name"}.
+    - Toi ten la [Lap]{"entity": "cust_name"}.
+    - Toi ten la [Le]{"entity": "cust_name"}.
+    - Toi ten la [Liem]{"entity": "cust_name"}.
+    - Toi ten la [Lien]{"entity": "cust_name"}.
+    - Toi ten la [Liet]{"entity": "cust_name"}.
+    - Toi ten la [Lieu]{"entity": "cust_name"}.
+    - Toi ten la [Linh]{"entity": "cust_name"}.
+    - Toi ten la [Lo]{"entity": "cust_name"}.
+    - Toi ten la [Loan]{"entity": "cust_name"}.
+    - Toi ten la [Loc]{"entity": "cust_name"}.
+    - Toi ten la [Loi]{"entity": "cust_name"}.
+    - Toi ten la [Long]{"entity": "cust_name"}.
+    - Toi ten la [Luan]{"entity": "cust_name"}.
+    - Toi ten la [Luat]{"entity": "cust_name"}.
+    - Toi ten la [Luc]{"entity": "cust_name"}.
+    - Toi ten la [Luong]{"entity": "cust_name"}.
+    - Toi ten la [Ly]{"entity": "cust_name"}.
+    - Toi ten la [Mai]{"entity": "cust_name"}.
+    - Toi ten la [Man]{"entity": "cust_name"}.
+    - Toi ten la [Manh]{"entity": "cust_name"}.
+    - Toi ten la [Mi]{"entity": "cust_name"}.
+    - Toi ten la [Mien]{"entity": "cust_name"}.
+    - Toi ten la [Minh]{"entity": "cust_name"}.
+    - Toi ten la [My]{"entity": "cust_name"}.
+    - Toi ten la [Nam]{"entity": "cust_name"}.
+    - Toi ten la [Nang]{"entity": "cust_name"}.
+    - Toi ten la [Nga]{"entity": "cust_name"}.
+    - Toi ten la [Ngan]{"entity": "cust_name"}.
+    - Toi ten la [Nghi]{"entity": "cust_name"}.
+    - Toi ten la [Nghia]{"entity": "cust_name"}.
+    - Toi ten la [Nghiem]{"entity": "cust_name"}.
+    - Toi ten la [Nghiep]{"entity": "cust_name"}.
+    - Toi ten la [Ngoc]{"entity": "cust_name"}.
+    - Toi ten la [Ngon]{"entity": "cust_name"}.
+    - Toi ten la [Nguyen]{"entity": "cust_name"}.
+    - Toi ten la [Nguyet]{"entity": "cust_name"}.
+    - Toi ten la [Nha]{"entity": "cust_name"}.
+    - Toi ten la [Nhan]{"entity": "cust_name"}.
+    - Toi ten la [Nhat]{"entity": "cust_name"}.
+    - Toi ten la [Nhi]{"entity": "cust_name"}.
+    - Toi ten la [Nhiem]{"entity": "cust_name"}.
+    - Toi ten la [Nhien]{"entity": "cust_name"}.
+    - Toi ten la [Nhon]{"entity": "cust_name"}.
+    - Toi ten la [Nhu]{"entity": "cust_name"}.
+    - Toi ten la [Nhuan]{"entity": "cust_name"}.
+    - Toi ten la [Nhung]{"entity": "cust_name"}.
+    - Toi ten la [Nhuong]{"entity": "cust_name"}.
+    - Toi ten la [Ninh]{"entity": "cust_name"}.
+    - Toi ten la [Nu]{"entity": "cust_name"}.
+    - Toi ten la [Nuong]{"entity": "cust_name"}.
+    - Toi ten la [Oanh]{"entity": "cust_name"}.
+    - Toi ten la [Phap]{"entity": "cust_name"}.
+    - Toi ten la [Phat]{"entity": "cust_name"}.
+    - Toi ten la [Phi]{"entity": "cust_name"}.
+    - Toi ten la [Phong]{"entity": "cust_name"}.
+    - Toi ten la [Phu]{"entity": "cust_name"}.
+    - Toi ten la [Phuc]{"entity": "cust_name"}.
+    - Toi ten la [Phung]{"entity": "cust_name"}.
+    - Toi ten la [Phuoc]{"entity": "cust_name"}.
+    - Toi ten la [Phuong]{"entity": "cust_name"}.
+    - Toi ten la [Quan]{"entity": "cust_name"}.
+    - Toi ten la [Quang]{"entity": "cust_name"}.
+    - Toi ten la [Que]{"entity": "cust_name"}.
+    - Toi ten la [Quoc]{"entity": "cust_name"}.
+    - Toi ten la [Quy]{"entity": "cust_name"}.
+    - Toi ten la [Quyen]{"entity": "cust_name"}.
+    - Toi ten la [Quyet]{"entity": "cust_name"}.
+    - Toi ten la [Quynh]{"entity": "cust_name"}.
+    - Toi ten la [Sa]{"entity": "cust_name"}.
+    - Toi ten la [Sam]{"entity": "cust_name"}.
+    - Toi ten la [San]{"entity": "cust_name"}.
+    - Toi ten la [Sang]{"entity": "cust_name"}.
+    - Toi ten la [Si]{"entity": "cust_name"}.
+    - Toi ten la [Sieu]{"entity": "cust_name"}.
+    - Toi ten la [Sinh]{"entity": "cust_name"}.
+    - Toi ten la [Son]{"entity": "cust_name"}.
+    - Toi ten la [Su]{"entity": "cust_name"}.
+    - Toi ten la [Suong]{"entity": "cust_name"}.
+    - Toi ten la [Sy]{"entity": "cust_name"}.
+    - Toi ten la [Tai]{"entity": "cust_name"}.
+    - Toi ten la [Tam]{"entity": "cust_name"}.
+    - Toi ten la [Tan]{"entity": "cust_name"}.
+    - Toi ten la [Thac]{"entity": "cust_name"}.
+    - Toi ten la [Thach]{"entity": "cust_name"}.
+    - Toi ten la [Thai]{"entity": "cust_name"}.
+    - Toi ten la [Tham]{"entity": "cust_name"}.
+    - Toi ten la [Thang]{"entity": "cust_name"}.
+    - Toi ten la [Thanh]{"entity": "cust_name"}.
+    - Toi ten la [Thao]{"entity": "cust_name"}.
+    - Toi ten la [The]{"entity": "cust_name"}.
+    - Toi ten la [Theu]{"entity": "cust_name"}.
+    - Toi ten la [Thi]{"entity": "cust_name"}.
+    - Toi ten la [Thien]{"entity": "cust_name"}.
+    - Toi ten la [Thinh]{"entity": "cust_name"}.
+    - Toi ten la [Tho]{"entity": "cust_name"}.
+    - Toi ten la [Thoa]{"entity": "cust_name"}.
+    - Toi ten la [Thoai]{"entity": "cust_name"}.
+    - Toi ten la [Thoi]{"entity": "cust_name"}.
+    - Toi ten la [Thong]{"entity": "cust_name"}.
+    - Toi ten la [Thu]{"entity": "cust_name"}.
+    - Toi ten la [Thuan]{"entity": "cust_name"}.
+    - Toi ten la [Thuat]{"entity": "cust_name"}.
+    - Toi ten la [Thuc]{"entity": "cust_name"}.
+    - Toi ten la [Thuong]{"entity": "cust_name"}.
+    - Toi ten la [Thuy]{"entity": "cust_name"}.
+    - Toi ten la [Thuyet]{"entity": "cust_name"}.
+    - Toi ten la [Thy]{"entity": "cust_name"}.
+    - Toi ten la [Tien]{"entity": "cust_name"}.
+    - Toi ten la [Tiep]{"entity": "cust_name"}.
+    - Toi ten la [Tin]{"entity": "cust_name"}.
+    - Toi ten la [Tinh]{"entity": "cust_name"}.
+    - Toi ten la [To]{"entity": "cust_name"}.
+    - Toi ten la [Toai]{"entity": "cust_name"}.
+    - Toi ten la [Toan]{"entity": "cust_name"}.
+    - Toi ten la [Tra]{"entity": "cust_name"}.
+    - Toi ten la [Trac]{"entity": "cust_name"}.
+    - Toi ten la [Trach]{"entity": "cust_name"}.
+    - Toi ten la [Tram]{"entity": "cust_name"}.
+    - Toi ten la [Tran]{"entity": "cust_name"}.
+    - Toi ten la [Trang]{"entity": "cust_name"}.
+    - Toi ten la [Tranh]{"entity": "cust_name"}.
+    - Toi ten la [Tri]{"entity": "cust_name"}.
+    - Toi ten la [Triet]{"entity": "cust_name"}.
+    - Toi ten la [Trieu]{"entity": "cust_name"}.
+    - Toi ten la [Trinh]{"entity": "cust_name"}.
+    - Toi ten la [Trong]{"entity": "cust_name"}.
+    - Toi ten la [Tru]{"entity": "cust_name"}.
+    - Toi ten la [Truc]{"entity": "cust_name"}.
+    - Toi ten la [Trung]{"entity": "cust_name"}.
+    - Toi ten la [Truong]{"entity": "cust_name"}.
+    - Toi ten la [Tu]{"entity": "cust_name"}.
+    - Toi ten la [Tuan]{"entity": "cust_name"}.
+    - Toi ten la [Tue]{"entity": "cust_name"}.
+    - Toi ten la [Tung]{"entity": "cust_name"}.
+    - Toi ten la [Tuong]{"entity": "cust_name"}.
+    - Toi ten la [Tuyen]{"entity": "cust_name"}.
+    - Toi ten la [Tuyet]{"entity": "cust_name"}.
+    - Toi ten la [Ty]{"entity": "cust_name"}.
+    - Toi ten la [Uy]{"entity": "cust_name"}.
+    - Toi ten la [Uyen]{"entity": "cust_name"}.
+    - Toi ten la [Van]{"entity": "cust_name"}.
+    - Toi ten la [Vi]{"entity": "cust_name"}.
+    - Toi ten la [Vien]{"entity": "cust_name"}.
+    - Toi ten la [Viet]{"entity": "cust_name"}.
+    - Toi ten la [Vinh]{"entity": "cust_name"}.
+    - Toi ten la [Vo]{"entity": "cust_name"}.
+    - Toi ten la [Vong]{"entity": "cust_name"}.
+    - Toi ten la [Vu]{"entity": "cust_name"}.
+    - Toi ten la [Vuong]{"entity": "cust_name"}.
+    - Toi ten la [Vy]{"entity": "cust_name"}.
+    - Toi ten la [Xuan]{"entity": "cust_name"}.
+    - Toi ten la [Xuyen]{"entity": "cust_name"}.
+    - Toi ten la [Y]{"entity": "cust_name"}.
+    - Toi ten la [Yen]{"entity": "cust_name"}.
+    - Toi ten la [xanh]{"entity": "cust_name"}.
+    - Minh ten la [Ai]{"entity": "cust_name"}.
+    - Minh ten la [An]{"entity": "cust_name"}.
+    - Minh ten la [Anh]{"entity": "cust_name"}.
+    - Minh ten la [Bac]{"entity": "cust_name"}.
+    - Minh ten la [Bach]{"entity": "cust_name"}.
+    - Minh ten la [Bang]{"entity": "cust_name"}.
+    - Minh ten la [Bao]{"entity": "cust_name"}.
+    - Minh ten la [Bich]{"entity": "cust_name"}.
+    - Minh ten la [Binh]{"entity": "cust_name"}.
+    - Minh ten la [Bong]{"entity": "cust_name"}.
+    - Minh ten la [Buu]{"entity": "cust_name"}.
+    - Minh ten la [Ca]{"entity": "cust_name"}.
+    - Minh ten la [Cam]{"entity": "cust_name"}.
+    - Minh ten la [Can]{"entity": "cust_name"}.
+    - Minh ten la [Canh]{"entity": "cust_name"}.
+    - Minh ten la [Cao]{"entity": "cust_name"}.
+    - Minh ten la [Cat]{"entity": "cust_name"}.
+    - Minh ten la [Chan]{"entity": "cust_name"}.
+    - Minh ten la [Chau]{"entity": "cust_name"}.
+    - Minh ten la [Chi]{"entity": "cust_name"}.
+    - Minh ten la [Chien]{"entity": "cust_name"}.
+    - Minh ten la [Chieu]{"entity": "cust_name"}.
+    - Minh ten la [Chinh]{"entity": "cust_name"}.
+    - Minh ten la [Chung]{"entity": "cust_name"}.
+    - Minh ten la [Chuong]{"entity": "cust_name"}.
+    - Minh ten la [Chuyen]{"entity": "cust_name"}.
+    - Minh ten la [Co]{"entity": "cust_name"}.
+    - Minh ten la [Cong]{"entity": "cust_name"}.
+    - Minh ten la [Cuc]{"entity": "cust_name"}.
+    - Minh ten la [Cung]{"entity": "cust_name"}.
+    - Minh ten la [Cuong]{"entity": "cust_name"}.
+    - Minh ten la [Da]{"entity": "cust_name"}.
+    - Minh ten la [Dan]{"entity": "cust_name"}.
+    - Minh ten la [Dang]{"entity": "cust_name"}.
+    - Minh ten la [Danh]{"entity": "cust_name"}.
+    - Minh ten la [Dao]{"entity": "cust_name"}.
+    - Minh ten la [Di]{"entity": "cust_name"}.
+    - Minh ten la [Diem]{"entity": "cust_name"}.
+    - Minh ten la [Diep]{"entity": "cust_name"}.
+    - Minh ten la [Dieu]{"entity": "cust_name"}.
+    - Minh ten la [Dinh]{"entity": "cust_name"}.
+    - Minh ten la [Doanh]{"entity": "cust_name"}.
+    - Minh ten la [Du]{"entity": "cust_name"}.
+    - Minh ten la [Duc]{"entity": "cust_name"}.
+    - Minh ten la [Due]{"entity": "cust_name"}.
+    - Minh ten la [Dung]{"entity": "cust_name"}.
+    - Minh ten la [Duong]{"entity": "cust_name"}.
+    - Minh ten la [Duy]{"entity": "cust_name"}.
+    - Minh ten la [Duyen]{"entity": "cust_name"}.
+    - Minh ten la [Duyet]{"entity": "cust_name"}.
+    - Minh ten la [Gia]{"entity": "cust_name"}.
+    - Minh ten la [Giac]{"entity": "cust_name"}.
+    - Minh ten la [Giang]{"entity": "cust_name"}.
+    - Minh ten la [Giao]{"entity": "cust_name"}.
+    - Minh ten la [Giap]{"entity": "cust_name"}.
+    - Minh ten la [Ha]{"entity": "cust_name"}.
+    - Minh ten la [Hai]{"entity": "cust_name"}.
+    - Minh ten la [Ham]{"entity": "cust_name"}.
+    - Minh ten la [Han]{"entity": "cust_name"}.
+    - Minh ten la [Hang]{"entity": "cust_name"}.
+    - Minh ten la [Hanh]{"entity": "cust_name"}.
+    - Minh ten la [Hao]{"entity": "cust_name"}.
+    - Minh ten la [Hau]{"entity": "cust_name"}.
+    - Minh ten la [Hien]{"entity": "cust_name"}.
+    - Minh ten la [Hiep]{"entity": "cust_name"}.
+    - Minh ten la [Hieu]{"entity": "cust_name"}.
+    - Minh ten la [Hoa]{"entity": "cust_name"}.
+    - Minh ten la [Hoai]{"entity": "cust_name"}.
+    - Minh ten la [Hoan]{"entity": "cust_name"}.
+    - Minh ten la [Hoang]{"entity": "cust_name"}.
+    - Minh ten la [Hoat]{"entity": "cust_name"}.
+    - Minh ten la [Hoc]{"entity": "cust_name"}.
+    - Minh ten la [Hoi]{"entity": "cust_name"}.
+    - Minh ten la [Hong]{"entity": "cust_name"}.
+    - Minh ten la [Hop]{"entity": "cust_name"}.
+    - Minh ten la [Huan]{"entity": "cust_name"}.
+    - Minh ten la [Hue]{"entity": "cust_name"}.
+    - Minh ten la [Hung]{"entity": "cust_name"}.
+    - Minh ten la [Huong]{"entity": "cust_name"}.
+    - Minh ten la [Huu]{"entity": "cust_name"}.
+    - Minh ten la [Huy]{"entity": "cust_name"}.
+    - Minh ten la [Huyen]{"entity": "cust_name"}.
+    - Minh ten la [Huynh]{"entity": "cust_name"}.
+    - Minh ten la [Hy]{"entity": "cust_name"}.
+    - Minh ten la [Ke]{"entity": "cust_name"}.
+    - Minh ten la [Kha]{"entity": "cust_name"}.
+    - Minh ten la [Khai]{"entity": "cust_name"}.
+    - Minh ten la [Khang]{"entity": "cust_name"}.
+    - Minh ten la [Khanh]{"entity": "cust_name"}.
+    - Minh ten la [Khe]{"entity": "cust_name"}.
+    - Minh ten la [Khiem]{"entity": "cust_name"}.
+    - Minh ten la [Khieu]{"entity": "cust_name"}.
+    - Minh ten la [Khoa]{"entity": "cust_name"}.
+    - Minh ten la [Khoan]{"entity": "cust_name"}.
+    - Minh ten la [Khoat]{"entity": "cust_name"}.
+    - Minh ten la [Khoi]{"entity": "cust_name"}.
+    - Minh ten la [Khue]{"entity": "cust_name"}.
+    - Minh ten la [Khuong]{"entity": "cust_name"}.
+    - Minh ten la [Khuyen]{"entity": "cust_name"}.
+    - Minh ten la [Kiem]{"entity": "cust_name"}.
+    - Minh ten la [Kien]{"entity": "cust_name"}.
+    - Minh ten la [Kiet]{"entity": "cust_name"}.
+    - Minh ten la [Kieu]{"entity": "cust_name"}.
+    - Minh ten la [Kim]{"entity": "cust_name"}.
+    - Minh ten la [Kinh]{"entity": "cust_name"}.
+    - Minh ten la [Ky]{"entity": "cust_name"}.
+    - Minh ten la [Lac]{"entity": "cust_name"}.
+    - Minh ten la [Lai]{"entity": "cust_name"}.
+    - Minh ten la [Lam]{"entity": "cust_name"}.
+    - Minh ten la [Lan]{"entity": "cust_name"}.
+    - Minh ten la [Lang]{"entity": "cust_name"}.
+    - Minh ten la [Lap]{"entity": "cust_name"}.
+    - Minh ten la [Le]{"entity": "cust_name"}.
+    - Minh ten la [Liem]{"entity": "cust_name"}.
+    - Minh ten la [Lien]{"entity": "cust_name"}.
+    - Minh ten la [Liet]{"entity": "cust_name"}.
+    - Minh ten la [Lieu]{"entity": "cust_name"}.
+    - Minh ten la [Linh]{"entity": "cust_name"}.
+    - Minh ten la [Lo]{"entity": "cust_name"}.
+    - Minh ten la [Loan]{"entity": "cust_name"}.
+    - Minh ten la [Loc]{"entity": "cust_name"}.
+    - Minh ten la [Loi]{"entity": "cust_name"}.
+    - Minh ten la [Long]{"entity": "cust_name"}.
+    - Minh ten la [Luan]{"entity": "cust_name"}.
+    - Minh ten la [Luat]{"entity": "cust_name"}.
+    - Minh ten la [Luc]{"entity": "cust_name"}.
+    - Minh ten la [Luong]{"entity": "cust_name"}.
+    - Minh ten la [Ly]{"entity": "cust_name"}.
+    - Minh ten la [Mai]{"entity": "cust_name"}.
+    - Minh ten la [Man]{"entity": "cust_name"}.
+    - Minh ten la [Manh]{"entity": "cust_name"}.
+    - Minh ten la [Mi]{"entity": "cust_name"}.
+    - Minh ten la [Mien]{"entity": "cust_name"}.
+    - Minh ten la [Minh]{"entity": "cust_name"}.
+    - Minh ten la [My]{"entity": "cust_name"}.
+    - Minh ten la [Nam]{"entity": "cust_name"}.
+    - Minh ten la [Nang]{"entity": "cust_name"}.
+    - Minh ten la [Nga]{"entity": "cust_name"}.
+    - Minh ten la [Ngan]{"entity": "cust_name"}.
+    - Minh ten la [Nghi]{"entity": "cust_name"}.
+    - Minh ten la [Nghia]{"entity": "cust_name"}.
+    - Minh ten la [Nghiem]{"entity": "cust_name"}.
+    - Minh ten la [Nghiep]{"entity": "cust_name"}.
+    - Minh ten la [Ngoc]{"entity": "cust_name"}.
+    - Minh ten la [Ngon]{"entity": "cust_name"}.
+    - Minh ten la [Nguyen]{"entity": "cust_name"}.
+    - Minh ten la [Nguyet]{"entity": "cust_name"}.
+    - Minh ten la [Nha]{"entity": "cust_name"}.
+    - Minh ten la [Nhan]{"entity": "cust_name"}.
+    - Minh ten la [Nhat]{"entity": "cust_name"}.
+    - Minh ten la [Nhi]{"entity": "cust_name"}.
+    - Minh ten la [Nhiem]{"entity": "cust_name"}.
+    - Minh ten la [Nhien]{"entity": "cust_name"}.
+    - Minh ten la [Nhon]{"entity": "cust_name"}.
+    - Minh ten la [Nhu]{"entity": "cust_name"}.
+    - Minh ten la [Nhuan]{"entity": "cust_name"}.
+    - Minh ten la [Nhung]{"entity": "cust_name"}.
+    - Minh ten la [Nhuong]{"entity": "cust_name"}.
+    - Minh ten la [Ninh]{"entity": "cust_name"}.
+    - Minh ten la [Nu]{"entity": "cust_name"}.
+    - Minh ten la [Nuong]{"entity": "cust_name"}.
+    - Minh ten la [Oanh]{"entity": "cust_name"}.
+    - Minh ten la [Phap]{"entity": "cust_name"}.
+    - Minh ten la [Phat]{"entity": "cust_name"}.
+    - Minh ten la [Phi]{"entity": "cust_name"}.
+    - Minh ten la [Phong]{"entity": "cust_name"}.
+    - Minh ten la [Phu]{"entity": "cust_name"}.
+    - Minh ten la [Phuc]{"entity": "cust_name"}.
+    - Minh ten la [Phung]{"entity": "cust_name"}.
+    - Minh ten la [Phuoc]{"entity": "cust_name"}.
+    - Minh ten la [Phuong]{"entity": "cust_name"}.
+    - Minh ten la [Quan]{"entity": "cust_name"}.
+    - Minh ten la [Quang]{"entity": "cust_name"}.
+    - Minh ten la [Que]{"entity": "cust_name"}.
+    - Minh ten la [Quoc]{"entity": "cust_name"}.
+    - Minh ten la [Quy]{"entity": "cust_name"}.
+    - Minh ten la [Quyen]{"entity": "cust_name"}.
+    - Minh ten la [Quyet]{"entity": "cust_name"}.
+    - Minh ten la [Quynh]{"entity": "cust_name"}.
+    - Minh ten la [Sa]{"entity": "cust_name"}.
+    - Minh ten la [Sam]{"entity": "cust_name"}.
+    - Minh ten la [San]{"entity": "cust_name"}.
+    - Minh ten la [Sang]{"entity": "cust_name"}.
+    - Minh ten la [Si]{"entity": "cust_name"}.
+    - Minh ten la [Sieu]{"entity": "cust_name"}.
+    - Minh ten la [Sinh]{"entity": "cust_name"}.
+    - Minh ten la [Son]{"entity": "cust_name"}.
+    - Minh ten la [Su]{"entity": "cust_name"}.
+    - Minh ten la [Suong]{"entity": "cust_name"}.
+    - Minh ten la [Sy]{"entity": "cust_name"}.
+    - Minh ten la [Tai]{"entity": "cust_name"}.
+    - Minh ten la [Tam]{"entity": "cust_name"}.
+    - Minh ten la [Tan]{"entity": "cust_name"}.
+    - Minh ten la [Thac]{"entity": "cust_name"}.
+    - Minh ten la [Thach]{"entity": "cust_name"}.
+    - Minh ten la [Thai]{"entity": "cust_name"}.
+    - Minh ten la [Tham]{"entity": "cust_name"}.
+    - Minh ten la [Thang]{"entity": "cust_name"}.
+    - Minh ten la [Thanh]{"entity": "cust_name"}.
+    - Minh ten la [Thao]{"entity": "cust_name"}.
+    - Minh ten la [The]{"entity": "cust_name"}.
+    - Minh ten la [Theu]{"entity": "cust_name"}.
+    - Minh ten la [Thi]{"entity": "cust_name"}.
+    - Minh ten la [Thien]{"entity": "cust_name"}.
+    - Minh ten la [Thinh]{"entity": "cust_name"}.
+    - Minh ten la [Tho]{"entity": "cust_name"}.
+    - Minh ten la [Thoa]{"entity": "cust_name"}.
+    - Minh ten la [Thoai]{"entity": "cust_name"}.
+    - Minh ten la [Thoi]{"entity": "cust_name"}.
+    - Minh ten la [Thong]{"entity": "cust_name"}.
+    - Minh ten la [Thu]{"entity": "cust_name"}.
+    - Minh ten la [Thuan]{"entity": "cust_name"}.
+    - Minh ten la [Thuat]{"entity": "cust_name"}.
+    - Minh ten la [Thuc]{"entity": "cust_name"}.
+    - Minh ten la [Thuong]{"entity": "cust_name"}.
+    - Minh ten la [Thuy]{"entity": "cust_name"}.
+    - Minh ten la [Thuyet]{"entity": "cust_name"}.
+    - Minh ten la [Thy]{"entity": "cust_name"}.
+    - Minh ten la [Tien]{"entity": "cust_name"}.
+    - Minh ten la [Tiep]{"entity": "cust_name"}.
+    - Minh ten la [Tin]{"entity": "cust_name"}.
+    - Minh ten la [Tinh]{"entity": "cust_name"}.
+    - Minh ten la [To]{"entity": "cust_name"}.
+    - Minh ten la [Toai]{"entity": "cust_name"}.
+    - Minh ten la [Toan]{"entity": "cust_name"}.
+    - Minh ten la [Tra]{"entity": "cust_name"}.
+    - Minh ten la [Trac]{"entity": "cust_name"}.
+    - Minh ten la [Trach]{"entity": "cust_name"}.
+    - Minh ten la [Tram]{"entity": "cust_name"}.
+    - Minh ten la [Tran]{"entity": "cust_name"}.
+    - Minh ten la [Trang]{"entity": "cust_name"}.
+    - Minh ten la [Tranh]{"entity": "cust_name"}.
+    - Minh ten la [Tri]{"entity": "cust_name"}.
+    - Minh ten la [Triet]{"entity": "cust_name"}.
+    - Minh ten la [Trieu]{"entity": "cust_name"}.
+    - Minh ten la [Trinh]{"entity": "cust_name"}.
+    - Minh ten la [Trong]{"entity": "cust_name"}.
+    - Minh ten la [Tru]{"entity": "cust_name"}.
+    - Minh ten la [Truc]{"entity": "cust_name"}.
+    - Minh ten la [Trung]{"entity": "cust_name"}.
+    - Minh ten la [Truong]{"entity": "cust_name"}.
+    - Minh ten la [Tu]{"entity": "cust_name"}.
+    - Minh ten la [Tuan]{"entity": "cust_name"}.
+    - Minh ten la [Tue]{"entity": "cust_name"}.
+    - Minh ten la [Tung]{"entity": "cust_name"}.
+    - Minh ten la [Tuong]{"entity": "cust_name"}.
+    - Minh ten la [Tuyen]{"entity": "cust_name"}.
+    - Minh ten la [Tuyet]{"entity": "cust_name"}.
+    - Minh ten la [Ty]{"entity": "cust_name"}.
+    - Minh ten la [Uy]{"entity": "cust_name"}.
+    - Minh ten la [Uyen]{"entity": "cust_name"}.
+    - Minh ten la [Van]{"entity": "cust_name"}.
+    - Minh ten la [Vi]{"entity": "cust_name"}.
+    - Minh ten la [Vien]{"entity": "cust_name"}.
+    - Minh ten la [Viet]{"entity": "cust_name"}.
+    - Minh ten la [Vinh]{"entity": "cust_name"}.
+    - Minh ten la [Vo]{"entity": "cust_name"}.
+    - Minh ten la [Vong]{"entity": "cust_name"}.
+    - Minh ten la [Vu]{"entity": "cust_name"}.
+    - Minh ten la [Vuong]{"entity": "cust_name"}.
+    - Minh ten la [Vy]{"entity": "cust_name"}.
+    - Minh ten la [Xuan]{"entity": "cust_name"}.
+    - Minh ten la [Xuyen]{"entity": "cust_name"}.
+    - Minh ten la [Y]{"entity": "cust_name"}.
+    - Minh ten la [Yen]{"entity": "cust_name"}.
+    - Minh ten la [xanh]{"entity": "cust_name"}.
+    - Toi la [Ai]{"entity": "cust_name"}.
+    - Toi la [An]{"entity": "cust_name"}.
+    - Toi la [Anh]{"entity": "cust_name"}.
+    - Toi la [Bac]{"entity": "cust_name"}.
+    - Toi la [Bach]{"entity": "cust_name"}.
+    - Toi la [Bang]{"entity": "cust_name"}.
+    - Toi la [Bao]{"entity": "cust_name"}.
+    - Toi la [Bich]{"entity": "cust_name"}.
+    - Toi la [Binh]{"entity": "cust_name"}.
+    - Toi la [Bong]{"entity": "cust_name"}.
+    - Toi la [Buu]{"entity": "cust_name"}.
+    - Toi la [Ca]{"entity": "cust_name"}.
+    - Toi la [Cam]{"entity": "cust_name"}.
+    - Toi la [Can]{"entity": "cust_name"}.
+    - Toi la [Canh]{"entity": "cust_name"}.
+    - Toi la [Cao]{"entity": "cust_name"}.
+    - Toi la [Cat]{"entity": "cust_name"}.
+    - Toi la [Chan]{"entity": "cust_name"}.
+    - Toi la [Chau]{"entity": "cust_name"}.
+    - Toi la [Chi]{"entity": "cust_name"}.
+    - Toi la [Chien]{"entity": "cust_name"}.
+    - Toi la [Chieu]{"entity": "cust_name"}.
+    - Toi la [Chinh]{"entity": "cust_name"}.
+    - Toi la [Chung]{"entity": "cust_name"}.
+    - Toi la [Chuong]{"entity": "cust_name"}.
+    - Toi la [Chuyen]{"entity": "cust_name"}.
+    - Toi la [Co]{"entity": "cust_name"}.
+    - Toi la [Cong]{"entity": "cust_name"}.
+    - Toi la [Cuc]{"entity": "cust_name"}.
+    - Toi la [Cung]{"entity": "cust_name"}.
+    - Toi la [Cuong]{"entity": "cust_name"}.
+    - Toi la [Da]{"entity": "cust_name"}.
+    - Toi la [Dan]{"entity": "cust_name"}.
+    - Toi la [Dang]{"entity": "cust_name"}.
+    - Toi la [Danh]{"entity": "cust_name"}.
+    - Toi la [Dao]{"entity": "cust_name"}.
+    - Toi la [Di]{"entity": "cust_name"}.
+    - Toi la [Diem]{"entity": "cust_name"}.
+    - Toi la [Diep]{"entity": "cust_name"}.
+    - Toi la [Dieu]{"entity": "cust_name"}.
+    - Toi la [Dinh]{"entity": "cust_name"}.
+    - Toi la [Doanh]{"entity": "cust_name"}.
+    - Toi la [Du]{"entity": "cust_name"}.
+    - Toi la [Duc]{"entity": "cust_name"}.
+    - Toi la [Due]{"entity": "cust_name"}.
+    - Toi la [Dung]{"entity": "cust_name"}.
+    - Toi la [Duong]{"entity": "cust_name"}.
+    - Toi la [Duy]{"entity": "cust_name"}.
+    - Toi la [Duyen]{"entity": "cust_name"}.
+    - Toi la [Duyet]{"entity": "cust_name"}.
+    - Toi la [Gia]{"entity": "cust_name"}.
+    - Toi la [Giac]{"entity": "cust_name"}.
+    - Toi la [Giang]{"entity": "cust_name"}.
+    - Toi la [Giao]{"entity": "cust_name"}.
+    - Toi la [Giap]{"entity": "cust_name"}.
+    - Toi la [Ha]{"entity": "cust_name"}.
+    - Toi la [Hai]{"entity": "cust_name"}.
+    - Toi la [Ham]{"entity": "cust_name"}.
+    - Toi la [Han]{"entity": "cust_name"}.
+    - Toi la [Hang]{"entity": "cust_name"}.
+    - Toi la [Hanh]{"entity": "cust_name"}.
+    - Toi la [Hao]{"entity": "cust_name"}.
+    - Toi la [Hau]{"entity": "cust_name"}.
+    - Toi la [Hien]{"entity": "cust_name"}.
+    - Toi la [Hiep]{"entity": "cust_name"}.
+    - Toi la [Hieu]{"entity": "cust_name"}.
+    - Toi la [Hoa]{"entity": "cust_name"}.
+    - Toi la [Hoai]{"entity": "cust_name"}.
+    - Toi la [Hoan]{"entity": "cust_name"}.
+    - Toi la [Hoang]{"entity": "cust_name"}.
+    - Toi la [Hoat]{"entity": "cust_name"}.
+    - Toi la [Hoc]{"entity": "cust_name"}.
+    - Toi la [Hoi]{"entity": "cust_name"}.
+    - Toi la [Hong]{"entity": "cust_name"}.
+    - Toi la [Hop]{"entity": "cust_name"}.
+    - Toi la [Huan]{"entity": "cust_name"}.
+    - Toi la [Hue]{"entity": "cust_name"}.
+    - Toi la [Hung]{"entity": "cust_name"}.
+    - Toi la [Huong]{"entity": "cust_name"}.
+    - Toi la [Huu]{"entity": "cust_name"}.
+    - Toi la [Huy]{"entity": "cust_name"}.
+    - Toi la [Huyen]{"entity": "cust_name"}.
+    - Toi la [Huynh]{"entity": "cust_name"}.
+    - Toi la [Hy]{"entity": "cust_name"}.
+    - Toi la [Ke]{"entity": "cust_name"}.
+    - Toi la [Kha]{"entity": "cust_name"}.
+    - Toi la [Khai]{"entity": "cust_name"}.
+    - Toi la [Khang]{"entity": "cust_name"}.
+    - Toi la [Khanh]{"entity": "cust_name"}.
+    - Toi la [Khe]{"entity": "cust_name"}.
+    - Toi la [Khiem]{"entity": "cust_name"}.
+    - Toi la [Khieu]{"entity": "cust_name"}.
+    - Toi la [Khoa]{"entity": "cust_name"}.
+    - Toi la [Khoan]{"entity": "cust_name"}.
+    - Toi la [Khoat]{"entity": "cust_name"}.
+    - Toi la [Khoi]{"entity": "cust_name"}.
+    - Toi la [Khue]{"entity": "cust_name"}.
+    - Toi la [Khuong]{"entity": "cust_name"}.
+    - Toi la [Khuyen]{"entity": "cust_name"}.
+    - Toi la [Kiem]{"entity": "cust_name"}.
+    - Toi la [Kien]{"entity": "cust_name"}.
+    - Toi la [Kiet]{"entity": "cust_name"}.
+    - Toi la [Kieu]{"entity": "cust_name"}.
+    - Toi la [Kim]{"entity": "cust_name"}.
+    - Toi la [Kinh]{"entity": "cust_name"}.
+    - Toi la [Ky]{"entity": "cust_name"}.
+    - Toi la [Lac]{"entity": "cust_name"}.
+    - Toi la [Lai]{"entity": "cust_name"}.
+    - Toi la [Lam]{"entity": "cust_name"}.
+    - Toi la [Lan]{"entity": "cust_name"}.
+    - Toi la [Lang]{"entity": "cust_name"}.
+    - Toi la [Lap]{"entity": "cust_name"}.
+    - Toi la [Le]{"entity": "cust_name"}.
+    - Toi la [Liem]{"entity": "cust_name"}.
+    - Toi la [Lien]{"entity": "cust_name"}.
+    - Toi la [Liet]{"entity": "cust_name"}.
+    - Toi la [Lieu]{"entity": "cust_name"}.
+    - Toi la [Linh]{"entity": "cust_name"}.
+    - Toi la [Lo]{"entity": "cust_name"}.
+    - Toi la [Loan]{"entity": "cust_name"}.
+    - Toi la [Loc]{"entity": "cust_name"}.
+    - Toi la [Loi]{"entity": "cust_name"}.
+    - Toi la [Long]{"entity": "cust_name"}.
+    - Toi la [Luan]{"entity": "cust_name"}.
+    - Toi la [Luat]{"entity": "cust_name"}.
+    - Toi la [Luc]{"entity": "cust_name"}.
+    - Toi la [Luong]{"entity": "cust_name"}.
+    - Toi la [Ly]{"entity": "cust_name"}.
+    - Toi la [Mai]{"entity": "cust_name"}.
+    - Toi la [Man]{"entity": "cust_name"}.
+    - Toi la [Manh]{"entity": "cust_name"}.
+    - Toi la [Mi]{"entity": "cust_name"}.
+    - Toi la [Mien]{"entity": "cust_name"}.
+    - Toi la [Minh]{"entity": "cust_name"}.
+    - Toi la [My]{"entity": "cust_name"}.
+    - Toi la [Nam]{"entity": "cust_name"}.
+    - Toi la [Nang]{"entity": "cust_name"}.
+    - Toi la [Nga]{"entity": "cust_name"}.
+    - Toi la [Ngan]{"entity": "cust_name"}.
+    - Toi la [Nghi]{"entity": "cust_name"}.
+    - Toi la [Nghia]{"entity": "cust_name"}.
+    - Toi la [Nghiem]{"entity": "cust_name"}.
+    - Toi la [Nghiep]{"entity": "cust_name"}.
+    - Toi la [Ngoc]{"entity": "cust_name"}.
+    - Toi la [Ngon]{"entity": "cust_name"}.
+    - Toi la [Nguyen]{"entity": "cust_name"}.
+    - Toi la [Nguyet]{"entity": "cust_name"}.
+    - Toi la [Nha]{"entity": "cust_name"}.
+    - Toi la [Nhan]{"entity": "cust_name"}.
+    - Toi la [Nhat]{"entity": "cust_name"}.
+    - Toi la [Nhi]{"entity": "cust_name"}.
+    - Toi la [Nhiem]{"entity": "cust_name"}.
+    - Toi la [Nhien]{"entity": "cust_name"}.
+    - Toi la [Nhon]{"entity": "cust_name"}.
+    - Toi la [Nhu]{"entity": "cust_name"}.
+    - Toi la [Nhuan]{"entity": "cust_name"}.
+    - Toi la [Nhung]{"entity": "cust_name"}.
+    - Toi la [Nhuong]{"entity": "cust_name"}.
+    - Toi la [Ninh]{"entity": "cust_name"}.
+    - Toi la [Nu]{"entity": "cust_name"}.
+    - Toi la [Nuong]{"entity": "cust_name"}.
+    - Toi la [Oanh]{"entity": "cust_name"}.
+    - Toi la [Phap]{"entity": "cust_name"}.
+    - Toi la [Phat]{"entity": "cust_name"}.
+    - Toi la [Phi]{"entity": "cust_name"}.
+    - Toi la [Phong]{"entity": "cust_name"}.
+    - Toi la [Phu]{"entity": "cust_name"}.
+    - Toi la [Phuc]{"entity": "cust_name"}.
+    - Toi la [Phung]{"entity": "cust_name"}.
+    - Toi la [Phuoc]{"entity": "cust_name"}.
+    - Toi la [Phuong]{"entity": "cust_name"}.
+    - Toi la [Quan]{"entity": "cust_name"}.
+    - Toi la [Quang]{"entity": "cust_name"}.
+    - Toi la [Que]{"entity": "cust_name"}.
+    - Toi la [Quoc]{"entity": "cust_name"}.
+    - Toi la [Quy]{"entity": "cust_name"}.
+    - Toi la [Quyen]{"entity": "cust_name"}.
+    - Toi la [Quyet]{"entity": "cust_name"}.
+    - Toi la [Quynh]{"entity": "cust_name"}.
+    - Toi la [Sa]{"entity": "cust_name"}.
+    - Toi la [Sam]{"entity": "cust_name"}.
+    - Toi la [San]{"entity": "cust_name"}.
+    - Toi la [Sang]{"entity": "cust_name"}.
+    - Toi la [Si]{"entity": "cust_name"}.
+    - Toi la [Sieu]{"entity": "cust_name"}.
+    - Toi la [Sinh]{"entity": "cust_name"}.
+    - Toi la [Son]{"entity": "cust_name"}.
+    - Toi la [Su]{"entity": "cust_name"}.
+    - Toi la [Suong]{"entity": "cust_name"}.
+    - Toi la [Sy]{"entity": "cust_name"}.
+    - Toi la [Tai]{"entity": "cust_name"}.
+    - Toi la [Tam]{"entity": "cust_name"}.
+    - Toi la [Tan]{"entity": "cust_name"}.
+    - Toi la [Thac]{"entity": "cust_name"}.
+    - Toi la [Thach]{"entity": "cust_name"}.
+    - Toi la [Thai]{"entity": "cust_name"}.
+    - Toi la [Tham]{"entity": "cust_name"}.
+    - Toi la [Thang]{"entity": "cust_name"}.
+    - Toi la [Thanh]{"entity": "cust_name"}.
+    - Toi la [Thao]{"entity": "cust_name"}.
+    - Toi la [The]{"entity": "cust_name"}.
+    - Toi la [Theu]{"entity": "cust_name"}.
+    - Toi la [Thi]{"entity": "cust_name"}.
+    - Toi la [Thien]{"entity": "cust_name"}.
+    - Toi la [Thinh]{"entity": "cust_name"}.
+    - Toi la [Tho]{"entity": "cust_name"}.
+    - Toi la [Thoa]{"entity": "cust_name"}.
+    - Toi la [Thoai]{"entity": "cust_name"}.
+    - Toi la [Thoi]{"entity": "cust_name"}.
+    - Toi la [Thong]{"entity": "cust_name"}.
+    - Toi la [Thu]{"entity": "cust_name"}.
+    - Toi la [Thuan]{"entity": "cust_name"}.
+    - Toi la [Thuat]{"entity": "cust_name"}.
+    - Toi la [Thuc]{"entity": "cust_name"}.
+    - Toi la [Thuong]{"entity": "cust_name"}.
+    - Toi la [Thuy]{"entity": "cust_name"}.
+    - Toi la [Thuyet]{"entity": "cust_name"}.
+    - Toi la [Thy]{"entity": "cust_name"}.
+    - Toi la [Tien]{"entity": "cust_name"}.
+    - Toi la [Tiep]{"entity": "cust_name"}.
+    - Toi la [Tin]{"entity": "cust_name"}.
+    - Toi la [Tinh]{"entity": "cust_name"}.
+    - Toi la [To]{"entity": "cust_name"}.
+    - Toi la [Toai]{"entity": "cust_name"}.
+    - Toi la [Toan]{"entity": "cust_name"}.
+    - Toi la [Tra]{"entity": "cust_name"}.
+    - Toi la [Trac]{"entity": "cust_name"}.
+    - Toi la [Trach]{"entity": "cust_name"}.
+    - Toi la [Tram]{"entity": "cust_name"}.
+    - Toi la [Tran]{"entity": "cust_name"}.
+    - Toi la [Trang]{"entity": "cust_name"}.
+    - Toi la [Tranh]{"entity": "cust_name"}.
+    - Toi la [Tri]{"entity": "cust_name"}.
+    - Toi la [Triet]{"entity": "cust_name"}.
+    - Toi la [Trieu]{"entity": "cust_name"}.
+    - Toi la [Trinh]{"entity": "cust_name"}.
+    - Toi la [Trong]{"entity": "cust_name"}.
+    - Toi la [Tru]{"entity": "cust_name"}.
+    - Toi la [Truc]{"entity": "cust_name"}.
+    - Toi la [Trung]{"entity": "cust_name"}.
+    - Toi la [Truong]{"entity": "cust_name"}.
+    - Toi la [Tu]{"entity": "cust_name"}.
+    - Toi la [Tuan]{"entity": "cust_name"}.
+    - Toi la [Tue]{"entity": "cust_name"}.
+    - Toi la [Tung]{"entity": "cust_name"}.
+    - Toi la [Tuong]{"entity": "cust_name"}.
+    - Toi la [Tuyen]{"entity": "cust_name"}.
+    - Toi la [Tuyet]{"entity": "cust_name"}.
+    - Toi la [Ty]{"entity": "cust_name"}.
+    - Toi la [Uy]{"entity": "cust_name"}.
+    - Toi la [Uyen]{"entity": "cust_name"}.
+    - Toi la [Van]{"entity": "cust_name"}.
+    - Toi la [Vi]{"entity": "cust_name"}.
+    - Toi la [Vien]{"entity": "cust_name"}.
+    - Toi la [Viet]{"entity": "cust_name"}.
+    - Toi la [Vinh]{"entity": "cust_name"}.
+    - Toi la [Vo]{"entity": "cust_name"}.
+    - Toi la [Vong]{"entity": "cust_name"}.
+    - Toi la [Vu]{"entity": "cust_name"}.
+    - Toi la [Vuong]{"entity": "cust_name"}.
+    - Toi la [Vy]{"entity": "cust_name"}.
+    - Toi la [Xuan]{"entity": "cust_name"}.
+    - Toi la [Xuyen]{"entity": "cust_name"}.
+    - Toi la [Y]{"entity": "cust_name"}.
+    - Toi la [Yen]{"entity": "cust_name"}.
+    - Toi la [xanh]{"entity": "cust_name"}.
     - are you a bot?
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: ask_buy_shoes
+  examples: |
+    - Mình muốn mua giày.
+
+- intent: cust_greet
+  examples: |
+    - Chào bạn, bạn có thể tư vấn giúp mình về một số loại giày được không?
+    - Mình muốn tìm giày phù hợp, không biết shop của bạn bán những loại giày nào nhỉ?
+    - Chào shop, shop tư vấn cho mình về một số loại giày được không?
+    - Bạn tư vấn giúp mình chọn giày với.
+    - Chào shop.
+    - Shop tư vấn giúp mình chọn giày với.
+    - Tôi muốn mua giày phù hợp với bản thân.
+    - Hello shop.
+
+- intent: goodbye
+  examples: |
+    - Cám ơn shop.
+    - Ok, cảm ơn shop.
+    - Cám ơn bạn vì đã giúp đỡ.
+
+- intent: agree_product
+  examples: |
+    - OK.
+    - Tôi chọn mẫu này.
+    - Mẫu này OK đó.
+
+- intent: disagree_product
+  examples: |
+    - Mẫu này xấu.
+    - Tôi không thích mẫu này.
+
+- intent: bot_or_people
+  examples: |
+    - Bạn là bot hay nhân viên của shop vậy?
+    - Bạn là bot trả lời tự động của shop đúng không?
+    - Tôi đang trò chuyện với bot đúng không?
+    - Tôi đang được tư vấn bởi bot đúng không?
+    - Bạn là bot à?
+    - Bạn là bot đúng không?
+    - Mình đang được tư vấn bởi bot đúng không?
+    - Bạn là ai?
+    - Bạn là nhân viên của shop đúng không?
+    - Mình đang nói chuyện với bot hay nhân viên của shop vậy?
+
+- intent: ask_buy_special_shoes
+  examples: |
+    - Tôi muốn mua mẫu Adidas Ultraboot 1.0 size 44 màu đỏ sẫm.
+    - Tôi cần tìm giày Adidas.
+    - Tôi cần tìm giày Adidas.
+    - Tôi cần tìm giày.
+    - Tôi cần tìm mẫu Adidas Ultraboot 1.0.
+    - Tôi cần mẫu giày nam size 42.
+    - Tôi cần tìm đôi giày màu đỏ.
+    - Tôi cần tìm mẫu giày giá từ 1 - 4 triệu.
+
+- intent: ask_name_shop
+  examples: |
+    - Tên shop là gì?
+    - Cho mình biết tên shop được không?
+    - Shop tên gì?
+    - Cho tôi biết tên shop.
+    - Cho tôi hỏi tên shop?
+    - Mình hỏi tên shop với?
+    - Có phải shop tên là The Gioi Giay không?
+    - Shop tên là The Gioi Giay đúng không?
+    - Có thể cho tôi biết tên shop không?
+
+- intent: ask_loai_san_pham
+  examples: |
+    - Shop bán những loại giày nào?
+    - Shop có màu giày gì?
+    - Shop của bạn có bán những loại giày nào?
+    - Shop có nhiều loại giày không?
+    - Bạn nói qua về các mẫu giày của shop giúp mình với?
+    - Cho tôi biết các loại giày mà shop bán?
+    - Các loại giày mà shop bán là gì?
+    - Cho tôi biết các loại giày mà shop kinh doanh.
+    - Shop kinh doanh những sản phẩm nào?
+    - Shop bán những gì?
+
+- intent: ask_diachi_shop
+  examples: |
+    - Shop ở đâu nhỉ?
+    - Địa chỉ shop là gì?
+    - Cho tôi xin địa chỉ shop?
+    - Mình muốn biết vị trí cụ thể của shop?
+    - Shop ở vị trí nào?
+    - Shop nằm ở khu vực nào?
+    - Địa chỉ cụ thể của shop là gì?
+    - Cho mình xin địa chỉ của shop với?
+    - Shop của bạn ở đâu?
+    - Địa chỉ shop ở đâu?
