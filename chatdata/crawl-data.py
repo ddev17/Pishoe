@@ -10,7 +10,7 @@ def getAdidasProduct():
         brands_data = json.load(file)
 
     # Url adidas shoes page
-    url = "https://www.adidas.com.vn/vi/nam-quan_vot-giay"
+    url = "https://www.adidas.com.vn/vi/nam-giay?start=672"
 
     payload = {}
     headers = {

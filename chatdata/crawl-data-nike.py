@@ -5,10 +5,10 @@ from bs4 import BeautifulSoup
 
 def getNikeProduct():
 
-    with open('shoes_test.json', 'r') as file:
+    with open('shoes.json', 'r') as file:
         brands_data = json.load(file)
 
-    url = "https://www.nike.com/vn/w/skateboarding-shoes-8mfrfzy7ok"
+    url = "https://www.nike.com/vn/w/walking-shoes-b3e0kzy7ok"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
         'Accept-Language': 'vi-VN,vi;q=0.9'
@@ -25,7 +25,7 @@ def getNikeProduct():
             url_product = item.select_one('[class*="product-card__link-overlay"]')['href']
             # print(name)
             # print(url_product)
-            time.sleep(5)
+            time.sleep(2)
 
             detailInfo = getDetailNikeProduct(url_product)
             
@@ -56,7 +56,7 @@ def getNikeProduct():
     else:
         print(f"Request failed with status code: {response.status_code}")
 
-    with open('shoes_test.json', 'w') as file:
+    with open('shoes.json', 'w') as file:
         json.dump(brands_data, file, indent=2)
 
 def getDetailNikeProduct(url_product):
