@@ -16,11 +16,13 @@ intents:
   - ask_time_open_close
 
 responses:
+  utter_default:
+   - text: "Toi cung deo bit"
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+   - text: "I am a bot, powered by Rasa."
 
   utter_order_confirm:
-  - text: "Dạ vâng cảm ơn anh đã mua sản phẩm, chúc anh 1 ngày tốt lành"
+    - text: "Dạ vâng cảm ơn anh đã mua sản phẩm, chúc anh 1 ngày tốt lành"
 
   utter_cust_greet:
     - text: "Chao quy khach! Ten quy khach la gi?"
