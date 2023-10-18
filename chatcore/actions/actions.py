@@ -4,6 +4,7 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 
 from actions import utils
+from rasa_sdk.events import SlotSet
 
 
 class ActionRecommendSpecialShoes(Action):
@@ -61,3 +62,18 @@ class ActionRecommendShoes(Action):
             dispatcher.utter_message(
                 text="Dạ hiện tại shop không có sản phẩm nào phù hợp với yêu cầu, anh chị có thể tham khảo 1 số mẫu hot của shop ạ.")
         return []
+    
+class ActionSaveCustName(Action):
+    def name(self) -> Text:
+        return "action_save_cust_name"
+    
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        cust_name = next(tracker.get_latest_entity_values("cust_name"), None)
+        if cust_name == None:
+            dispatcher.utter_message(text = f"Dạ vâng, tôi có thể giúp gì cho bạn.")
+            return [SlotSet("cust_name", "anh/chị")]
+        else:
+            dispatcher.utter_message(text = f"Xin chào {cust_name}, tôi có thể giúp gì cho bạn.")
+        return [SlotSet("cust_name", cust_name)]

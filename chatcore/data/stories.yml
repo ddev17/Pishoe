@@ -20,6 +20,9 @@ stories:
   steps:
   - intent: ask_buy_special_shoes
   - action: action_recommend_special_shoes
+
+- story: cust_agree
+  steps:
   - intent: agree_product
   - action: utter_order_confirm
 
@@ -27,14 +30,38 @@ stories:
   steps:
   - intent: cust_greet
   - action: utter_cust_greet
+
+- story: TH2
+  steps:
   - intent: give_cust_name
-  - action: utter_rep_name
+  - action: action_save_cust_name
+
+- story: TH3
+  steps:
+  - intent: bot_or_people
+  - action: utter_bot_or_people
+
+- story: TH4
+  steps:
   - intent: ask_name_shop
   - action: utter_ask_name_shop
+
+- story: TH5
+  steps:
   - intent: ask_loai_san_pham
   - action: utter_ask_loai_san_pham
+
+- story: TH6
+  steps:
   - intent: ask_diachi_shop
   - action: utter_ask_diachi_shop
+
+- story: TH7
+  steps:
   - intent: ask_time_open_close
   - action: utter_ask_time_open_close
-  - intent: goodbye
+
+- story: TH8
+  steps:
+  - intent: ask_brand_shoe
+  - action: utter_ask_brand_shoe
