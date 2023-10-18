@@ -25,7 +25,7 @@ class ActionRecommendSpecialShoes(Action):
         if size is not None:
             if int(size) < 36 or int(size) > 44:
                 dispatcher.utter_message(
-                    text=f"Dạ sản phẩm ở cửa hàng chỉ còn size 36 - 44, anh chị có muốn đổi qua size khác không ạ?")
+                    text=f"Dạ sản phẩm ở cửa hàng chỉ còn size 36 - 44, anh/ chị có muốn đổi qua size khác không ạ?")
                 return []
 
         price_range = utils.parse_price_from_question(question)
@@ -37,7 +37,11 @@ class ActionRecommendSpecialShoes(Action):
                 image=recommend_shoes_list[0]['image_src'])
         else:
             dispatcher.utter_message(
-                text="Dạ hiện tại shop không có sản phẩm nào phù hợp với yêu cầu, anh chị có thể tham khảo 1 số mẫu hot của shop ạ.")
+                text="Dạ hiện tại shop không có sản phẩm nào phù hợp với yêu cầu, anh chị có thể tham khảo mẫu này đang hot bên shop ạ.")
+            recommend_shoes_list = utils.get_recommend_product(1)
+            dispatcher.utter_message(
+                text=f"Nhãn hiệu: {recommend_shoes_list[0]['brand']}\nSản phẩm: {recommend_shoes_list[0]['name']}\nGiá ưu đãi: {recommend_shoes_list[0]['price']}\n\nMẫu này đang hot, anh chị có muốn đặt hàng không ạ?",
+                image=recommend_shoes_list[0]['image_src'])
         return []
 
 
@@ -59,5 +63,22 @@ class ActionRecommendShoes(Action):
                 image=recommend_shoes_list[0]['image_src'])
         else:
             dispatcher.utter_message(
-                text="Dạ hiện tại shop không có sản phẩm nào phù hợp với yêu cầu, anh chị có thể tham khảo 1 số mẫu hot của shop ạ.")
+                text="Dạ hiện tại shop không có sản phẩm nào phù hợp với yêu cầu, anh chị có thể tham khảo mẫu này đang hot bên shop ạ.")
+            recommend_shoes_list = utils.get_recommend_product(1)
+            dispatcher.utter_message(
+                text=f"Nhãn hiệu: {recommend_shoes_list[0]['brand']}\nSản phẩm: {recommend_shoes_list[0]['name']}\nGiá ưu đãi: {recommend_shoes_list[0]['price']}\n\nMẫu này đang hot, anh chị có muốn đặt hàng không ạ?",
+                image=recommend_shoes_list[0]['image_src'])
+        return []
+
+class ActionSaveInfomationCustomer:
+
+    def name(self) -> Text:
+        return "action_save_info_customer"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        dispatcher.utter_message(
+            text=f"Dạ shop cảm ơn quý khách đã quan tâm sản phẩm, nhân viên của shop sẽ sớm liên hệ, chúc bạn 1 ngày tốt lành")
         return []

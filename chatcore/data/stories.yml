@@ -13,7 +13,14 @@ stories:
   - action: action_recommend_special_shoes
   - intent: disagree_product
   - action: action_recommend_special_shoes
+
+- story: customer ask special shoes agree
+  steps:
+  - intent: ask_buy_special_shoes
+  - action: action_recommend_special_shoes
   - intent: disagree_product
+  - action: action_recommend_special_shoes
+  - intent: provide_brand
   - action: action_recommend_special_shoes
 
 - story: customer ask special shoes
@@ -22,6 +29,8 @@ stories:
   - action: action_recommend_special_shoes
   - intent: agree_product
   - action: utter_order_confirm
+  - intent: provide_personal_info
+  - action: action_save_info_customer
 
 - story: TH1
   steps:

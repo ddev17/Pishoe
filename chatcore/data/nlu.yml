@@ -830,7 +830,6 @@ nlu:
 
 - intent: agree_product
   examples: |
-    - OK.
     - Tôi chọn mẫu này.
     - Mẫu này OK đó.
 
@@ -900,3 +899,14 @@ nlu:
     - Cho mình xin địa chỉ của shop với?
     - Shop của bạn ở đâu?
     - Địa chỉ shop ở đâu?
+
+- intent: provide_personal_info
+  examples: |
+    - Tên của tôi là Nguyễn Văn A số điện thoại 0912186754
+    - Họ và tên: Nguyễn Văn A số điện thoại 0912345344
+
+- intent: provide_brand
+  examples: |
+    - Adidas
+    - Nike
+    - Puma

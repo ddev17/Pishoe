@@ -14,6 +14,8 @@ intents:
   - ask_loai_san_pham
   - ask_diachi_shop
   - ask_time_open_close
+  - provide_brand
+  - provide_personal_info
 
 responses:
   utter_default:
@@ -22,7 +24,7 @@ responses:
    - text: "I am a bot, powered by Rasa."
 
   utter_order_confirm:
-    - text: "Dạ vâng cảm ơn anh đã mua sản phẩm, chúc anh 1 ngày tốt lành"
+    - text: "Dạ quý khách cho shop xin thông tin họ tên và số điện thoại, nhân viên cửa hàng sẽ liên hệ ạ"
 
   utter_cust_greet:
     - text: "Chao quy khach! Ten quy khach la gi?"
@@ -48,7 +50,6 @@ responses:
   utter_ask_time_open_close:
     - text: "Shop mo cua vao tat ca cac ngay trong tuan, buoi sang tu 7:00 den 11:00, buoi chieu tu 14:00 den 20:00."
 
-
 entities:
   - cust_name
 slots:
@@ -62,6 +63,7 @@ actions:
   - action_hello_world
   - action_recommend_shoes
   - action_recommend_special_shoes
+  - action_save_info_customer
 
 session_config:
   session_expiration_time: 60
