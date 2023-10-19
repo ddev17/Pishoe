@@ -5615,11 +5615,9 @@ nlu:
 
 - intent: agree_product
   examples: |
-    - OK.
     - Tôi chọn mẫu này.
     - Mẫu này OK đó.
     - Tôi sẽ chọn sản phẩm này.
-    - Tôi quyết định mua sản phẩm này.
     - Tôi muốn mua sản phẩm này.
     - Tôi sẽ lấy cái này.
     - Tôi rất hài lòng với mẫu này.
@@ -5628,7 +5626,6 @@ nlu:
     - Tôi thích mẫu này.
     - Tôi sẽ mua mẫu này.
     - Tôi muốn đặt mua mẫu này.
-    - Tôi muốn mua cái này.
 
 - intent: disagree_product
   examples: |
@@ -5643,7 +5640,6 @@ nlu:
   examples: |
     - Bạn là bot hay nhân viên của shop vậy?
     - Bạn là bot trả lời tự động của shop đúng không?
-    - Tôi đang trò chuyện với bot đúng không?
     - Tôi đang được tư vấn bởi bot đúng không?
     - Bạn là bot à?
     - Bạn là bot đúng không?
@@ -5651,45 +5647,29 @@ nlu:
     - Bạn là ai?
     - Bạn là nhân viên của shop đúng không?
     - Mình đang nói chuyện với bot hay nhân viên của shop vậy?
-    - Bạn là một con bot, phải không?
-    - Người trò chuyện với tôi là một con bot đúng không?
     - Bạn là bot trả lời tự động à?
     - Bạn là nhân viên của hàng đúng không?
-    - Bạn có phải là nhân viên cửa hàng không?
-    - Bạn có phải nhân viên của shop không?
 
 - intent: ask_buy_special_shoes
   examples: |
     - Tôi muốn mua mẫu Adidas Ultraboot 1.0 size 44 màu đỏ sẫm.
     - Tôi cần tìm giày Adidas.
-    - Tôi cần tìm giày Nikke.
-    - Tôi cần tìm giày Puma.
     - Tôi cần tìm giày.
     - Tôi cần tìm mẫu Adidas Ultraboot 1.0.
     - Tôi cần mẫu giày nam size 42.
     - Tôi cần tìm đôi giày màu đỏ.
-    - Tôi cần tìm mẫu giày giá từ 1 - 4 triệu.
-    - Tôi muốn mua giày của Adidas.
-    - Tôi muốn mua giày của Nikke.
-    - Tôi muốn mua giày của Puma.
 
 - intent: ask_name_shop
   examples: |
     - Tên shop là gì?
     - Cho mình biết tên shop được không?
     - Shop tên gì?
-    - Cho tôi biết tên shop.
-    - Cho tôi hỏi tên shop?
     - Mình hỏi tên shop với?
-    - Có phải shop tên là The Gioi Giay không?
-    - Shop tên là The Gioi Giay đúng không?
-    - Có thể cho tôi biết tên shop không?
-    - Bạn cho tôi biết tên của shop là gì?
+    - Có phải shop tên là Pishoe không?
+    - Shop tên là Pishoe đúng không?
     - Shop này có tên gì vậy?
     - Cho mình hỏi tên cửa hàng của bạn là gì?
     - Tên shop của bạn là gì?
-    - Bạn có thể nói cho tôi biết tên cửa hàng không?
-    - Cho mình biết tên của cửa hàng này được không?
 
 - intent: ask_loai_san_pham
   examples: |
@@ -5704,15 +5684,6 @@ nlu:
     - Cho tôi biết các loại giày mà shop kinh doanh.
     - Shop kinh doanh những sản phẩm nào?
     - Shop bán những gì?
-    - Cho tôi biết các loại giày mà shop bán?
-    - Shop bán các mẫu giày gì?
-    - Những mặt hàng mà shop bán là gì?
-    - Các loại sản phẩm có sẵn tại shop là gì?
-    - Bạn có thể cho tôi biết danh sách các mặt hàng mà shop bán không?
-    - Shop kinh doanh những loại giày nào?
-    - Shop có bán giày thể thao không?
-    - Shop có bán giày đế cao không?
-    - Mình muốn biết về các loại giày mà shop có.
 
 - intent: ask_diachi_shop
   examples: |
@@ -5721,17 +5692,11 @@ nlu:
     - Cho tôi xin địa chỉ shop?
     - Mình muốn biết vị trí cụ thể của shop?
     - Shop ở vị trí nào?
-    - Shop nằm ở khu vực nào?
     - Địa chỉ cụ thể của shop là gì?
     - Cho mình xin địa chỉ của shop với?
     - Shop của bạn ở đâu?
     - Địa chỉ shop ở đâu?
-    - Cho tôi biết địa chỉ của shop?
     - Shop nằm ở đâu?
-    - Xin vui lòng cung cấp địa chỉ của shop.
-    - Tôi muốn biết địa chỉ cụ thể của shop.
-    - Cho mình biết shop ở đâu với.
-    - Cho mình biết địa chỉ của shop với.
     - Cho mình xin thông tin về địa chỉ của shop.
 - intent: ask_time_open_close
   examples: |
@@ -5741,27 +5706,16 @@ nlu:
     - Khi nào là thời gian bắt đầu hoạt động của shop?
     - Shop đóng cửa vào mấy giờ?
     - Shop mở cửa vào các ngày lễ không?
-    - Thời gian mở cửa vào các ngày cuối tuần có khác biệt không?
     - Shop có mở cửa vào các ngày nghỉ lễ không?
-    - Thời gian mở cửa vào các ngày thường có khác biệt so với cuối tuần không?
-    - Có thời gian mở cửa sớm vào các ngày đặc biệt không?
-    - Thời gian đóng cửa cuối tuần khác biệt so với các ngày khác không?
-    - Một tuần có bao nhiêu ngày cửa hàng mở cửa?
 
 - intent: ask_brand_shoe
   examples: |
-    - Shop có bán giày của nikke không?
+    - Shop có bán giày của nike không?
     - Shop có bán giày của puma không?
-    - Shop có bán giày của adidas không?
     - Shop bán giày của những hãng nào?
     - Hiện tại, shop kinh doanh giày của những hãng nào?
-    - Shop bên mình có bán giày của nikke không nhỉ?
-    - Shop bên mình có bán giày của adidas không nhỉ?
-    - Shop bên mình có bán giày của puma không nhỉ?
+    - Shop bên mình có bán giày của nike không nhỉ?
     - Bên mình có bán giày của adidas không nhỉ?
-    - Bên mình có bán giày của nikke không nhỉ?
-    - Bên mình có bán giày của puma không nhỉ?
+    - Bên mình có bán giày của nike không nhỉ?
     - Shop kinh doanh giày của những hãng nào?
-    - Cho tôi biết các hãng giày mà shop bán.
-    - Tôi muốn biết các hãng giày mà shop kinh doanh.
     - Cho mình biết các hãng giày mà shop bán với.

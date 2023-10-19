@@ -23,13 +23,13 @@ responses:
   - text: "Chào quý khách! Tên quý khách là gì?"
 
   utter_ask_name_shop:
-  - text: "Shop tên là The Gioi Giay."
+  - text: "Shop tên là Pishoe."
 
   utter_bot_or_people:
   - text: "Tôi là bot trả lời tự động của shop."
  
   utter_ask_loai_san_pham:
-  - text: "Shop kinh doanh nhiều loại giày như: giày thể thao, giày lười, giày ống, giày bệt, giày đế cao,..."
+  - text: "Shop kinh doanh các loại giày, dép thể thao."
  
   utter_ask_diachi_shop:
   - text: "Địa chỉ của shop là số 19, Trần Phú, Hà Đông, Hà Nội."
@@ -41,7 +41,6 @@ responses:
   - text: "Hiện tại shop kinh doanh các mặt hàng của Nikke, Adidas, Puma."
 entities:
   - cust_name
-  - brand_shoe
 slots:
   cust_name:
     type: text
