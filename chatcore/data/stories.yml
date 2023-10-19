@@ -31,9 +31,8 @@ stories:
 - story: cust_agree
   steps:
   - intent: agree_product
-  - action: utter_order_confirm
-  - intent: provide_personal_info
-  - action: action_save_info_customer
+  - action: order_info_form
+  - active_loop: order_info_form
 
 - story: TH1
   steps:
@@ -74,3 +73,8 @@ stories:
   steps:
   - intent: ask_brand_shoe
   - action: utter_ask_brand_shoe
+
+- story: TH9
+  steps:
+    - intent: ask_product_sale
+    - action: utter_ask_product_sale

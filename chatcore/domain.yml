@@ -15,8 +15,11 @@ intents:
   - provide_brand
   - provide_personal_info
   - ask_brand_shoe
+  - ask_product_sale
 
 responses:
+  utter_default:
+    - text: "Tôi không hiểu câu hỏi của bạn. Bạn có thể nói rõ nghĩa hơn không?"
 
   utter_order_confirm:
     - text: "Dạ quý khách cho shop xin thông tin họ tên và số điện thoại, nhân viên cửa hàng sẽ liên hệ ạ"
@@ -41,20 +44,41 @@ responses:
 
   utter_ask_brand_shoe:
   - text: "Hiện tại shop kinh doanh các mặt hàng của Nikke, Adidas, Puma."
+
+  utter_ask_cust_name:
+    - text: "Dạ bạn cho shop xin tên của mình với ạ"
+
+  utter_ask_phone_number:
+    - text: "Dạ bạn cho shop xin số điện thoại của mình với ạ"
+
+  utter_ask_product_sale:
+    - text: "Dạ shop đang có chương trình giảm giá toàn bộ cửa hàng, giảm trực tiếp giá vào sản phẩm, bạn quan tâm tới sản phẩm nào ạ?"
 entities:
   - cust_name
+  - phone_number
 slots:
   cust_name:
     type: text
     mappings:
       - type: from_entity
         entity: cust_name
+  phone_number:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: phone_number
+forms:
+  order_info_form:
+    required_slots:
+      - cust_name
+      - phone_number
 
 actions:
   - action_recommend_shoes
   - action_recommend_special_shoes
   - action_save_cust_name
   - action_save_info_customer
+  - validate_order_info_form
 
 session_config:
   session_expiration_time: 60

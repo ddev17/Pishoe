@@ -5654,10 +5654,16 @@ nlu:
   examples: |
     - Tôi muốn mua mẫu Adidas Ultraboot 1.0 size 44 màu đỏ sẫm.
     - Tôi cần tìm giày Adidas.
-    - Tôi cần tìm giày.
+    - Toi can tim giay Adidas
+    - Toi can mua giay Nike
+    - Toi can mua giay Puma
     - Tôi cần tìm mẫu Adidas Ultraboot 1.0.
     - Tôi cần mẫu giày nam size 42.
     - Tôi cần tìm đôi giày màu đỏ.
+    - Tôi cần mua giày giá từ 1 triệu đến 5 triệu
+    - Shop có mẫu giày Adidas Ultraboot 1.0 không?
+    - Shop có mẫu giày Adidas size 42 không?
+    - Shop có mẫu giày nike không?
 
 - intent: ask_name_shop
   examples: |
@@ -5681,7 +5687,6 @@ nlu:
     - Bạn nói qua về các mẫu giày của shop giúp mình với?
     - Cho tôi biết các loại giày mà shop bán?
     - Các loại giày mà shop bán là gì?
-    - Cho tôi biết các loại giày mà shop kinh doanh.
     - Shop kinh doanh những sản phẩm nào?
     - Shop bán những gì?
 
@@ -5719,6 +5724,14 @@ nlu:
     - Bên mình có bán giày của nike không nhỉ?
     - Shop kinh doanh giày của những hãng nào?
     - Cho mình biết các hãng giày mà shop bán với.
+
+- intent: ask_product_sale
+  examples: |
+    - Shop có chương trình giảm giá không
+
+- intent: provide_phone_number
+  examples: |
+    - Sdt của tôi là [0123456789]{"entity": "phone_number"}
 
 - intent: provide_personal_info
   examples: |
