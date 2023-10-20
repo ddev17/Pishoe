@@ -800,7 +800,7 @@ blockquote .quote-icon {
 */
 .scrollToTop {
   position: fixed;
-  bottom: 0;
+  bottom: 0px;
   right: 30px;
   width: 45px;
   height: 45px;
@@ -820,13 +820,13 @@ blockquote .quote-icon {
 }
 
 .scrollToTop.active {
-  bottom: 30px;
+  bottom: 93px;
   -webkit-transform: translateY(0%);
           transform: translateY(0%);
 }
 @media only screen and (max-width: 1270px) {
   .scrollToTop.active {
-    bottom: 80px;
+    bottom: 90px;
   }
 }
 
