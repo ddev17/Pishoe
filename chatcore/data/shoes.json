@@ -1,0 +1,813 @@
+[
+  {
+    "brand": "Adidas",
+    "products": [
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f2485beca4334517a377dd8e62fb89e8_9366/gi\u00e0y-byw-select.jpg",
+        "name": "Gi\u00e0y BYW Select",
+        "source": "/vi/gi\u00e0y-byw-select/IE9307.html",
+        "description": "Bay nh\u1ea3y su\u1ed1t tr\u1eadn \u0111\u1ea5u. \u0110\u00f4i gi\u00e0y b\u00f3ng r\u1ed5 adidas n\u00e0y c\u00f3 l\u1edbp \u0111\u1ec7m Lightstrike gi\u00fap b\u1ea1n lu\u00f4n tho\u1ea3i m\u00e1i m\u00e0 kh\u00f4ng g\u00e2y c\u1ea3m gi\u00e1c n\u1eb7ng n\u1ec1. L\u1edbp \u0111\u1ec7m BOOST ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng tr\u00ean t\u1eebng s\u1ea3i b\u01b0\u1edbc, gi\u1eef cho b\u1ea1n lu\u00f4n sung s\u1ee9c \u0111\u1ec3 \u1edf ghi \u0111i\u1ec3m th\u1eddi kh\u1eafc then ch\u1ed1t.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp \u0111\u1ec7m Lightstrike",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su"
+        ],
+        "price": "3.800.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e34d8720c445465ba4100376d22cbec8_9366/superstar.jpg",
+        "name": "SUPERSTAR",
+        "source": "/vi/superstar/IE9856.html",
+        "description": {},
+        "detail_information": {},
+        "price": "3.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/bc6abc2a1142420fa3729d400ceb163e_9366/superstar.jpg",
+        "name": "SUPERSTAR",
+        "source": "/vi/superstar/IF7913.html",
+        "description": {},
+        "detail_information": {},
+        "price": "2.600.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/52bd81189363483c999a58c603378fb7_9366/gi\u00e0y-trae-unlimited.jpg",
+        "name": "Gi\u00e0y Trae Unlimited",
+        "source": "/vi/gi\u00e0y-trae-unlimited/IF5611.html",
+        "description": "Trae Young c\u00f3 l\u1ed1i ch\u01a1i c\u1ee7a ri\u00eang m\u00ecnh. \u0110\u00f4i gi\u00e0y b\u00f3ng r\u1ed5 adidas signature c\u1ee7a anh c\u00f3 thi\u1ebft k\u1ebf c\u1ed5 th\u1ea5p v\u00e0 \u0111\u1ebf gi\u1eefa Bounce linh ho\u1ea1t theo m\u1ecdi chuy\u1ec3n \u0111\u1ed9ng c\u1ee7a b\u1ea1n. 3 S\u1ecdc classic nay kho\u00e1c l\u00ean m\u00ecnh thi\u1ebft k\u1ebf r\u0103ng c\u01b0a s\u1ea7n, ch\u1ea1y t\u1eeb m\u0169i gi\u00e0y \u0111\u1ebfn ph\u1ea7n gi\u1eefa b\u00e0n ch\u00e2n. \u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su v\u1edbi c\u00e1c v\u00f9ng b\u00e1m hai b\u00ean t\u1ea1o \u0111\u1ed9 ma s\u00e1t khi b\u1ea1n \u0111\u1ed5i h\u01b0\u1edbng ho\u1eb7c b\u1ee9t t\u1ed1c v\u1ec1 ph\u00eda r\u1ed5.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi monomesh",
+          "C\u1ea3m gi\u00e1c si\u00eau nh\u1eb9",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf gi\u1eefa Bounce",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su v\u1edbi hoa v\u0103n x\u01b0\u01a1ng c\u00e1 c\u1ea3i ti\u1ebfn"
+        ],
+        "price": "2.300.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/951a1fe7298b4a5e95b26b73c0b3243a_9366/gi\u00e0y-ultraboost-1.0.jpg",
+        "name": "Gi\u00e0y Ultraboost 1.0",
+        "source": "/vi/gi\u00e0y-ultraboost-1.0/IF5258.html",
+        "description": "Th\u1ed5i b\u00f9ng n\u0103ng l\u01b0\u1ee3ng ng\u00e0y m\u1edbi v\u1edbi \u0111\u00f4i gi\u00e0y adidas Ultraboost 1.0. B\u1ea5t k\u1ec3 l\u1ecbch tr\u00ecnh v\u00e0 \u0111i\u1ec3m \u0111\u1ebfn, b\u1ea1n s\u1ebd lu\u00f4n c\u00f3 \u0111\u01b0\u1ee3c ngu\u1ed3n n\u0103ng l\u01b0\u1ee3ng b\u1ea5t t\u1eadn \u0111\u1ebfn t\u1eeb \u0111\u1ebf gi\u1eefa BOOST. Th\u00e2n gi\u00e0y adidas PRIMEKNIT th\u00edch \u1ee9ng theo b\u00e0n ch\u00e2n khi b\u1ea1n chinh ph\u1ee5c c\u00e1c th\u00e1ch th\u1ee9c trong ng\u00e0y, c\u00f9ng \u0111\u1ebf ngo\u00e0i b\u1eb1ng cao su b\u00e1m t\u1ed1t tr\u00ean v\u1ec9a h\u00e8 v\u00e0 l\u1ec1 \u0111\u01b0\u1eddng. Kh\u00f4ng c\u00f3 g\u00ec ngo\u00e0i phong c\u00e1ch. \u0110\u00f4i gi\u00e0y n\u00e0y l\u00e0 m\u1ed9t bi\u1ec3u t\u01b0\u1ee3ng.\n\nTh\u00e2n gi\u00e0y l\u00e0m t\u1eeb lo\u1ea1i s\u1ee3i hi\u1ec7u n\u0103ng cao c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic \u2014 r\u00e1c th\u1ea3i nh\u1ef1a t\u00e1i ch\u1ebf thu gom t\u1eeb c\u00e1c v\u00f9ng \u0111\u1ea3o xa, b\u00e3i bi\u1ec3n, khu d\u00e2n c\u01b0 ven bi\u1ec3n v\u00e0 \u0111\u01b0\u1eddng b\u1edd bi\u1ec3n, nh\u1eb1m ng\u0103n ch\u1eb7n \u00f4 nhi\u1ec5m \u0111\u1ea1i d\u01b0\u01a1ng. 50% th\u00e0nh ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a s\u1ee3i l\u00e0 polyester t\u00e1i ch\u1ebf.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t adidas PRIMEKNIT",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "Torsion System",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y l\u00e0m t\u1eeb s\u1ee3i d\u1ec7t c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic v\u00e0 50% polyester t\u00e1i ch\u1ebf"
+        ],
+        "price": "4.500.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0206fd4e0060427d9c7408877a3e4c76_9366/gi\u00e0y-trae-unlimited.jpg",
+        "name": "Gi\u00e0y Trae Unlimited",
+        "source": "/vi/gi\u00e0y-trae-unlimited/IF5610.html",
+        "description": "Trae Young c\u00f3 l\u1ed1i ch\u01a1i c\u1ee7a ri\u00eang m\u00ecnh. \u0110\u00f4i gi\u00e0y b\u00f3ng r\u1ed5 adidas signature c\u1ee7a anh c\u00f3 thi\u1ebft k\u1ebf c\u1ed5 th\u1ea5p v\u00e0 \u0111\u1ebf gi\u1eefa Bounce linh ho\u1ea1t theo m\u1ecdi chuy\u1ec3n \u0111\u1ed9ng c\u1ee7a b\u1ea1n. 3 S\u1ecdc classic nay kho\u00e1c l\u00ean m\u00ecnh thi\u1ebft k\u1ebf r\u0103ng c\u01b0a s\u1ea7n, ch\u1ea1y t\u1eeb m\u0169i gi\u00e0y \u0111\u1ebfn ph\u1ea7n gi\u1eefa b\u00e0n ch\u00e2n. \u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su v\u1edbi c\u00e1c v\u00f9ng b\u00e1m hai b\u00ean t\u1ea1o \u0111\u1ed9 ma s\u00e1t khi b\u1ea1n \u0111\u1ed5i h\u01b0\u1edbng ho\u1eb7c b\u1ee9t t\u1ed1c v\u1ec1 ph\u00eda r\u1ed5.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi monomesh",
+          "C\u1ea3m gi\u00e1c si\u00eau nh\u1eb9",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf gi\u1eefa Bounce",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su v\u1edbi hoa v\u0103n x\u01b0\u01a1ng c\u00e1 c\u1ea3i ti\u1ebfn"
+        ],
+        "price": "2.300.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/99f6490b3d4d4df19699d8733060ff01_9366/gi\u00e0y-trae-young-3.jpg",
+        "name": "Gi\u00e0y Trae Young 3",
+        "source": "/vi/gi\u00e0y-trae-young-3/IF5602.html",
+        "description": "S\u1eb5n s\u00e0ng cho nh\u1eefng g\u00ec ph\u00eda tr\u01b0\u1edbc. Phi\u00ean b\u1ea3n m\u1edbi n\u00e0y c\u1ee7a m\u1eabu gi\u00e0y trainer signature \u0111\u1ebfn t\u1eeb Trae Young v\u00e0 adidas Basketball h\u01b0\u1edbng t\u1edbi t\u01b0\u01a1ng lai c\u1ee7a b\u00f3ng r\u1ed5. T\u00f4n vinh v\u1ebb ngo\u00e0i \u0111\u1ed9c \u0111\u00e1o, phong th\u00e1i hi\u00ean ngang c\u00f9ng l\u1ed1i ch\u01a1i c\u00e1 t\u00ednh v\u00e0 \u0111\u1eadm ch\u1ea5t t\u01b0\u01a1ng lai c\u1ee7a Trae, \u0111\u00f4i gi\u00e0y n\u00e0y cho kh\u1ea3 n\u0103ng chuy\u1ec3n \u0111\u1ed9ng v\u00e0 \u0111\u1ed9 \u1ed5n \u0111\u1ecbnh t\u1ed1i \u01b0u, hai y\u1ebfu t\u1ed1 trong l\u1ed1i ch\u01a1i c\u1ee7a Trae \u0111\u00e3 gi\u00fap anh v\u01b0\u01a1n t\u1ea7m si\u00eau sao. L\u1edbp \u0111\u1ec7m Composite Foam \u1edf \u0111\u1ebf gi\u1eefa \u0111\u1ea3m b\u1ea3o r\u1eb1ng nh\u1eefng chuy\u1ec3n \u0111\u1ed9ng b\u00f9ng n\u1ed5 nh\u1ea5t \u0111\u1ec1u \u0111\u1ea1t \u0111\u01b0\u1ee3c t\u1ed1c \u0111\u1ed9 t\u1ed1i \u0111a, \u0111\u1ed3ng th\u1eddi h\u1ec7 th\u1ed1ng Torsion System l\u1ec7ch v\u1ec1 m\u1ed9t b\u00ean h\u1ed7 tr\u1ee3 nh\u1eefng c\u00fa c\u1eaft b\u00f3ng kh\u00f3 nh\u1eb1n. Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi c\u00f3 c\u00e1c v\u00f9ng k\u1ef9 thu\u1eadt \u0111\u01b0\u1ee3c b\u1ed1 tr\u00ed th\u00f4ng minh nh\u1eb1m t\u0103ng c\u01b0\u1eddng tho\u00e1ng kh\u00ed t\u1ed1i \u0111a \u0111\u1ec3 b\u1ea1n c\u00f3 th\u1ec3 b\u1ee9t t\u1ed1c su\u1ed1t b\u1ed1n hi\u1ec7p, h\u1ec7t nh\u01b0 Trae.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "Torsion System",
+          "\u0110\u1ebf gi\u1eefa Composite Foam",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su"
+        ],
+        "price": "3.800.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1b4d20d268244707a28a27bc8235d7ad_9366/gi\u00e0y-hiking-terrex-free-hiker-2.0-low-gtx.jpg",
+        "name": "Gi\u00e0y Hiking Terrex Free Hiker 2.0 Low GTX",
+        "source": "/vi/gi\u00e0y-hiking-terrex-free-hiker-2.0-low-gtx/IE7652.html",
+        "description": "B\u1ea5t k\u1ec3 b\u1ea1n \u0111i hiking trong ng\u00e0y hay trekking d\u00e0i ng\u00e0y, m\u1eabu Gi\u00e0y Hiking adidas Terrex Free Hiker 2.0 Low GORE-TEX n\u00e0y s\u1ebd gi\u00fap b\u1ea1n t\u1eadn h\u01b0\u1edfng t\u1eebng kho\u1ea3nh kh\u1eafc tr\u00ean su\u1ed1t h\u00e0nh tr\u00ecnh. \n\nK\u1ebft h\u1ee3p c\u1ea3m gi\u00e1c si\u00eau nh\u1eb9 c\u1ee7a gi\u00e0y ch\u1ea1y trail v\u1edbi \u0111\u1ed9 \u1ed5n \u0111\u1ecbnh c\u1ee7a gi\u00e0y hiking, \u0111\u00e2y ch\u00ednh l\u00e0 tr\u1ee3 th\u1ee7 l\u00fd t\u01b0\u1edfng c\u1ee7a b\u1ea1n tr\u00ean nh\u1eefng cung \u0111\u01b0\u1eddng hiking b\u1ea5t k\u1ec3 xa g\u1ea7n. L\u1edbp m\u00e0ng GORE-TEX tho\u00e1ng kh\u00ed v\u00e0 ch\u1ed1ng th\u1ea5m n\u01b0\u1edbc gi\u00fap \u0111\u00f4i ch\u00e2n b\u1ea1n lu\u00f4n kh\u00f4 r\u00e1o tr\u00ean nh\u1eefng cung \u0111\u01b0\u1eddng ng\u1eadp n\u01b0\u1edbc, c\u00f9ng khung EVA cho s\u1ea3i b\u01b0\u1edbc \u1ed5n \u0111\u1ecbnh tr\u00ean \u0111\u1ecba h\u00ecnh \u0111\u00e1 s\u1ecfi g\u1ed3 gh\u1ec1. B\u1ea5t k\u1ec3 b\u1ea1n \u0111i b\u1ed9 bao xa \u0111\u1ec3 kh\u00e1m ph\u00e1 thi\u00ean nhi\u00ean h\u00f9ng v\u0129, \u0111\u1ec7m \u0111\u1ebf gi\u1eefa BOOST ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng s\u1ebd mang l\u1ea1i c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i su\u1ed1t ng\u00e0y d\u00e0i.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi ch\u1ed1ng m\u00e0i m\u00f2n v\u1edbi c\u00e1c chi ti\u1ebft ph\u1ee7 ngo\u00e0i kh\u00f4ng \u0111\u01b0\u1eddng may v\u00e0 l\u1edbp m\u00e0ng GORE-TEX",
+          "Khung \u1ed5n \u0111\u1ecbnh b\u1eb1ng ch\u1ea5t li\u1ec7u EVA",
+          "K\u1eb9p g\u00f3t gi\u00e0y b\u00ean ngo\u00e0i",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "\u0110\u1ebf ngo\u00e0i Continental\u2122 Rubber"
+        ],
+        "price": "4.500.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a5f46d840c2946a1bab37dbeee3d2957_9366/gi\u00e0y-ch\u1ea1y-trail-terrex-agravic-flow-2.0.jpg",
+        "name": "Gi\u00e0y Ch\u1ea1y Trail Terrex Agravic Flow 2.0",
+        "source": "/vi/gi\u00e0y-ch\u1ea1y-trail-terrex-agravic-flow-2.0/IF2571.html",
+        "description": "\u0110\u00f4i gi\u00e0y ch\u1ea1y \u0111\u1ecba h\u00ecnh adidas n\u00e0y \u0111\u00e1p \u1ee9ng \u0111\u01b0\u1ee3c m\u1ecdi nhu c\u1ea7u. Ch\u1ec9 c\u1ea7n b\u1ea1n ch\u1ecdn \u0111\u01b0\u1ee3c \u0111\u1ecba h\u00ecnh. Si\u00eau nh\u1eb9 v\u00e0 tho\u1ea3i m\u00e1i, \u0111\u1ebf gi\u1eefa c\u00f3 \u0111\u1ed9 \u0111\u00e0n h\u1ed3i cao mang \u0111\u1ebfn c\u1ea3m gi\u00e1c \u00eam \u00e1i v\u00e0 m\u01b0\u1ee3t m\u00e0 khi xu\u1ed1ng \u0111\u01b0\u1eddng d\u1ed1c m\u00f2n. \u0110\u1ebf Continental\u2122 Rubber cho \u0111\u1ed9 ma s\u00e1t tuy\u1ec7t v\u1eddi tr\u00ean \u0111\u1ecba h\u00ecnh g\u1ed3 gh\u1ec1, \u1ea9m \u01b0\u1edbt ho\u1eb7c kh\u00f4 r\u00e1o, c\u00f9ng t\u1ea5m b\u1ea3o v\u1ec7 ch\u1ed1ng \u0111\u00e1 s\u1ecfi \u1edf \u0111\u1ebf gi\u1eefa gi\u00fap \u0111\u00f4i gi\u00e0y n\u00e0y th\u00e0nh l\u1ef1a ch\u1ecdn h\u00e0ng \u0111\u1ea7u tr\u00ean nh\u1eefng \u0111\u01b0\u1eddng trail k\u1ef9 thu\u1eadt.\n\nTh\u00e2n gi\u00e0y l\u00e0m t\u1eeb lo\u1ea1i s\u1ee3i hi\u1ec7u n\u0103ng cao c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic \u2014 r\u00e1c th\u1ea3i nh\u1ef1a t\u00e1i ch\u1ebf thu gom t\u1eeb c\u00e1c v\u00f9ng \u0111\u1ea3o xa, b\u00e3i bi\u1ec3n, khu d\u00e2n c\u01b0 ven bi\u1ec3n v\u00e0 \u0111\u01b0\u1eddng b\u1edd bi\u1ec3n, nh\u1eb1m ng\u0103n ch\u1eb7n \u00f4 nhi\u1ec5m \u0111\u1ea1i d\u01b0\u01a1ng. 50% th\u00e0nh ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a s\u1ee3i d\u1ec7t l\u00e0 polyester t\u00e1i ch\u1ebf.",
+        "detail_information": [
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi v\u1edbi c\u00e1c chi ti\u1ebft ph\u1ee7 ngo\u00e0i li\u1ec1n m\u1ea1ch",
+          "Ch\u1ed1ng m\u00e0i m\u00f2n",
+          "L\u1edbp \u0111\u1ec7m Lightstrike",
+          "H\u1ec7 th\u1ed1ng Promoderator \u0111i\u1ec1u ch\u1ec9nh \u0111\u1ed9 \u1ed5n \u0111\u1ecbnh",
+          "\u0110\u1ebf ngo\u00e0i Continental\u2122 Rubber",
+          "Th\u00e2n gi\u00e0y l\u00e0m t\u1eeb s\u1ee3i d\u1ec7t c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic v\u00e0 50% polyester t\u00e1i ch\u1ebf"
+        ],
+        "price": "3.500.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4aa6717498364d17b738af8e00198683_9366/gi\u00e0y-golf-\u0111inh-li\u1ec1n-adicross-gtx.jpg",
+        "name": "Gi\u00e0y Golf \u0110inh Li\u1ec1n Adicross GTX",
+        "source": "/vi/gi\u00e0y-golf-\u0111inh-li\u1ec1n-adicross-gtx/GW2120.html",
+        "description": "S\u1ea3i b\u01b0\u1edbc tr\u00ean s\u00e2n v\u1edbi \u0111\u00f4i ch\u00e2n kh\u00f4 r\u00e1o. D\u00e0nh cho nh\u1eefng golf th\u1ee7 \u01b0a phi\u00eau l\u01b0u v\u00e0 th\u1eddi ti\u1ebft \u1ea9m \u01b0\u1edbt, \u0111\u00f4i Gi\u00e0y Golf \u0110inh Li\u1ec1n Adicross GTX s\u1ebd k\u00e9o d\u00e0i m\u00f9a ch\u01a1i golf c\u1ee7a b\u1ea1n b\u1ea5t ch\u1ea5p ti\u1ebft tr\u1eddi se l\u1ea1nh v\u00e0 \u1ea9m \u01b0\u1edbt. Thi\u1ebft k\u1ebf \u0111\u1eadm ch\u1ea5t hiking th\u00e1ch th\u1ee9c phong c\u00e1ch golf truy\u1ec1n th\u1ed1ng, c\u00f9ng kh\u1ea3 n\u0103ng ch\u1ed1ng ch\u1ecbu th\u1eddi ti\u1ebft \u0111\u00e3 \u0111\u01b0\u1ee3c ki\u1ec3m ch\u1ee9ng cho ph\u00e9p b\u1ea1n ch\u01a1i golf d\u00f9 th\u1eddi ti\u1ebft th\u1ea5t th\u01b0\u1eddng. L\u1edbp m\u00e0ng GORE-TEX tho\u00e1ng kh\u00ed v\u00e0 ch\u1ed1ng th\u1ea5m n\u01b0\u1edbc c\u00f9ng thi\u1ebft k\u1ebf c\u1ed5 trung gi\u00fap ch\u1eb7n \u0111\u1ee9ng \u1ea9m \u01b0\u1edbt. \u0110\u1ebf ngo\u00e0i \u0111inh li\u1ec1n b\u1eb1ng cao su Gripmore\u00ae b\u00e1m ch\u1eafc khi b\u1ea1n xoay ng\u01b0\u1eddi th\u1ef1c hi\u1ec7n nh\u1eefng c\u00fa long drive, v\u00e0 c\u0169ng ph\u00f9 h\u1ee3p c\u1ea3 khi b\u1ea1n r\u1eddi s\u00e2n. L\u1edbp \u0111\u1ec7m adidas BOOST cho kh\u1ea3 n\u0103ng ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng b\u1ec1n b\u1ec9 v\u00e0 mang l\u1ea1i c\u1ea3m gi\u00e1c tuy\u1ec7t v\u1eddi su\u1ed1t c\u1ea3 ng\u00e0y. \n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p v\u1edbi l\u1edbp m\u00e0ng GORE-TEX",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "RAIN.RDY",
+          "C\u1ed5 l\u1eedng",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su Gripmore\u00ae",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "5.600.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2e35f54b5d9c4cee968caf8d0188879a_9366/gi\u00e0y-golf-\u0111inh-li\u1ec1n-adicross-low.jpg",
+        "name": "Gi\u00e0y Golf \u0110inh Li\u1ec1n Adicross Low",
+        "source": "/vi/gi\u00e0y-golf-\u0111inh-li\u1ec1n-adicross-low/GW2118.html",
+        "description": "M\u1edf r\u1ed9ng ph\u1ea1m vi \u1edf c\u1ea3 trong v\u00e0 ngo\u00e0i s\u00e2n golf. D\u00e0nh cho c\u00e1c golf th\u1ee7 gan g\u00f3c, m\u1eabu Gi\u00e0y Golf \u0110inh Li\u1ec1n Adicross Low c\u00f3 thi\u1ebft k\u1ebf \u0111\u1eadm ch\u1ea5t hiking, th\u00e1ch th\u1ee9c phong c\u00e1ch golf truy\u1ec1n th\u1ed1ng v\u00e0 ph\u00f9 h\u1ee3p c\u1ea3 \u1edf ti\u1ec7c n\u01b0\u1edbng BBQ c\u0169ng nh\u01b0 tr\u00ean green. \u0110\u1ebf ngo\u00e0i \u0111inh li\u1ec1n b\u1eb1ng cao su Gripmore\u00ae b\u00e1m ch\u1eafc khi b\u1ea1n xoay ng\u01b0\u1eddi th\u1ef1c hi\u1ec7n nh\u1eefng c\u00fa long drive, \u0111\u1ed3ng th\u1eddi c\u0169ng ph\u00f9 h\u1ee3p khi b\u1ea1n r\u1eddi s\u00e2n. L\u1edbp \u0111\u1ec7m adidas BOOST cho kh\u1ea3 n\u0103ng ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng b\u1ec1n b\u1ec9 khi s\u1ea3i b\u01b0\u1edbc tr\u00ean fairway v\u00e0 mang l\u1ea1i c\u1ea3m gi\u00e1c tuy\u1ec7t v\u1eddi su\u1ed1t c\u1ea3 ng\u00e0y. \n\nTh\u00e2n gi\u00e0y l\u00e0m t\u1eeb lo\u1ea1i s\u1ee3i hi\u1ec7u n\u0103ng cao c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic \u2014 r\u00e1c th\u1ea3i nh\u1ef1a t\u00e1i ch\u1ebf thu gom t\u1eeb c\u00e1c v\u00f9ng \u0111\u1ea3o xa, b\u00e3i bi\u1ec3n, khu d\u00e2n c\u01b0 ven bi\u1ec3n v\u00e0 \u0111\u01b0\u1eddng b\u1edd bi\u1ec3n, nh\u1eb1m ng\u0103n ch\u1eb7n \u00f4 nhi\u1ec5m \u0111\u1ea1i d\u01b0\u01a1ng. 50% th\u00e0nh ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a s\u1ee3i l\u00e0 polyester t\u00e1i ch\u1ebf.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "D\u00e2y r\u00fat v\u00e0 quai d\u00e1n k\u00e8m kh\u00f3a c\u00e0i",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi k\u1ef9 thu\u1eadt",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su Gripmore\u00ae",
+          "Th\u00e2n gi\u00e0y l\u00e0m t\u1eeb s\u1ee3i d\u1ec7t c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic v\u00e0 50% polyester t\u00e1i ch\u1ebf"
+        ],
+        "price": "5.100.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1b5d4f9d1dd24a44b53be7873c03e3cc_9366/d\u00e9p-sandal-terrex-hydroterra-at.jpg",
+        "name": "D\u00e9p Sandal Terrex Hydroterra AT",
+        "source": "/vi/d\u00e9p-sandal-terrex-hydroterra-at/IF7598.html",
+        "description": "Kh\u1ea3 n\u0103ng che ch\u1eafn b\u1ea3o v\u1ec7 k\u1ebft h\u1ee3p c\u1ea3m gi\u00e1c tho\u00e1ng m\u00e1t d\u1ec5 ch\u1ecbu c\u1ee7a d\u00e9p sandal. V\u1edbi \u0111\u00f4i d\u00e9p sandal adidas ph\u00f9 h\u1ee3p m\u1ecdi \u0111\u1ecba h\u00ecnh n\u00e0y, b\u1ea1n lu\u00f4n s\u1eb5n s\u00e0ng cho nh\u1eefng chuy\u1ebfn hiking ng\u00e0y n\u1eafng v\u00e0 d\u1eebng ch\u00e2n \u0103n tr\u01b0a b\u00ean h\u1ed3. \u0110i\u1ec1u ch\u1ec9nh quai c\u00e0i cho v\u1eeba v\u1eb7n v\u1edbi b\u00e0n ch\u00e2n, r\u1ed3i \u0111i b\u1ed9 c\u1ea3 ng\u00e0y th\u1eadt tho\u1ea3i m\u00e1i nh\u1edd \u0111\u1ebf gi\u1eefa b\u1eb1ng ch\u1ea5t li\u1ec7u EVA si\u00eau nh\u1eb9. Ph\u1ea7n toe cap ng\u0103n ch\u1eb7n \u0111\u00e1 s\u1ecfi tr\u00ean \u0111\u01b0\u1eddng trail l\u00e0m \u1ea3nh h\u01b0\u1edfng t\u1edbi h\u00e0nh tr\u00ecnh c\u1ee7a b\u1ea1n, c\u00f9ng \u0111\u1ebf ngo\u00e0i Traxion b\u00e1m t\u1ed1t khi b\u1ea1n di chuy\u1ec3n.\n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n d\u00e9p c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "Quai \u0111i\u1ec1u ch\u1ec9nh c\u00f3 kh\u00f3a c\u00e0i",
+          "Th\u00e2n d\u00e9p b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf gi\u1eefa b\u1eb1ng ch\u1ea5t li\u1ec7u EVA",
+          "L\u00f2ng d\u00e9p Cloudfoam",
+          "Ph\u1ea7n toe cap gia c\u1ed1",
+          "\u0110\u1ebf ngo\u00e0i Traxion",
+          "Th\u00e2n d\u00e9p c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "2.300.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2a284345d54843948ecb31286a243fe1_9366/adidas-rivalry-low-itchy.jpg",
+        "name": "adidas Rivalry Low Itchy",
+        "source": "/vi/adidas-rivalry-low-itchy/IE7566.html",
+        "description": "adidas Originals v\u00e0 The Simpsons k\u1ebft h\u1ee3p c\u00f9ng nhau nh\u1eb1m t\u00f4n vinh nh\u1eefng ng\u00f4i sao c\u1ee7a ch\u01b0\u01a1ng tr\u00ecnh Itchy and Scratchy. Phi\u00ean b\u1ea3n h\u1ee3p t\u00e1c n\u00e0y t\u00e1i hi\u1ec7n \u0111\u00f4i gi\u00e0y sneaker b\u00f3ng r\u1ed5 bi\u1ec3u t\u01b0\u1ee3ng v\u00e0 g\u1ee3i nh\u1edb nh\u1eefng m\u00e0u s\u1eafc y\u00eau th\u00edch c\u1ee7a ch\u00fa chu\u1ed9t y\u00eau th\u00edch nh\u01b0ng h\u01a1i hi\u1ebfu chi\u1ebfn \u1edf Springfield. \u0110\u01b0\u1ee3c ra m\u1eaft v\u00e0o m\u1ed9t trong 3 \u0111\u1ee3t ph\u00e1t h\u00e0nh, \u0111\u00f4i gi\u00e0y n\u00e0y \u0111i k\u00e8m v\u1edbi h\u1ed9p gi\u00e0y thi\u1ebft k\u1ebf ri\u00eang, l\u1ea5y c\u1ea3m h\u1ee9ng t\u1eeb ph\u00e2n c\u1ea3nh m\u1edf m\u00e0n c\u1ee7a Ch\u01b0\u01a1ng Tr\u00ecnh Itchy and Scratchy l\u1eebng danh.\n\n\u0110\u00f4i gi\u00e0y n\u00e0y \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf v\u1edbi th\u00e2n gi\u00e0y b\u1eb1ng da cao c\u1ea5p m\u00e0u xanh lam nh\u1ea1t v\u1edbi c\u00e1c m\u1ea3ng m\u00e0u cam v\u00e0 tr\u1eafng t\u1ea1o \u0111i\u1ec3m nh\u1ea5n. C\u00e1c \u0111i\u1ec3m n\u1ed5i b\u1eadt kh\u00e1c bao g\u1ed3m logo ba s\u1ecdc v\u00e0 h\u00ecnh Itchy th\u00eau \u1edf g\u00f3c ph\u1ea7n t\u01b0 ph\u00eda sau.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng da l\u1ed9n",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "The Simpsons\u2122 & \u00a9 20th Television"
+        ],
+        "price": "3.300.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/207f14bd488945e5af3445fd06c51057_9366/adidas-rivalry-high-scratchy.jpg",
+        "name": "adidas Rivalry High Scratchy",
+        "source": "/vi/adidas-rivalry-high-scratchy/IE7565.html",
+        "description": "adidas Originals v\u00e0 The Simpsons k\u1ebft h\u1ee3p c\u00f9ng nhau nh\u1eb1m t\u00f4n vinh nh\u1eefng ng\u00f4i sao c\u1ee7a ch\u01b0\u01a1ng tr\u00ecnh Itchy and Scratchy. Phi\u00ean b\u1ea3n h\u1ee3p t\u00e1c n\u00e0y t\u00e1i hi\u1ec7n m\u00e0u s\u1eafc c\u1ee7a Scratchy, ch\u00fa m\u00e8o \u0111\u00e3 \u0111\u1eb7t t\u00ean cho lo\u1ea1t phim ho\u1ea1t h\u00ecnh y\u00eau th\u00edch c\u1ee7a Springfield. \u0110\u01b0\u1ee3c ra m\u1eaft v\u00e0o m\u1ed9t trong 3 \u0111\u1ee3t ph\u00e1t h\u00e0nh, \u0111\u00f4i gi\u00e0y n\u00e0y \u0111i k\u00e8m v\u1edbi h\u1ed9p gi\u00e0y thi\u1ebft k\u1ebf ri\u00eang, l\u1ea5y c\u1ea3m h\u1ee9ng t\u1eeb ph\u00e2n c\u1ea3nh m\u1edf m\u00e0n c\u1ee7a Ch\u01b0\u01a1ng Tr\u00ecnh Itchy and Scratchy l\u1eebng danh.\n\n\u0110\u00f4i gi\u00e0y n\u00e0y \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf v\u1edbi th\u00e2n gi\u00e0y b\u1eb1ng da cao c\u1ea5p m\u00e0u xanh lam nh\u1ea1t v\u1edbi c\u00e1c m\u1ea3ng m\u00e0u cam v\u00e0 tr\u1eafng t\u1ea1o \u0111i\u1ec3m nh\u1ea5n. C\u00e1c chi ti\u1ebft kh\u00e1c bao g\u1ed3m logo ba s\u1ecdc v\u00e0 h\u00ecnh Itchy th\u00eau \u1edf g\u00f3c ph\u1ea7n t\u01b0 ph\u00eda sau.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng da l\u1ed9n",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "The Simpsons\u2122 & \u00a9 20th Television"
+        ],
+        "price": "3.700.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/09890c191a1f4bc29494e41c9b93911d_9366/gi\u00e0y-adidas-pro-model-80-poochie.jpg",
+        "name": "Gi\u00e0y adidas Pro Model 80 Poochie",
+        "source": "/vi/gi\u00e0y-adidas-pro-model-80-poochie/IE7563.html",
+        "description": "adidas Originals v\u00e0 The Simpsons k\u1ebft h\u1ee3p c\u00f9ng nhau nh\u1eb1m t\u00f4n vinh nh\u1eefng ng\u00f4i sao c\u1ee7a ch\u01b0\u01a1ng tr\u00ecnh Itchy and Scratchy. Phi\u00ean b\u1ea3n h\u1ee3p t\u00e1c n\u00e0y l\u1ea5y c\u1ea3m h\u1ee9ng t\u1eeb Poochie, ch\u00fa ch\u00f3 lu\u00f4n m\u1eb7c \u00e1o kho\u00e1c da g\u1eafn li\u1ec1n v\u1edbi Itchy and Scratchy. \u0110\u01b0\u1ee3c ra m\u1eaft v\u00e0o m\u1ed9t trong 3 \u0111\u1ee3t ph\u00e1t h\u00e0nh, \u0111\u00f4i gi\u00e0y n\u00e0y \u0111i k\u00e8m v\u1edbi h\u1ed9p gi\u00e0y thi\u1ebft k\u1ebf ri\u00eang, l\u1ea5y c\u1ea3m h\u1ee9ng t\u1eeb ph\u00e2n c\u1ea3nh m\u1edf m\u00e0n c\u1ee7a Ch\u01b0\u01a1ng Tr\u00ecnh Itchy and Scratchy l\u1eebng danh.\n\n\u0110\u00f4i gi\u00e0y n\u00e0y c\u00f3 th\u00e2n gi\u00e0y b\u1eb1ng da m\u00e0u \u0111en cao c\u1ea5p v\u1edbi kh\u00f3a k\u00e9o l\u1ea5y c\u1ea3m h\u1ee9ng t\u1eeb chi\u1ebfc \u00e1o kho\u00e1c c\u1ee7a Poochie, m\u0169i gi\u00e0y v\u1ecf s\u00f2 t\u01b0\u01a1ng ph\u1ea3n v\u00e0 ki\u1ec3u d\u00e1ng d\u1eadp n\u1ed5i theo phong c\u00e1ch Itchy, Scratchy v\u00e0 Poochie.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng da",
+          "L\u1edbp l\u00f3t b\u1eb1ng da",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "The Simpsons\u2122 & \u00a9 20th Television"
+        ],
+        "price": "3.300.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e437d83c9de64c98ad8649b9c31f9777_9366/gi\u00e0y-originals-adimatic-mid-x-mait\u00e9.jpg",
+        "name": "Gi\u00e0y Originals Adimatic Mid x Mait\u00e9",
+        "source": "/vi/gi\u00e0y-originals-adimatic-mid-x-mait\u00e9/IG8174.html",
+        "description": "Gi\u1ed1ng nh\u01b0 hi\u1ec7n t\u01b0\u1ee3ng tr\u01b0\u1ee3t v\u00e1n c\u00f9ng t\u00ean, \u0111\u00f4i gi\u00e0y c\u1ed5 l\u1eedng Adimatic r\u1ef1c r\u1ee1 n\u00e0y ng\u1eadp tr\u00e0n ngu\u1ed3n n\u0103ng l\u01b0\u1ee3ng lan truy\u1ec1n m\u1ea1nh m\u1ebd v\u00e0 c\u1ea3m h\u1ee9ng t\u00edch c\u1ef1c 24/7. L\u00e0 th\u00e0nh qu\u1ea3 h\u1ee3p t\u00e1c v\u1edbi v\u1eadn \u0111\u1ed9ng vi\u00ean tr\u01b0\u1ee3t v\u00e1n chuy\u00ean nghi\u1ec7p Mait\u00e9 Steenhoudt, adidas \u0111\u00e3 \u0111\u01b0a thi\u1ebft k\u1ebf \u0111a n\u0103ng n\u00e0y t\u00e1i xu\u1ea5t t\u1eeb kho di s\u1ea3n v\u00e0 kho\u00e1c l\u00ean m\u00ecnh di\u1ec7n m\u1ea1o m\u1edbi m\u1ebb \u0111\u1ea7y b\u1eaft m\u1eaft. Th\u00e2n gi\u00e0y b\u1eb1ng da l\u1ed9n cao c\u1ea5p \u0111\u1eb7t tr\u00ean \u0111\u1ebf ngo\u00e0i b\u1eb1ng cao su kinh \u0111i\u1ec3n t\u1ea1o n\u00ean m\u1ed9t thi\u1ebft k\u1ebf trung th\u00e0nh v\u1edbi b\u1ea3n s\u1eafc c\u1ee7a phong c\u00e1ch n\u00e0y. Steenhoudt mang \u0111\u1ebfn d\u1ea5u \u1ea5n c\u00e1 nh\u00e2n th\u00f4ng qua c\u00e1c chi ti\u1ebft h\u00ecnh tia ch\u1edbp \u0111\u1eadm ch\u1ea5t anime v\u00e0 ch\u1eef k\u00fd th\u00eau tr\u00ean l\u01b0\u1ee1i g\u00e0.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t v\u00e0 da l\u1ed9n",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su"
+        ],
+        "price": "3.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7594bc53f55d4bbe950fbc2e2866681c_9366/gi\u00e0y-golf-\u0111inh-li\u1ec1n-4d-mc87.jpg",
+        "name": "Gi\u00e0y Golf \u0110inh Li\u1ec1n 4D MC87",
+        "source": "/vi/gi\u00e0y-golf-\u0111inh-li\u1ec1n-4d-mc87/ID0225.html",
+        "description": "S\u1ea3i b\u01b0\u1edbc l\u00ean green v\u00e0 h\u01b0\u1edbng t\u1edbi t\u01b0\u01a1ng lai v\u1edbi \u0111\u00f4i Gi\u00e0y Golf \u0110inh Li\u1ec1n 4D adidas MC87 n\u00e0y. M\u1eabu gi\u00e0y da ch\u01a1i golf c\u1ea3i ti\u1ebfn n\u00e0y h\u00f2a tr\u1ed9n gi\u1eefa thi\u1ebft k\u1ebf di s\u1ea3n v\u00e0 c\u00f4ng ngh\u1ec7 \u0111\u1ed9t ph\u00e1 cho phong c\u00e1ch v\u00e0 hi\u1ec7u n\u0103ng ph\u00f9 h\u1ee3p \u0111\u1ec3 ch\u01a1i tr\u00ean m\u1ecdi ki\u1ec3u s\u00e2n. \u0110\u1ebf gi\u1eefa 4D in 3D mang l\u1ea1i \u0111\u1ed9 \u1ed5n \u0111\u1ecbnh v\u00e0 \u00eam \u00e1i, h\u1ed7 tr\u1ee3 th\u1ebf \u0111\u1ee9ng v\u1eefng ch\u00e3i v\u00e0 c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i su\u1ed1t v\u00f2ng golf. Ph\u1ea7n tua rua c\u00f3 th\u1ec3 th\u00e1o r\u1eddi cho ph\u00e9p b\u1ea1n bi\u1ebfn h\u00f3a phong c\u00e1ch, c\u00f9ng \u0111\u1ebf ngo\u00e0i \u0111inh li\u1ec1n k\u00e8m c\u00e1c \u0111inh n\u1ed5i cho \u0111\u1ed9 b\u00e1m ch\u1eafc ch\u1eafn tr\u00ean green v\u00e0 c\u00f3 th\u1ec3 \u0111\u1ed3ng h\u00e0nh c\u00f9ng b\u1ea1n v\u1ec1 clubhouse.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng da",
+          "\u0110\u1ebf gi\u1eefa adidas 4D",
+          "L\u1edbp l\u00f3t b\u1eb1ng da",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su"
+        ],
+        "price": "6.500.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d7e48c745e0a47c185215906e039dd69_9366/gi\u00e0y-duramo-sl.jpg",
+        "name": "Gi\u00e0y Duramo SL",
+        "source": "/vi/gi\u00e0y-duramo-sl/IE7256.html",
+        "description": "T\u1eadp luy\u1ec7n \u0111\u1ec3 \u0111\u1ea1t k\u1ef7 l\u1ee5c c\u00e1 nh\u00e2n m\u1edbi, hay ch\u1ec9 \u0111\u01a1n gi\u1ea3n l\u00e0 c\u1ed1 g\u1eafng ra tr\u1ea1m xe bus \u0111\u00fang gi\u1edd? B\u1ea5t k\u1ec3 m\u1ee5c ti\u00eau n\u00e0o, b\u1ea5t k\u1ec3 b\u1ea1n \u0111i \u0111\u00e2u, Gi\u00e0y adidas Duramo SL s\u1ebd mang \u0111\u1ebfn cho b\u1ea1n nh\u1eefng s\u1ea3i b\u01b0\u1edbc g\u1ecdn gh\u1ebd nh\u1edd l\u1edbp \u0111\u1ec7m LIGHTMOTION si\u00eau nh\u1eb9, \u0111\u00e0n h\u1ed3i v\u00e0 t\u1ea1o h\u00ecnh \u0111\u1ea7y tho\u1ea3i m\u00e1i. Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi tho\u00e1ng kh\u00ed gi\u00fap \u0111\u00f4i ch\u00e2n b\u1ea1n lu\u00f4n m\u00e1t m\u1ebb v\u00e0 kh\u00f4 r\u00e1o b\u1ea5t k\u1ec3 b\u1ea1n \u0111ang m\u01b0\u1edbt m\u1ed3 h\u00f4i t\u1edbi m\u1ee9c n\u00e0o. \n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi mono",
+          "C\u1ea3m gi\u00e1c nh\u1eb9 nh\u00e0ng, \u1ed5n \u0111\u1ecbnh",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp \u0111\u1ec7m LIGHTMOTION",
+          "Tr\u1ecdng l\u01b0\u1ee3ng: 295 g (size UK 8.5)",
+          "Ch\u00eanh l\u1ec7ch \u0111\u1ed9 cao \u0111\u1ebf gi\u1eefa: 9,5 mm (g\u00f3t gi\u00e0y: 33 mm / m\u0169i gi\u00e0y: 23,5 mm)",
+          "\u0110\u1ebf ngo\u00e0i Adiwear",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "1.800.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1254fb2312b140a88430cb34ae413d53_9366/gi\u00e0y-nmd_r1.jpg",
+        "name": "Gi\u00e0y NMD_R1",
+        "source": "/vi/gi\u00e0y-nmd_r1/IG5534.html",
+        "description": "adidas NMD_R1 l\u00e0 d\u00f2ng gi\u00e0y d\u00e0nh cho nh\u1eefng ng\u01b0\u1eddi ti\u00ean phong, nh\u1eefng nh\u00e0 th\u00e1m hi\u1ec3m th\u00e0nh th\u1ecb v\u00e0 nh\u1eefng ng\u01b0\u1eddi mu\u1ed1n c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i. Ki\u1ec3u d\u00e1ng bi\u1ec3u t\u01b0\u1ee3ng kh\u00f4ng ng\u1eebng ti\u1ebfp l\u1eeda cho phong c\u00e1ch c\u1ee7a b\u1ea1n \u2014 v\u00e0 phi\u00ean b\u1ea3n n\u00e0y mang \u0111\u1ebfn n\u00e9t m\u1edbi m\u1ebb nh\u1edd c\u00e1c chi ti\u1ebft h\u00e0n li\u1ec1n ch\u1ea1y d\u1ecdc to\u00e0n ph\u1ea7n v\u00e0 th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi hai l\u1edbp in h\u1ecda ti\u1ebft graphic b\u00ean trong. \u0110\u1ebf gi\u1eefa BOOST \u0111\u00e0n h\u1ed3i s\u1eb5n s\u00e0ng \u0111\u1ed3ng h\u00e0nh c\u00f9ng b\u1ea1n \u2014 v\u1eady n\u00ean \u0111\u1eebng ng\u1ea7n ng\u1ea1i.\n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t kim",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "3.900.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1c53688066ec41318179a74e4d34473b_9366/gi\u00e0y-adizero-boston-12.jpg",
+        "name": "Gi\u00e0y Adizero Boston 12",
+        "source": "/vi/gi\u00e0y-adizero-boston-12/H03612.html",
+        "description": "Boston Marathon l\u00e0 m\u1ed9t gi\u1ea3i \u0111ua. Nh\u01b0ng \u0111\u1ed3ng th\u1eddi c\u0169ng l\u00e0 m\u1ed9t m\u1ee5c ti\u00eau, m\u1ed9t k\u1ebf ho\u1ea1ch t\u1eadp luy\u1ec7n v\u00e0 c\u1ea3 nh\u1eefng th\u00e1ng ng\u00e0y b\u1ea1n ng\u00f3ng \u0111\u1ee3i t\u1edbi gi\u1edd thi \u0111\u1ea5u ch\u00ednh th\u1ee9c. Gi\u00e0y Adizero Boston 12 c\u00f3 thi\u1ebft k\u1ebf d\u00e0nh cho \u0111\u01b0\u1eddng ch\u1ea1y c\u1ef1 ly trung b\u00ecnh t\u1edbi c\u1ef1 ly d\u00e0i. \u0110\u00f4i gi\u00e0y n\u00e0y mang \u0111\u1ebfn cho gi\u1edd t\u1eadp c\u1ea3m gi\u00e1c h\u1ec7t nh\u01b0 tr\u00ean \u0111\u01b0\u1eddng \u0111ua nh\u1edd c\u1ea3m gi\u00e1c b\u00f9ng n\u1ed5 \u0111\u1ebfn t\u1eeb c\u00e1c thanh ENERGYROD 2.0 b\u1eb1ng s\u1ee3i th\u1ee7y tinh gi\u00fap h\u1ea1n ch\u1ebf ti\u00eau hao n\u0103ng l\u01b0\u1ee3ng. Gi\u00e0y c\u00f3 c\u1ea5u t\u1ea1o \u0111\u1ea7y t\u1ed1c \u0111\u1ed9 m\u00e0 kh\u00f4ng k\u00e9m ph\u1ea7n b\u1ec1n b\u1ec9 \u2014 \u0111\u1ebf gi\u1eefa k\u1ebft h\u1ee3p \u0111\u1ec7m Lightstrike Pro si\u00eau nh\u1eb9 v\u00e0 phi\u00ean b\u1ea3n m\u1edbi c\u1ee7a \u0111\u1ec7m Lightstrike 2.0 EVA b\u1ec1n ch\u1eafc.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi si\u00eau nh\u1eb9",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "C\u00e1c thanh ENERGYROD h\u1ea1n ch\u1ebf ti\u00eau hao n\u0103ng l\u01b0\u1ee3ng",
+          "\u0110\u1ec7m Lightstrike Pro",
+          "Tr\u1ecdng l\u01b0\u1ee3ng: 267 g (size UK 8.5)",
+          "Ch\u00eanh l\u1ec7ch \u0111\u1ed9 cao \u0111\u1ebf gi\u1eefa: 7 mm (g\u00f3t gi\u00e0y: 38 mm / m\u0169i gi\u00e0y: 31 mm)",
+          "\u0110\u1ebf ngo\u00e0i Continental\u2122 Rubber",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "4.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ef76174079d24f7dabb7b9e99b028da1_9366/adizero-sl.jpg",
+        "name": "ADIZERO SL",
+        "source": "/vi/adizero-sl/ID6923.html",
+        "description": "\u0110\u1ec3 \u0111\u1ea1t \u0111\u01b0\u1ee3c m\u1ee5c ti\u00eau, t\u1eebng gi\u00e2y ph\u00fat \u0111\u1ec1u quan tr\u1ecdng. T\u1eeb l\u00fac t\u1eadp luy\u1ec7n \u0111\u1ebfn khi thi \u0111\u1ea5u, phong \u0111\u1ed9 xu\u1ea5t s\u1eafc \u0111\u00f2i h\u1ecfi trang ph\u1ee5c high-tech cho t\u1ed1c \u0111\u1ed9 t\u1ed1i \u01b0u. Xin gi\u1edbi thi\u1ec7u d\u00f2ng s\u1ea3n ph\u1ea9m ch\u1ea1y b\u1ed9 ch\u1ee7 \u0111\u1ea1o si\u00eau nh\u1eb9 m\u1edbi nh\u1ea5t gi\u00fap b\u1ea1n b\u1ee9t ph\u00e1 gi\u1edbi h\u1ea1n kh\u00f4ng ch\u00fat ph\u00e2n t\u00e2m.\n\nGi\u00e0y Ch\u1ea1y B\u1ed9 Adizero SL ch\u1eaft l\u1ecdc m\u1ecdi tinh t\u00fay t\u1eeb d\u00f2ng gi\u00e0y Adizero ph\u00e1 v\u1ee1 k\u1ef7 l\u1ee5c th\u1ebf gi\u1edbi. \u0110\u1ebf gi\u1eefa LIGHTSTRIKE b\u1eb1ng ch\u1ea5t li\u1ec7u EVA si\u00eau nh\u1eb9 mang \u0111\u1ebfn kh\u1ea3 n\u0103ng \u0111\u00e0n h\u1ed3i cho k\u1ebft c\u1ea5u \u0111\u1ebf gi\u1eefa, \u0111\u1ec3 b\u1ea1n c\u00f3 th\u1ec3 t\u1eadp trung v\u00e0o b\u01b0\u1edbc ch\u1ea1y ti\u1ebfp theo, c\u00f9ng th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi k\u1ef9 thu\u1eadt m\u1ec1m m\u1ea1i \u0111\u01b0\u1ee3c b\u1ed1 tr\u00ed \u1edf nh\u1eefng v\u00f9ng quan tr\u1ecdng. L\u01b0\u1ee1i g\u00e0 v\u00e0 g\u00f3t gi\u00e0y l\u00f3t \u0111\u1ec7m mang \u0111\u1ebfn c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i t\u1ed1i \u01b0u c\u00f9ng mi\u1ebfng trang tr\u00ed g\u00f3t gi\u00e0y Adizero. \u0110\u1ebf ngo\u00e0i cao c\u1ea5p t\u1ea1o \u0111\u1ed9 b\u00e1m.",
+        "detail_information": [
+          "D\u00e2y gi\u00e0y c\u1ed1 \u0111\u1ecbnh cao c\u1ea5p",
+          "V\u1ea3i L\u01b0\u1edbi K\u1ef9 Thu\u1eadt T\u00e1i Ch\u1ebf M\u1ed9t Ph\u1ea7n",
+          "L\u1edbp \u0111\u1ec7m Lightstrike & Lightstrike Pro",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "Tr\u1ecdng l\u01b0\u1ee3ng: 243 g (size UK 8.5)",
+          "Ch\u00eanh l\u1ec7ch \u0111\u1ed9 cao \u0111\u1ebf gi\u1eefa: 10 mm (g\u00f3t gi\u00e0y: 36mm / m\u0169i gi\u00e0y: 26 mm)",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "3.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8061bd4cb1f44d4094023e4250984d00_9366/gi\u00e0y-nmd_s1.jpg",
+        "name": "Gi\u00e0y NMD_S1",
+        "source": "/vi/gi\u00e0y-nmd_s1/IE2074.html",
+        "description": "Tr\u1ea3i nghi\u1ec7m h\u01a1n, th\u01b0 th\u00e1i h\u01a1n. \u0110\u00f4i gi\u00e0y adidas NMD_S1 \u1ea5n t\u01b0\u1ee3ng n\u00e0y l\u00e0 l\u1ef1a ch\u1ecdn xu\u1ea5t s\u1eafc cho ng\u00e0y d\u00e0i phi\u00eau l\u01b0u trong th\u00e0nh ph\u1ed1 kh\u00f4ng ng\u1eebng bi\u1ebfn \u0111\u1ed9ng. K\u1ebft c\u1ea5u \u00f4m ch\u00e2n nh\u01b0 m\u1ed9t \u0111\u00f4i t\u1ea5t mang l\u1ea1i c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i v\u00e0 v\u1eeba kh\u00edt, \u0111\u1ed3ng th\u1eddi \u0111\u1ebf gi\u1eefa BOOST to\u00e0n ph\u1ea7n ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng tuy\u1ec7t v\u1eddi tr\u00ean t\u1eebng s\u1ea3i b\u01b0\u1edbc. C\u00e1c mi\u1ebfng b\u1ecbt NMD \u0111\u1eb7c tr\u01b0ng v\u00e0 3 S\u1ecdc classic t\u1ea1o \u0111i\u1ec3m nh\u1ea5n c\u1ed5 \u0111i\u1ec3n tr\u00ean thi\u1ebft k\u1ebf \u0111\u1eadm ch\u1ea5t t\u01b0\u01a1ng lai. H\u00e3y mang gi\u00e0y v\u00e0 xu\u1ea5t ph\u00e1t.\n\nTh\u00e2n gi\u00e0y l\u00e0m t\u1eeb lo\u1ea1i s\u1ee3i hi\u1ec7u n\u0103ng cao c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic \u2014 r\u00e1c th\u1ea3i nh\u1ef1a t\u00e1i ch\u1ebf thu gom t\u1eeb c\u00e1c v\u00f9ng \u0111\u1ea3o xa, b\u00e3i bi\u1ec3n, khu d\u00e2n c\u01b0 ven bi\u1ec3n v\u00e0 \u0111\u01b0\u1eddng b\u1edd bi\u1ec3n, nh\u1eb1m ng\u0103n ch\u1eb7n \u00f4 nhi\u1ec5m \u0111\u1ea1i d\u01b0\u01a1ng. 50% th\u00e0nh ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a s\u1ee3i l\u00e0 polyester t\u00e1i ch\u1ebf.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y l\u00e0m t\u1eeb s\u1ee3i d\u1ec7t c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic v\u00e0 50% polyester t\u00e1i ch\u1ebf"
+        ],
+        "price": "5.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7384100b17e147dba86f14c22f468774_9366/gi\u00e0y-nmd_g1.jpg",
+        "name": "Gi\u00e0y NMD_G1",
+        "source": "/vi/gi\u00e0y-nmd_g1/IG5782.html",
+        "description": "L\u00e0 phi\u00ean b\u1ea3n m\u1edbi c\u1ee7a m\u1ed9t d\u00f2ng gi\u00e0y lu\u00f4n \u0111\u1ec1 cao tinh th\u1ea7n c\u1ea3i ti\u1ebfn, m\u1eabu gi\u00e0y adidas NMD_G1 linh ho\u1ea1t n\u00e0y c\u00f3 thi\u1ebft k\u1ebf h\u01b0\u1edbng t\u1edbi t\u01b0\u01a1ng lai. V\u1edbi \u0111\u1ebf ngo\u00e0i b\u1eb1ng cao su t\u00e1o b\u1ea1o v\u00e0 c\u00e1c mi\u1ebfng b\u1ecbt b\u1eb1ng TPU \u0111\u1ea7y \u1ea5n t\u01b0\u1ee3ng, \u0111\u00f4i gi\u00e0y trainer n\u00e0y nh\u01b0 v\u1eeba b\u01b0\u1edbc ra kh\u1ecfi c\u1ed7 m\u00e1y th\u1eddi gian. C\u00e1c chi ti\u1ebft k\u1ef9 thu\u1eadt cao c\u1ea5p l\u00e0m m\u1edbi phong c\u00e1ch OG theo h\u01a1i h\u01b0\u1edbng cyberpunk. Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t kim co gi\u00e3n sang ch\u1ea3nh \u00f4m ch\u00e2n tho\u1ea3i m\u00e1i, c\u00f9ng l\u1edbp \u0111\u1ec7m \u0111\u1ebf gi\u1eefa BOOST ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng tuy\u1ec7t v\u1eddi tr\u00ean t\u1eebng s\u1ea3i b\u01b0\u1edbc. V\u1edbi \u0111\u00f4i gi\u00e0y \u0111a n\u0103ng n\u00e0y, t\u01b0\u01a1ng lai ch\u00ednh l\u00e0 ngay l\u00fac n\u00e0y \u0111\u00e2y.\n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "4.200.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0702e028d7bd4004b282efdb62e21615_9366/gi\u00e0y-gazelle-85.jpg",
+        "name": "Gi\u00e0y Gazelle 85",
+        "source": "/vi/gi\u00e0y-gazelle-85/IG0456.html",
+        "description": "Gazelle ban \u0111\u1ea7u v\u1ed1n l\u00e0 m\u1ed9t m\u1eabu gi\u00e0y trainer, nh\u01b0ng sau \u0111\u00f3 \u0111\u00e3 c\u00f3 c\u1ea3 m\u1ed9t h\u00e0nh tr\u00ecnh d\u00e0i: d\u00f2ng gi\u00e0y d\u00e1ng th\u1ea5p classic v\u1edbi th\u00e2n gi\u00e0y b\u1eb1ng da l\u1ed9n si\u00eau nh\u1eb9 \u0111\u00e3 tr\u1ee5 v\u1eefng su\u1ed1t h\u01a1n 70 n\u0103m qua.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng da l\u1ed9n",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su"
+        ],
+        "price": "2.900.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/dcaa15abdd3a4960a15813fb9b2ddb2f_9366/gi\u00e0y-nmd_s1.jpg",
+        "name": "Gi\u00e0y NMD_S1",
+        "source": "/vi/gi\u00e0y-nmd_s1/IE2075.html",
+        "description": "Tr\u1ea3i nghi\u1ec7m h\u01a1n, th\u01b0 th\u00e1i h\u01a1n. \u0110\u00f4i gi\u00e0y adidas NMD_S1 \u1ea5n t\u01b0\u1ee3ng n\u00e0y l\u00e0 l\u1ef1a ch\u1ecdn xu\u1ea5t s\u1eafc cho ng\u00e0y d\u00e0i phi\u00eau l\u01b0u trong th\u00e0nh ph\u1ed1 kh\u00f4ng ng\u1eebng bi\u1ebfn \u0111\u1ed9ng. K\u1ebft c\u1ea5u \u00f4m ch\u00e2n nh\u01b0 m\u1ed9t \u0111\u00f4i t\u1ea5t mang l\u1ea1i c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i v\u00e0 v\u1eeba kh\u00edt, \u0111\u1ed3ng th\u1eddi \u0111\u1ebf gi\u1eefa BOOST to\u00e0n ph\u1ea7n ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng tuy\u1ec7t v\u1eddi tr\u00ean t\u1eebng s\u1ea3i b\u01b0\u1edbc. C\u00e1c mi\u1ebfng b\u1ecbt NMD \u0111\u1eb7c tr\u01b0ng v\u00e0 3 S\u1ecdc classic t\u1ea1o \u0111i\u1ec3m nh\u1ea5n c\u1ed5 \u0111i\u1ec3n tr\u00ean thi\u1ebft k\u1ebf \u0111\u1eadm ch\u1ea5t t\u01b0\u01a1ng lai. H\u00e3y mang gi\u00e0y v\u00e0 xu\u1ea5t ph\u00e1t.\n\nTh\u00e2n gi\u00e0y l\u00e0m t\u1eeb lo\u1ea1i s\u1ee3i hi\u1ec7u n\u0103ng cao c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic \u2014 r\u00e1c th\u1ea3i nh\u1ef1a t\u00e1i ch\u1ebf thu gom t\u1eeb c\u00e1c v\u00f9ng \u0111\u1ea3o xa, b\u00e3i bi\u1ec3n, khu d\u00e2n c\u01b0 ven bi\u1ec3n v\u00e0 \u0111\u01b0\u1eddng b\u1edd bi\u1ec3n, nh\u1eb1m ng\u0103n ch\u1eb7n \u00f4 nhi\u1ec5m \u0111\u1ea1i d\u01b0\u01a1ng. 50% th\u00e0nh ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a s\u1ee3i l\u00e0 polyester t\u00e1i ch\u1ebf.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y l\u00e0m t\u1eeb s\u1ee3i d\u1ec7t c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic v\u00e0 50% polyester t\u00e1i ch\u1ebf"
+        ],
+        "price": "5.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/2761213c93f64709bf078eb96cd1bbd0_9366/gi\u00e0y-adizero-boston-12.jpg",
+        "name": "Gi\u00e0y Adizero Boston 12",
+        "source": "/vi/gi\u00e0y-adizero-boston-12/ID4237.html",
+        "description": "Boston Marathon l\u00e0 m\u1ed9t gi\u1ea3i \u0111ua. Nh\u01b0ng \u0111\u1ed3ng th\u1eddi c\u0169ng l\u00e0 m\u1ed9t m\u1ee5c ti\u00eau, m\u1ed9t k\u1ebf ho\u1ea1ch t\u1eadp luy\u1ec7n v\u00e0 c\u1ea3 nh\u1eefng th\u00e1ng ng\u00e0y b\u1ea1n ng\u00f3ng \u0111\u1ee3i t\u1edbi gi\u1edd thi \u0111\u1ea5u ch\u00ednh th\u1ee9c. Gi\u00e0y Adizero Boston 12 c\u00f3 thi\u1ebft k\u1ebf d\u00e0nh cho \u0111\u01b0\u1eddng ch\u1ea1y c\u1ef1 ly trung b\u00ecnh t\u1edbi c\u1ef1 ly d\u00e0i. \u0110\u00f4i gi\u00e0y n\u00e0y mang \u0111\u1ebfn cho gi\u1edd t\u1eadp c\u1ea3m gi\u00e1c h\u1ec7t nh\u01b0 tr\u00ean \u0111\u01b0\u1eddng \u0111ua nh\u1edd c\u1ea3m gi\u00e1c b\u00f9ng n\u1ed5 \u0111\u1ebfn t\u1eeb c\u00e1c thanh ENERGYROD 2.0 b\u1eb1ng s\u1ee3i th\u1ee7y tinh gi\u00fap h\u1ea1n ch\u1ebf ti\u00eau hao n\u0103ng l\u01b0\u1ee3ng. Gi\u00e0y c\u00f3 c\u1ea5u t\u1ea1o \u0111\u1ea7y t\u1ed1c \u0111\u1ed9 m\u00e0 kh\u00f4ng k\u00e9m ph\u1ea7n b\u1ec1n b\u1ec9 \u2014 \u0111\u1ebf gi\u1eefa k\u1ebft h\u1ee3p \u0111\u1ec7m Lightstrike Pro si\u00eau nh\u1eb9 v\u00e0 phi\u00ean b\u1ea3n m\u1edbi c\u1ee7a \u0111\u1ec7m Lightstrike 2.0 EVA b\u1ec1n ch\u1eafc.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi si\u00eau nh\u1eb9",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "C\u00e1c thanh ENERGYROD h\u1ea1n ch\u1ebf ti\u00eau hao n\u0103ng l\u01b0\u1ee3ng",
+          "\u0110\u1ec7m Lightstrike Pro",
+          "Tr\u1ecdng l\u01b0\u1ee3ng: 267 g (size UK 8.5)",
+          "Ch\u00eanh l\u1ec7ch \u0111\u1ed9 cao \u0111\u1ebf gi\u1eefa: 7 mm (g\u00f3t gi\u00e0y: 38 mm / m\u0169i gi\u00e0y: 31 mm)",
+          "\u0110\u1ebf ngo\u00e0i Continental\u2122 Rubber",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "4.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/b571b57606e94127bf77663c1fb009a9_9366/gi\u00e0y-adizero-adios-pro-3-m.jpg",
+        "name": "GI\u00c0Y ADIZERO ADIOS PRO 3 M",
+        "source": "/vi/gi\u00e0y-adizero-adios-pro-3-m/ID8468.html",
+        "description": "Gi\u00e0y Adizero Adios Pro 3 l\u00e0 \u0111\u1ec9nh cao c\u1ee7a c\u00e1c s\u1ea3n ph\u1ea9m Adizero Racing. Gi\u00e0y \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf v\u1edbi s\u1ef1 tham gia c\u1ee7a v\u1eadn \u0111\u1ed9ng vi\u00ean v\u00e0 d\u00e0nh cho v\u1eadn \u0111\u1ed9ng vi\u00ean nh\u1eb1m l\u00e0m n\u00ean k\u1ef3 t\u00edch. \u0110\u00f4i gi\u00e0y ch\u1ea1y b\u1ed9 adidas n\u00e0y c\u00f3 kh\u1ea3 n\u0103ng t\u1ed1i \u01b0u h\u00f3a hi\u1ec7u qu\u1ea3 ch\u1ea1y b\u1ed9. C\u00e1c thanh carbon ENERGYROD t\u1ea1o \u0111\u1ed9 c\u1ee9ng si\u00eau nh\u1eb9 cho s\u1ea3i b\u01b0\u1edbc g\u1ecdn gh\u1ebd, hi\u1ec7u qu\u1ea3. L\u1edbp \u0111\u1ec7m LIGHTSTRIKE PRO si\u00eau nh\u1eb9 n\u00e2ng niu t\u1eebng b\u01b0\u1edbc ch\u1ea1y nh\u1edd k\u1ebft c\u1ea5u hai l\u1edbp m\u00fat foam \u0111\u00e0n h\u1ed3i nh\u1ea5t c\u1ee7a adidas gi\u00fap b\u1ea1n gi\u1eef s\u1ee9c \u0111\u01b0\u1eddng d\u00e0i. B\u00ean d\u01b0\u1edbi l\u00e0 m\u1ed9t l\u1edbp m\u1ecfng \u0111\u1ebf ngo\u00e0i b\u1eb1ng cao su d\u1ec7t cho \u0111\u1ed9 b\u00e1m v\u01b0\u1ee3t tr\u1ed9i trong \u0111i\u1ec1u ki\u1ec7n kh\u00f4 r\u00e1o c\u0169ng nh\u01b0 \u1ea9m \u01b0\u1edbt.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "C\u00e1c thanh ENERGYROD h\u1ea1n ch\u1ebf ti\u00eau hao n\u0103ng l\u01b0\u1ee3ng",
+          "\u0110\u1ec7m Lightstrike Pro",
+          "Tr\u1ecdng l\u01b0\u1ee3ng: 220 g (size UK 8.5)",
+          "\u0110\u1ebf ngo\u00e0i Continental\u2122 Rubber",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "6.500.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0cd5a942448242fa821275b3d88423ad_9366/gi\u00e0y-nmd_s1.jpg",
+        "name": "Gi\u00e0y NMD_S1",
+        "source": "/vi/gi\u00e0y-nmd_s1/IG5537.html",
+        "description": "Tr\u1ea3i nghi\u1ec7m h\u01a1n, th\u01b0 th\u00e1i h\u01a1n. \u0110\u00f4i gi\u00e0y adidas NMD_S1 \u1ea5n t\u01b0\u1ee3ng n\u00e0y l\u00e0 l\u1ef1a ch\u1ecdn xu\u1ea5t s\u1eafc cho ng\u00e0y d\u00e0i phi\u00eau l\u01b0u trong th\u00e0nh ph\u1ed1 kh\u00f4ng ng\u1eebng bi\u1ebfn \u0111\u1ed9ng. K\u1ebft c\u1ea5u \u00f4m ch\u00e2n nh\u01b0 m\u1ed9t \u0111\u00f4i t\u1ea5t mang l\u1ea1i c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i v\u00e0 v\u1eeba kh\u00edt, \u0111\u1ed3ng th\u1eddi \u0111\u1ebf gi\u1eefa BOOST to\u00e0n ph\u1ea7n ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng tuy\u1ec7t v\u1eddi tr\u00ean t\u1eebng s\u1ea3i b\u01b0\u1edbc. C\u00e1c mi\u1ebfng b\u1ecbt NMD \u0111\u1eb7c tr\u01b0ng v\u00e0 3 S\u1ecdc classic t\u1ea1o \u0111i\u1ec3m nh\u1ea5n c\u1ed5 \u0111i\u1ec3n tr\u00ean thi\u1ebft k\u1ebf \u0111\u1eadm ch\u1ea5t t\u01b0\u01a1ng lai. H\u00e3y mang gi\u00e0y v\u00e0 xu\u1ea5t ph\u00e1t.\n\nTh\u00e2n gi\u00e0y l\u00e0m t\u1eeb lo\u1ea1i s\u1ee3i hi\u1ec7u n\u0103ng cao c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic \u2014 r\u00e1c th\u1ea3i nh\u1ef1a t\u00e1i ch\u1ebf thu gom t\u1eeb c\u00e1c v\u00f9ng \u0111\u1ea3o xa, b\u00e3i bi\u1ec3n, khu d\u00e2n c\u01b0 ven bi\u1ec3n v\u00e0 \u0111\u01b0\u1eddng b\u1edd bi\u1ec3n, nh\u1eb1m ng\u0103n ch\u1eb7n \u00f4 nhi\u1ec5m \u0111\u1ea1i d\u01b0\u01a1ng. 50% th\u00e0nh ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a s\u1ee3i l\u00e0 polyester t\u00e1i ch\u1ebf.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y l\u00e0m t\u1eeb s\u1ee3i d\u1ec7t c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% ch\u1ea5t li\u1ec7u Parley Ocean Plastic v\u00e0 50% polyester t\u00e1i ch\u1ebf"
+        ],
+        "price": "5.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/48134fdf23014575a617ad6e00cbe74a_9366/d\u00e9p-adilette-comfort.jpg",
+        "name": "D\u00e9p adilette Comfort",
+        "source": "/vi/d\u00e9p-adilette-comfort/GZ5892.html",
+        "description": "B\u1ea5t k\u1ec3 b\u1ea1n \u0111ang ra ph\u00f2ng thay \u0111\u1ed3 sau bu\u1ed5i t\u1eadp n\u1eb7ng \u0111\u00f4 hay th\u01b0 gi\u00e3n tr\u00ean gh\u1ebf sofa t\u1ea1i nh\u00e0, \u0111\u00f4i d\u00e9p n\u00e0y s\u1ebd bao b\u1ecdc \u0111\u00f4i ch\u00e2n b\u1ea1n trong c\u1ea3m gi\u00e1c nh\u1eb9 nh\u00e0ng v\u00e0 tho\u1ea3i m\u00e1i. D\u00e9p c\u00f3 th\u1ec3 k\u1ebft h\u1ee3p c\u00f9ng t\u1ea5t v\u00e0 qu\u1ea7n short cho outfit ho\u00e0n h\u1ea3o sau gi\u1edd t\u1eadp, ho\u1eb7c v\u1edbi b\u1ed9 \u0111\u1ed3 b\u01a1i y\u00eau th\u00edch c\u1ee7a b\u1ea1n t\u1ea1o n\u00ean phong c\u00e1ch b\u00e3i bi\u1ec3n. Thi\u1ebft k\u1ebf 3 S\u1ecdc adidas ho\u00e0n thi\u1ec7n phong c\u00e1ch th\u1ec3 thao c\u1ee7a b\u1ea1n.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "Ki\u1ec3u d\u00e1ng slip-on",
+          "Th\u00e2n d\u00e9p b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp \u0111\u1ec7m si\u00eau nh\u1eb9",
+          "L\u00f2ng d\u00e9p \u00f4m ch\u00e2n",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng ch\u1ea5t li\u1ec7u EVA"
+        ],
+        "price": "1.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/e19e9ae903744b89a2f0ad7a00cb2980_9366/d\u00e9p-adilette-comfort.jpg",
+        "name": "D\u00e9p adilette Comfort",
+        "source": "/vi/d\u00e9p-adilette-comfort/GZ5893.html",
+        "description": "B\u1ea5t k\u1ec3 b\u1ea1n \u0111ang ra ph\u00f2ng thay \u0111\u1ed3 sau bu\u1ed5i t\u1eadp n\u1eb7ng \u0111\u00f4 hay th\u01b0 gi\u00e3n tr\u00ean gh\u1ebf sofa t\u1ea1i nh\u00e0, \u0111\u00f4i d\u00e9p n\u00e0y s\u1ebd bao b\u1ecdc \u0111\u00f4i ch\u00e2n b\u1ea1n trong c\u1ea3m gi\u00e1c nh\u1eb9 nh\u00e0ng v\u00e0 tho\u1ea3i m\u00e1i. D\u00e9p c\u00f3 th\u1ec3 k\u1ebft h\u1ee3p c\u00f9ng t\u1ea5t v\u00e0 qu\u1ea7n short cho outfit ho\u00e0n h\u1ea3o sau gi\u1edd t\u1eadp, ho\u1eb7c v\u1edbi b\u1ed9 \u0111\u1ed3 b\u01a1i y\u00eau th\u00edch c\u1ee7a b\u1ea1n t\u1ea1o n\u00ean phong c\u00e1ch b\u00e3i bi\u1ec3n. Thi\u1ebft k\u1ebf 3 S\u1ecdc adidas ho\u00e0n thi\u1ec7n phong c\u00e1ch th\u1ec3 thao c\u1ee7a b\u1ea1n.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "Ki\u1ec3u d\u00e1ng slip-on",
+          "Th\u00e2n d\u00e9p b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp \u0111\u1ec7m si\u00eau nh\u1eb9",
+          "L\u00f2ng d\u00e9p \u00f4m ch\u00e2n",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng ch\u1ea5t li\u1ec7u EVA"
+        ],
+        "price": "1.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/9a2350ba22434209afffad7101601600_9366/d\u00e9p-b\u01a1i-adilette.jpg",
+        "name": "D\u00e9p B\u01a1i adilette",
+        "source": "/vi/d\u00e9p-b\u01a1i-adilette/GW8749.html",
+        "description": "Kh\u00f4ng c\u1ea7n thay \u0111\u1ed5i nh\u1eefng g\u00ec v\u1ed1n \u0111\u00e3 l\u00e0 c\u1ef1c ph\u1ea9m. T\u1eeb bu\u1ed5i s\u00e1ng t\u1eadp gym t\u1edbi bu\u1ed5i tr\u01b0a tranh th\u1ee7 shopping v\u00e0 bu\u1ed5i t\u1ed1i th\u01b0 gi\u00e3n tr\u00ean gh\u1ebf sofa, d\u00e9p adidas adilette lu\u00f4n mang \u0111\u1ebfn c\u1ea3m gi\u00e1c nh\u1eb9 nh\u00e0ng tho\u1ea3i m\u00e1i v\u00e0 phong c\u00e1ch \u0111a n\u0103ng k\u1ec3 t\u1eeb n\u0103m 1972. H\u1ecda ti\u1ebft graphic mang \u00fd ngh\u0129a k\u1ef7 ni\u1ec7m 50 n\u0103m ra \u0111\u1eddi thi\u1ebft k\u1ebf bi\u1ec3u t\u01b0\u1ee3ng n\u00e0y.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "Ki\u1ec3u d\u00e1ng slip-on",
+          "Quai d\u00e9p b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u00f2ng d\u00e9p \u00f4m ch\u00e2n",
+          "\u0110\u1ebf gi\u1eefa Cloudfoam",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p"
+        ],
+        "price": "750.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/a86b378fb856485d9458ab73014397fd_9366/d\u00e9p-s\u1ee5c-adilette.jpg",
+        "name": "D\u00e9p S\u1ee5c adilette",
+        "source": "/vi/d\u00e9p-s\u1ee5c-adilette/FY8970.html",
+        "description": "D\u1ef1a tr\u00ean \u0111\u00f4i d\u00e9p adidas \u0111\u1ea7y t\u00ednh bi\u1ec3u t\u01b0\u1ee3ng, m\u1eabu s\u1ee5c n\u00e0y v\u1eeba ti\u1ec7n d\u1ee5ng l\u1ea1i v\u1eeba tho\u1ea3i m\u00e1i. B\u1ea5t k\u1ec3 b\u1ea1n chu\u1ea9n b\u1ecb \u0111\u1ebfn ph\u00f2ng gym hay h\u1ed3 b\u01a1i \u0111\u1ec3 t\u1eadp th\u1ec3 d\u1ee5c bu\u1ed5i s\u00e1ng ho\u1eb7c ch\u1ec9 \u0111\u01a1n gi\u1ea3n l\u00e0 mu\u1ed1n l\u00ean \u0111\u1ed3 casual nh\u1eb9 nh\u00e0ng cho c\u1ea3 ng\u00e0y, h\u00e3y xu\u1ed1ng ph\u1ed1 v\u1edbi \u0111\u00f4i d\u00e9p \u00f4m ch\u00e2n n\u00e0y.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "Slip-on",
+          "Th\u00e2n d\u00e9p b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p",
+          "C\u1ea3m gi\u00e1c m\u1ec1m m\u1ea1i",
+          "D\u00e9p s\u1ee5c phong c\u00e1ch th\u1ec3 thao mang h\u00e0ng ng\u00e0y",
+          "L\u00f2ng d\u00e9p \u00f4m ch\u00e2n b\u1eb1ng ch\u1ea5t li\u1ec7u EVA",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p"
+        ],
+        "price": "1.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/7e28f22116c1466ea333f5765944c662_9366/gi\u00e0y-trainer-dropset-2.jpg",
+        "name": "Gi\u00e0y Trainer Dropset 2",
+        "source": "/vi/gi\u00e0y-trainer-dropset-2/ID4955.html",
+        "description": "C\u1ea3m gi\u00e1c c\u1ee7a thanh t\u1ea1 \u0111\u00f2n tr\u00ean tay, \u00e2m thanh c\u00e1c \u0111\u0129a t\u1ea1 va v\u00e0o nhau, ti\u1ebfng chu\u00f4ng b\u00e1o hi\u1ec7u k\u1ef7 l\u1ee5c m\u1edbi \u0111\u1ea1t \u0111\u01b0\u1ee3c. Ch\u1eb3ng g\u00ec s\u00e1nh b\u1eb1ng m\u1ed9t bu\u1ed5i n\u00e2ng t\u1ea1 th\u00e0nh c\u00f4ng, v\u00e0 \u0111\u00f4i gi\u00e0y t\u1eadp luy\u1ec7n adidas n\u00e0y mang \u0111\u1ebfn cho b\u1ea1n phong \u0111\u1ed9 v\u01b0\u1ee3t tr\u1ed9i trong c\u00e1c bu\u1ed5i t\u1eadp r\u00e8n luy\u1ec7n s\u1ee9c m\u1ea1nh. \u0110\u1ebf gi\u1eefa ch\u00eanh l\u1ec7ch \u0111\u1ed9 cao 6 mm t\u1ea1o n\u1ec1n t\u1ea3ng b\u1eb1ng ph\u1eb3ng v\u00e0 \u1ed5n \u0111\u1ecbnh, gi\u00fap b\u1ea1n c\u0103n ch\u1ec9nh \u0111\u00fang t\u01b0 th\u1ebf m\u1ed7i l\u1ea7n n\u00e2ng t\u1ea1. \u0110\u1ebf gi\u1eefa m\u1eadt \u0111\u1ed9 k\u00e9p mang l\u1ea1i c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i v\u00e0 \u1ed5n \u0111\u1ecbnh c\u00f3 ki\u1ec3m so\u00e1t, c\u00f9ng \u0111\u1ebf ngo\u00e0i Traxion si\u00eau b\u00e1m cho b\u1ea1n th\u1ebf \u0111\u1ee9ng v\u1eefng ch\u00e3i. \n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "R\u1ed9ng chi\u1ec1u ngang",
+          "H\u1ec7 th\u1ed1ng d\u00e2y gi\u00e0y t\u00f9y ch\u1ec9nh",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t v\u1edbi c\u00e1c chi ti\u1ebft ph\u1ee7 ngo\u00e0i b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p",
+          "C\u1ea3m gi\u00e1c \u1ed5n \u0111\u1ecbnh",
+          "Th\u00e0nh \u0111\u1ebf gi\u00e0y b\u1eb1ng TPU n\u00e2ng \u0111\u1ee1 t\u1ea1o \u0111\u1ed9 \u1ed5n \u0111\u1ecbnh \u1edf gi\u1eefa b\u00e0n ch\u00e2n v\u00e0 g\u00f3t ch\u00e2n",
+          "\u0110\u1ebf gi\u1eefa m\u1eadt \u0111\u1ed9 k\u00e9p c\u00f3 khung th\u00f4ng h\u01a1i cho c\u1ea3m gi\u00e1c tho\u00e1ng kh\u00ed",
+          "Ch\u00eanh l\u1ec7ch \u0111\u1ed9 cao \u0111\u1ebf gi\u1eefa: 6 mm",
+          "\u0110\u1ebf ngo\u00e0i Traxion",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "3.500.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/62a4fb7a796542f8a9feafd3013da967_9366/gi\u00e0y-tennis-gamecourt-2.0.jpg",
+        "name": "Gi\u00e0y Tennis Gamecourt 2.0",
+        "source": "/vi/gi\u00e0y-tennis-gamecourt-2.0/IG9568.html",
+        "description": "Lu\u00f4n t\u1ef1 tin trong t\u1eebng game \u0111\u1ea5u, set \u0111\u1ea5u v\u00e0 to\u00e0n b\u1ed9 tr\u1eadn \u0111\u1ea5u. V\u1edbi th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi si\u00eau nh\u1eb9 v\u00e0 g\u00f3t gi\u00e0y l\u00f3t \u0111\u1ec7m, \u0111\u00f4i gi\u00e0y adidas Gamecourt 2.0 n\u00e0y ch\u00ednh l\u00e0 tr\u1ee3 th\u1ee7 ho\u00e0n h\u1ea3o c\u1ee7a b\u1ea1n trong b\u1ed9 m\u00f4n tennis. \u0110\u1ebf gi\u1eefa b\u1eb1ng nh\u1ef1a EVA to\u00e0n ph\u1ea7n duy tr\u00ec s\u1ef1 tho\u1ea3i m\u00e1i v\u00e0 c\u1ea3m gi\u00e1c s\u00e2n. \u0110\u1ebf ngo\u00e0i Adiwear mang l\u1ea1i \u0111\u1ed9 b\u00e1m v\u01b0\u1ee3t tr\u1ed9i tr\u00ean m\u1eb7t s\u00e2n c\u1ee9ng m\u00e0 v\u1eabn \u0111\u1ea3m b\u1ea3o \u0111\u1ed9 b\u1ec1n.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi h\u1edf",
+          "\u0110\u1ec7m c\u1ed5 ch\u00e2n",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf gi\u1eefa EVA",
+          "\u0110\u1ebf ngo\u00e0i Adiwear",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "2.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ed02de76782b43f99fd3278ef8c06905_9366/d\u00e9p-adilette-comfort.jpg",
+        "name": "D\u00e9p adilette Comfort",
+        "source": "/vi/d\u00e9p-adilette-comfort/IF5640.html",
+        "description": "adilette ra \u0111\u1eddi n\u0103m 1970 v\u1edbi vai tr\u00f2 l\u00e0 m\u1eabu d\u00e9p t\u1eafm cho \u0111\u1ed9i tuy\u1ec3n b\u00f3ng \u0111\u00e1 qu\u1ed1c gia \u0110\u1ee9c tr\u01b0\u1edbc khi ch\u00ednh th\u1ee9c ra m\u1eaft v\u00e0o n\u0103m 1972. Gi\u1edd \u0111\u00e2y, d\u00e9p adilette hi\u1ec7n di\u1ec7n \u1edf kh\u1eafp m\u1ecdi n\u01a1i \u2014 v\u00e0 ho\u00e0n to\u00e0n c\u00f3 l\u00fd do cho \u0111i\u1ec1u \u0111\u00f3. Phi\u00ean b\u1ea3n si\u00eau nh\u1eb9 n\u00e0y c\u00f3 quai b\u1eb1ng nh\u1ef1a d\u1ebbo ch\u1eafc ch\u1eafn v\u00e0 l\u00f2ng d\u00e9p \u00f4m ch\u00e2n cho c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i su\u1ed1t ng\u00e0y d\u00e0i. Th\u00e2n d\u00e9p nhanh kh\u00f4 ti\u1ec7n l\u1ee3i, c\u00f9ng 3 S\u1ecdc \u0111\u1eb7c tr\u01b0ng gi\u00fap b\u1ea1n ghi \u0111i\u1ec3m phong c\u00e1ch.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "Ki\u1ec3u d\u00e1ng slip-on",
+          "Th\u00e2n d\u00e9p c\u00f3 m\u1ed9t quai ngang",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u00f2ng d\u00e9p \u00f4m ch\u00e2n",
+          "\u0110\u1ebf ngo\u00e0i EVA \u00e9p phun"
+        ],
+        "price": "1.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f851480c1cf84969bab459f077be3de1_9366/gi\u00e0y-alphaboost-v1.jpg",
+        "name": "Gi\u00e0y Alphaboost V1",
+        "source": "/vi/gi\u00e0y-alphaboost-v1/IE9704.html",
+        "description": "\u0110\u1eb1ng sau nh\u1eefng \u0111\u01b0\u1eddng n\u00e9t g\u1ecdn g\u00e0ng c\u1ee7a \u0111\u00f4i gi\u00e0y adidas n\u00e0y, b\u1ea1n s\u1ebd kh\u00e1m ph\u00e1 ra c\u1ea3 m\u1ed9t kho t\u00e0ng c\u00f4ng ngh\u1ec7. Gi\u00e0y s\u1eed d\u1ee5ng nhi\u1ec1u l\u1edbp \u0111\u1ec7m bao g\u1ed3m BOOST, Bounce v\u00e0 Adiprene+ cho c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i v\u01b0\u1ee3t tr\u1ed9i khi b\u1ea1n xu\u1ed1ng ph\u1ed1. Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t CORDURA\u00ae ch\u1ed1ng m\u00e0i m\u00f2n c\u00f3 kh\u1ea3 n\u0103ng ch\u1ed1ng ch\u1ecbu m\u1ecdi th\u00e1ch th\u1ee9c. \n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t CORDURA\u00ae v\u1edbi c\u00e1c chi ti\u1ebft ph\u1ee7 ngo\u00e0i ph\u1ea3n quang",
+          "\u0110\u1ebf gi\u1eefa k\u1ebft h\u1ee3p \u0111\u1ec7m BOOST, Bounce v\u00e0 Adiprene+",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "3.600.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/86ecb2a16e1b44989f1e3da868927a23_9366/gi\u00e0y-trainer-rapiadmove-adv.jpg",
+        "name": "Gi\u00e0y Trainer Rapiadmove ADV",
+        "source": "/vi/gi\u00e0y-trainer-rapiadmove-adv/HP3269.html",
+        "description": "Nh\u1eb9 nh\u00e0ng chinh ph\u1ee5c l\u1edbp HIIT c\u00f9ng m\u1ed9t \u0111\u00f4i gi\u00e0y \u0111\u00e1ng tin c\u1eady. \u0110\u00f4i gi\u00e0y t\u1eadp adidas n\u00e0y h\u1ed7 tr\u1ee3 chuy\u1ec3n \u0111\u1ed9ng linh ho\u1ea1t. Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t kim k\u1ef9 thu\u1eadt c\u00f3 c\u00e1c v\u00f9ng n\u00e2ng \u0111\u1ee1 \u0111\u01b0\u1ee3c b\u1ed1 tr\u00ed h\u1ee3p l\u00fd. L\u1edbp \u0111\u1ec7m Lightstrike si\u00eau nh\u1eb9 v\u00e0 \u0111\u00e0n h\u1ed3i, c\u00f9ng h\u1ec7 th\u1ed1ng Torsion System b\u1ea5t \u0111\u1ed1i x\u1ee9ng gi\u00fap b\u1ea1n duy tr\u00ec \u1ed5n \u0111\u1ecbnh khi chuy\u1ec3n h\u01b0\u1edbng nhanh v\u00e0 di chuy\u1ec3n \u0111a h\u01b0\u1edbng. \n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "H\u1ec7 th\u1ed1ng d\u00e2y gi\u00e0y t\u00f9y ch\u1ec9nh",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t kim k\u1ef9 thu\u1eadt v\u1edbi c\u1ed5 gi\u00e0y d\u1ea1ng t\u1ea5t v\u00e0 c\u00e1c v\u00f9ng n\u00e2ng \u0111\u1ee1",
+          "C\u1ea3m gi\u00e1c \u1ed5n \u0111\u1ecbnh",
+          "H\u1ec7 th\u1ed1ng Torsion System b\u1ea5t \u0111\u1ed1i x\u1ee9ng",
+          "L\u1edbp \u0111\u1ec7m Lightstrike",
+          "\u0110\u1ebf ngo\u00e0i Continental\u2122 Rubber",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "3.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/d28112c80dc647b488c17a26c12e36c5_9366/gi\u00e0y-response-super-3.0.jpg",
+        "name": "Gi\u00e0y Response Super 3.0",
+        "source": "/vi/gi\u00e0y-response-super-3.0/IG0338.html",
+        "description": "Ch\u1ea1y \u0111ua v\u1edbi th\u1eddi gian trong \u0111\u00f4i gi\u00e0y adidas ch\u1ea1y b\u1ed9 th\u1ec3 thao n\u00e0y. Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi tho\u00e1ng kh\u00ed v\u00e0 c\u1ed5 gi\u00e0y l\u00f3t \u0111\u1ec7m Geofit h\u1ed7 tr\u1ee3 m\u1eaft c\u00e1 ch\u00e2n c\u1ee7a b\u1ea1n. L\u1edbp \u0111\u1ec7m Bounce \u1edf g\u00f3t gi\u00e0y v\u00e0 l\u1edbp \u0111\u1ec7m Bounce+ d\u01b0\u1edbi l\u00f2ng b\u00e0n ch\u00e2n t\u0103ng c\u01b0\u1eddng c\u1ea3m gi\u00e1c \u0111\u00e0n h\u1ed3i v\u00e0 t\u1ed1c \u0111\u1ed9. \u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su t\u1ea1o \u0111\u1ed9 b\u00e1m tuy\u1ec7t v\u1eddi, cho ph\u00e9p b\u1ea1n tho\u1ea3i m\u00e1i ch\u1ea1y \u0111\u1ecba h\u00ecnh.\n\nL\u00e0m t\u1eeb m\u1ed9t nh\u00f3m ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y ch\u1ec9 \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi tho\u00e1ng kh\u00ed",
+          "C\u1ed5 gi\u00e0y l\u00f3t \u0111\u1ec7m Geofit",
+          "\u0110\u1ebf gi\u1eefa Bounce",
+          "L\u00f3t gi\u00e0y b\u1eb1ng EVA v\u1edbi c\u00f4ng ngh\u1ec7 Adibouncy",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "2.500.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/845b72375ebe49e0a7b3320f3b0570a2_9366/gi\u00e0y-duramo-sl.jpg",
+        "name": "Gi\u00e0y Duramo SL",
+        "source": "/vi/gi\u00e0y-duramo-sl/IF7869.html",
+        "description": "T\u1eadp luy\u1ec7n \u0111\u1ec3 \u0111\u1ea1t k\u1ef7 l\u1ee5c c\u00e1 nh\u00e2n m\u1edbi, hay ch\u1ec9 \u0111\u01a1n gi\u1ea3n l\u00e0 c\u1ed1 g\u1eafng ra tr\u1ea1m xe bus \u0111\u00fang gi\u1edd? B\u1ea5t k\u1ec3 m\u1ee5c ti\u00eau n\u00e0o, b\u1ea5t k\u1ec3 b\u1ea1n \u0111i \u0111\u00e2u, Gi\u00e0y adidas Duramo SL s\u1ebd mang \u0111\u1ebfn cho b\u1ea1n nh\u1eefng s\u1ea3i b\u01b0\u1edbc g\u1ecdn gh\u1ebd nh\u1edd l\u1edbp \u0111\u1ec7m LIGHTMOTION si\u00eau nh\u1eb9, \u0111\u00e0n h\u1ed3i v\u00e0 t\u1ea1o h\u00ecnh \u0111\u1ea7y tho\u1ea3i m\u00e1i. Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi tho\u00e1ng kh\u00ed gi\u00fap \u0111\u00f4i ch\u00e2n b\u1ea1n lu\u00f4n m\u00e1t m\u1ebb v\u00e0 kh\u00f4 r\u00e1o b\u1ea5t k\u1ec3 b\u1ea1n \u0111ang m\u01b0\u1edbt m\u1ed3 h\u00f4i t\u1edbi m\u1ee9c n\u00e0o. \n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi mono",
+          "C\u1ea3m gi\u00e1c nh\u1eb9 nh\u00e0ng, \u1ed5n \u0111\u1ecbnh",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp \u0111\u1ec7m LIGHTMOTION",
+          "Tr\u1ecdng l\u01b0\u1ee3ng: 295 g (size UK 8.5)",
+          "Ch\u00eanh l\u1ec7ch \u0111\u1ed9 cao \u0111\u1ebf gi\u1eefa: 9,5 mm (g\u00f3t gi\u00e0y: 33 mm / m\u0169i gi\u00e0y: 23,5 mm)",
+          "\u0110\u1ebf ngo\u00e0i Adiwear",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "1.800.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f84964e91eff4be3bcb1a7ee2ccb979e_9366/gi\u00e0y-tennis-defiant-speed.jpg",
+        "name": "Gi\u00e0y Tennis Defiant Speed",
+        "source": "/vi/gi\u00e0y-tennis-defiant-speed/ID1507.html",
+        "description": "\u0110\u1eb7t m\u1ee5c ti\u00eau \u0111\u1ec3 l\u00e0m g\u00ec n\u1ebfu b\u1ea1n kh\u00f4ng chinh ph\u1ee5c \u0111\u01b0\u1ee3c trong th\u1eddi gian nhanh k\u1ef7 l\u1ee5c? D\u00e0nh cho c\u00e1c tay v\u1ee3t g\u1ea5p r\u00fat mu\u1ed1n v\u01b0\u01a1n t\u1edbi th\u00e0nh c\u00f4ng, \u0111\u00f4i gi\u00e0y tennis adidas n\u00e0y gi\u00fap b\u1ea1n lu\u00f4n nhanh nh\u1ea1y nh\u1edd th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi si\u00eau nh\u1eb9 v\u00e0 \u0111\u1ebf ngo\u00e0i Adiwear t\u1ed1i \u01b0u d\u00e0nh cho s\u00e2n c\u1ee9ng. V\u00f9ng n\u00e2ng \u0111\u1ee1 \u1edf gi\u1eefa b\u00e0n ch\u00e2n gi\u00fap b\u1ea1n ph\u1ea3n x\u1ea1 nhanh ch\u00f3ng khi \u0111\u1ed1i th\u1ee7 c\u1ed1 g\u1eafng t\u1ea5n c\u00f4ng b\u1ea5t ng\u1edd. \u0110\u1ebf gi\u1eefa Bounce linh ho\u1ea1t cho c\u1ea3m gi\u00e1c m\u01b0\u1ee3t m\u00e0 khi b\u1ee9t t\u1ed1c v\u00e0 di chuy\u1ec3n sang b\u00ean.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi \u0111\u01a1n l\u1edbp si\u00eau nh\u1eb9",
+          "M\u0169i gi\u00e0y Adituff",
+          "Chi ti\u1ebft tr\u1ee3 g\u00f3t",
+          "\u0110\u1ebf gi\u1eefa Bounce",
+          "\u0110\u1ebf ngo\u00e0i Adiwear",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "2.600.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5492749d59ee4fb2950c960bab97721b_9366/gi\u00e0y-alphaboost-v1.jpg",
+        "name": "Gi\u00e0y Alphaboost V1",
+        "source": "/vi/gi\u00e0y-alphaboost-v1/IF9839.html",
+        "description": "\u0110\u1eb1ng sau nh\u1eefng \u0111\u01b0\u1eddng n\u00e9t g\u1ecdn g\u00e0ng c\u1ee7a \u0111\u00f4i gi\u00e0y adidas n\u00e0y, b\u1ea1n s\u1ebd kh\u00e1m ph\u00e1 ra c\u1ea3 m\u1ed9t kho t\u00e0ng c\u00f4ng ngh\u1ec7. Gi\u00e0y s\u1eed d\u1ee5ng nhi\u1ec1u l\u1edbp \u0111\u1ec7m bao g\u1ed3m BOOST, Bounce v\u00e0 Adiprene+ cho c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i v\u01b0\u1ee3t tr\u1ed9i khi b\u1ea1n xu\u1ed1ng ph\u1ed1. Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t CORDURA\u00ae ch\u1ed1ng m\u00e0i m\u00f2n c\u00f3 kh\u1ea3 n\u0103ng ch\u1ed1ng ch\u1ecbu m\u1ecdi th\u00e1ch th\u1ee9c. \n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t CORDURA\u00ae v\u1edbi c\u00e1c chi ti\u1ebft ph\u1ee7 ngo\u00e0i ph\u1ea3n quang",
+          "\u0110\u1ebf gi\u1eefa k\u1ebft h\u1ee3p \u0111\u1ec7m BOOST, Bounce v\u00e0 Adiprene+",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "3.600.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5c780da82e5b4f9f8d7afe1d5d082117_9366/gi\u00e0y-duramo-speed.jpg",
+        "name": "Gi\u00e0y Duramo Speed",
+        "source": "/vi/gi\u00e0y-duramo-speed/IE9674.html",
+        "description": "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi k\u1ef9 thu\u1eadt si\u00eau nh\u1eb9 v\u00e0 tho\u00e1ng kh\u00ed k\u1ebft h\u1ee3p c\u00f9ng \u0111\u1ebf gi\u1eefa LIGHTSTRIKE to\u00e0n ph\u1ea7n cho chuy\u1ec3n \u0111\u1ed9ng nhanh h\u01a1n v\u00e0 \u0111\u1ebf ngo\u00e0i b\u1ec1n b\u1ec9 \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf d\u00e0nh cho c\u00e1c runner m\u1edbi b\u1eaft \u0111\u1ea7u v\u00e0 mu\u1ed1n th\u00fac \u0111\u1ea9y b\u1ea3n th\u00e2n v\u01b0\u01a1n l\u00ean m\u1ed9t t\u1ea7m cao m\u1edbi.\n \nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi",
+          "C\u1ea3m gi\u00e1c \u1ed5n \u0111\u1ecbnh, \u0111\u00e0n h\u1ed3i",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp \u0111\u1ec7m Lightstrike",
+          "Tr\u1ecdng l\u01b0\u1ee3ng: 263 g (size UK 8.5)",
+          "Ch\u00eanh l\u1ec7ch \u0111\u1ed9 cao \u0111\u1ebf gi\u1eefa: 6,5 mm (g\u00f3t gi\u00e0y: 29 mm / m\u0169i gi\u00e0y: 22,5 mm)",
+          "\u0110\u1ebf ngo\u00e0i Adiwear",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "2.500.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c9b69c336ef144bb928fa2fb494fd8e0_9366/gi\u00e0y-grand-court-2.0.jpg",
+        "name": "Gi\u00e0y Grand Court 2.0",
+        "source": "/vi/gi\u00e0y-grand-court-2.0/IF2832.html",
+        "description": "\u0110\u00f4i gi\u00e0y adidas n\u00e0y mang \u0111\u1ebfn n\u00e9t m\u1edbi m\u1ebb cho phong c\u00e1ch ch\u1ec9n chu, g\u1ecdn g\u00e0ng. Thi\u1ebft k\u1ebf kinh \u0111i\u1ec3n v\u00e0 ki\u1ec3u d\u00e1ng thanh tho\u00e1t t\u00f4n l\u00ean m\u1ecdi trang ph\u1ee5c. \u0110\u1ebf gi\u1eefa Cloudfoam \u00eam \u00e1i linh ho\u1ea1t mang l\u1ea1i c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i kh\u00f4ng ch\u00fat v\u01b0\u1edbng v\u00edu.\n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng da t\u1ed5ng h\u1ee3p",
+          "L\u00f3t gi\u00e0y Cloudfoam Comfort",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "2.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/db73ef4deb8b45e295b39efd52833530_9366/gi\u00e0y-grand-court-2.0.jpg",
+        "name": "Gi\u00e0y Grand Court 2.0",
+        "source": "/vi/gi\u00e0y-grand-court-2.0/ID4476.html",
+        "description": "\u0110\u00f4i gi\u00e0y adidas n\u00e0y mang l\u1ea1i c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i su\u1ed1t ng\u00e0y d\u00e0i. C\u0169ng nh\u01b0 phong c\u00e1ch su\u1ed1t ng\u00e0y d\u00e0i. \u0110\u00e2y ch\u1eafc ch\u1eafn l\u00e0 m\u1ed9t trong nh\u1eefng \u0111\u00f4i gi\u00e0y \u0111a n\u0103ng nh\u1ea5t trong t\u1ee7 \u0111\u1ed3 c\u1ee7a b\u1ea1n, b\u1edfi phong c\u00e1ch tennis t\u1ed1i gi\u1ea3n c\u00f3 th\u1ec3 k\u1ebft h\u1ee3p v\u1edbi m\u1ecdi trang ph\u1ee5c. Ph\u1ed1i \u0111\u1ed3 th\u1eadt c\u1ea7u k\u1ef3 hay \u0111\u01a1n gi\u1ea3n t\u00f9y \u00fd. T\u1eadn h\u01b0\u1edfng c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i \u1edf b\u1ea5t k\u1ef3 n\u01a1i \u0111\u00e2u nh\u1edd th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t m\u1ec1m m\u1ea1i v\u00e0 l\u00f3t gi\u00e0y Cloudfoam \u00eam \u00e1i.\n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u00f3t gi\u00e0y Cloudfoam",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "2.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/48468475b0714993b76bad6e00caea4d_9366/d\u00e9p-s\u1ee5c-adilette.jpg",
+        "name": "D\u00e9p S\u1ee5c adilette",
+        "source": "/vi/d\u00e9p-s\u1ee5c-adilette/GZ5886.html",
+        "description": "D\u1ef1a tr\u00ean \u0111\u00f4i d\u00e9p adidas \u0111\u1ea7y t\u00ednh bi\u1ec3u t\u01b0\u1ee3ng, m\u1eabu s\u1ee5c n\u00e0y v\u1eeba ti\u1ec7n d\u1ee5ng l\u1ea1i v\u1eeba tho\u1ea3i m\u00e1i. B\u1ea5t k\u1ec3 b\u1ea1n chu\u1ea9n b\u1ecb \u0111\u1ebfn ph\u00f2ng gym hay h\u1ed3 b\u01a1i \u0111\u1ec3 t\u1eadp th\u1ec3 d\u1ee5c bu\u1ed5i s\u00e1ng ho\u1eb7c ch\u1ec9 \u0111\u01a1n gi\u1ea3n l\u00e0 mu\u1ed1n l\u00ean \u0111\u1ed3 casual nh\u1eb9 nh\u00e0ng cho c\u1ea3 ng\u00e0y, h\u00e3y xu\u1ed1ng ph\u1ed1 v\u1edbi \u0111\u00f4i d\u00e9p \u00f4m ch\u00e2n n\u00e0y.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "Slip-on",
+          "Th\u00e2n d\u00e9p b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p",
+          "C\u1ea3m gi\u00e1c m\u1ec1m m\u1ea1i",
+          "D\u00e9p s\u1ee5c phong c\u00e1ch th\u1ec3 thao mang h\u00e0ng ng\u00e0y",
+          "L\u00f2ng d\u00e9p \u00f4m ch\u00e2n b\u1eb1ng ch\u1ea5t li\u1ec7u EVA",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p"
+        ],
+        "price": "1.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/19ae3af92bae44e58b3b4f85fab29f06_9366/gi\u00e0y-ch\u1ea1y-b\u1ed9-switch-fwd.jpg",
+        "name": "Gi\u00e0y Ch\u1ea1y B\u1ed9 Switch FWD",
+        "source": "/vi/gi\u00e0y-ch\u1ea1y-b\u1ed9-switch-fwd/IF2399.html",
+        "description": "C\u00d4NG NGH\u1ec6 T\u00c2N TI\u1ebeN\n\nN\u00e2ng t\u1ea7m bu\u1ed5i ch\u1ea1y c\u1ee7a b\u1ea1n v\u1edbi c\u00f4ng ngh\u1ec7 switch fwd ho\u00e0n to\u00e0n m\u1edbi bi\u1ebfn tr\u1ecdng l\u1ef1c th\u00e0nh chuy\u1ec3n \u0111\u1ed9ng v\u1ec1 ph\u00eda tr\u01b0\u1edbc. \n\nK\u1ebft c\u1ea5u \u0111\u1ebf gi\u1eefa b\u1eb1ng ch\u1ea5t li\u1ec7u EVA \u0111\u01b0\u1ee3c gia c\u00f4ng \u0111\u1eb7c bi\u1ec7t v\u1edbi c\u00e1c l\u1ed7 r\u1ed7ng \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf c\u00f3 ch\u1ee7 \u0111\u00edch nh\u1eb1m n\u00e9n ch\u1eb7t v\u00e0 gi\u00e3n n\u1edf d\u01b0\u1edbi \u00e1p l\u1ef1c, gi\u00fap b\u1ea1n ti\u1ebfn v\u1ec1 ph\u00eda tr\u01b0\u1edbc tr\u00ean t\u1eebng s\u1ea3i b\u01b0\u1edbc. C\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i t\u0103ng c\u01b0\u1eddng \u0111\u1ebfn t\u1eeb th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi tho\u00e1ng kh\u00ed, c\u00f9ng g\u00f3t gi\u00e0y n\u00e2ng \u0111\u1ee1 mang l\u1ea1i s\u1ef1 \u1ed5n \u0111\u1ecbnh \u1edf m\u1ecdi t\u1ed1c \u0111\u1ed9. \u0110\u1ebf ngo\u00e0i chuy\u00ean d\u1ee5ng si\u00eau nh\u1eb9 cho \u0111\u1ed9 b\u00e1m t\u1ed1i \u01b0u trong m\u1ecdi \u0111i\u1ec1u ki\u1ec7n th\u1eddi ti\u1ebft. Tr\u1ea3i nghi\u1ec7m bu\u1ed5i ch\u1ea1y m\u01b0\u1ee3t m\u00e0 nh\u1ea5t v\u1edbi c\u00f4ng ngh\u1ec7 switch fwd m\u1edbi.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi k\u1ef9 thu\u1eadt v\u1edbi c\u00e1c khung tho\u00e1ng kh\u00ed",
+          "C\u1ea3m gi\u00e1c \u00eam \u00e1i, c\u1ed1 \u0111\u1ecbnh",
+          "\u0110\u1ebf gi\u00e0y \u0111\u00fac 3D c\u00f3 l\u1edbp l\u00f3t ch\u1ed1ng tr\u01b0\u1ee3t",
+          "\u0110\u1ebf gi\u1eefa b\u1eb1ng ch\u1ea5t li\u1ec7u EVA m\u1ec1m m\u1ea1i c\u00f3 t\u1ea5m c\u1ed1 \u0111\u1ecbnh b\u1eb1ng ch\u1ea5t li\u1ec7u TPU",
+          "Tr\u1ecdng l\u01b0\u1ee3ng: 335 g (size UK 8.5)",
+          "Ch\u00eanh l\u1ec7ch \u0111\u1ed9 cao \u0111\u1ebf gi\u1eefa: 10 mm (g\u00f3t gi\u00e0y: 44,8 mm/ m\u0169i gi\u00e0y: 34,8 mm)",
+          "\u0110\u1ebf ngo\u00e0i Continental\u2122 Rubber",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "3.800.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5d3614ceab474c4b8576745cb9b94eb9_9366/gi\u00e0y-ultra-4d.jpg",
+        "name": "Gi\u00e0y Ultra 4D",
+        "source": "/vi/gi\u00e0y-ultra-4d/IF0307.html",
+        "description": "D\u00f9 b\u1ea1n \u0111i \u0111\u00e2u, \u0111\u00f4i gi\u00e0y adidas n\u00e0y s\u1ebd \u0111\u1ea3m b\u1ea3o c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i tr\u00ean su\u1ed1t h\u00e0nh tr\u00ecnh. S\u1eed d\u1ee5ng \u0111\u1ebf gi\u1eefa adidas 4D in 3D, \u0111\u00f4i gi\u00e0y n\u00e0y c\u00f3 kh\u1ea3 n\u0103ng h\u1ea5p th\u1ee5 l\u1ef1c t\u00e1c \u0111\u1ed9ng t\u1ed1i \u01b0u v\u00e0 mang l\u1ea1i \u0111\u1ed9 \u1ed5n \u0111\u1ecbnh tr\u00ean c\u00e1c b\u1ec1 m\u1eb7t c\u1ee9ng ho\u1eb7c kh\u00f4ng b\u1eb1ng ph\u1eb3ng. Th\u00e2n gi\u00e0y adidas PRIMEKNIT \u00f4m ch\u00e2n v\u1eeba v\u1eb7n v\u00e0 n\u00e2ng \u0111\u1ee1, th\u00edch \u1ee9ng t\u1ef1 nhi\u00ean theo t\u1eebng s\u1ea3i b\u01b0\u1edbc. Tr\u00ean h\u1ebft, \u0111\u00f4i gi\u00e0y n\u00e0y c\u00f2n s\u1edf h\u1eefu c\u00e1 t\u00ednh v\u00e0 phong c\u00e1ch n\u00e2ng t\u1ea7m m\u1ecdi outfit. \n\nL\u00e0m t\u1eeb m\u1ed9t lo\u1ea1t ch\u1ea5t li\u1ec7u t\u00e1i ch\u1ebf, th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf. S\u1ea3n ph\u1ea9m n\u00e0y \u0111\u1ea1i di\u1ec7n cho m\u1ed9t trong s\u1ed1 r\u1ea5t nhi\u1ec1u c\u00e1c gi\u1ea3i ph\u00e1p c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y adidas PRIMEKNIT",
+          "\u0110\u1ebf gi\u1eefa 4D in 3D",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su",
+          "Th\u00e2n gi\u00e0y c\u00f3 ch\u1ee9a t\u1ed1i thi\u1ec3u 50% th\u00e0nh ph\u1ea7n t\u00e1i ch\u1ebf"
+        ],
+        "price": "6.000.000\u20ab"
+      },
+      {
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/dc0cdac3bcd64462864dbc2105f9c038_9366/d\u00e9p-adilette-22.jpg",
+        "name": "D\u00e9p adilette 22",
+        "source": "/vi/d\u00e9p-adilette-22/IF5394.html",
+        "description": "H\u00e3y mang \u0111\u00f4i d\u00e9p n\u00e0y v\u00e0 h\u01b0\u1edbng v\u1ec1 ph\u00eda tr\u01b0\u1edbc. L\u1ea5y c\u1ea3m h\u1ee9ng t\u1eeb b\u1ea3n \u0111\u1ed3 \u0111\u1ecba h\u00ecnh 3D v\u00e0 cu\u1ed9c \u0111ua l\u00ean sao H\u1ecfa, \u0111\u00f4i d\u00e9p adidas \u0111\u1eadm ch\u1ea5t t\u01b0\u01a1ng lai n\u00e0y mang ng\u00e0y mai \u0111\u1ebfn v\u1edbi h\u00f4m nay. D\u00e9p l\u00e0m t\u1eeb c\u00e1c ch\u1ea5t li\u1ec7u t\u1ef1 nhi\u00ean \u2014 ch\u1eb3ng h\u1ea1n nh\u01b0 m\u00eda \u2014 v\u1edbi thi\u1ebft k\u1ebf nguy\u00ean kh\u1ed1i mang \u0111\u1ebfn c\u1ea3m gi\u00e1c tho\u1ea3i m\u00e1i m\u1ed7i ng\u00e0y. B\u1ea1n c\u00f3 th\u1ec3 mang \u0111\u00f4i d\u00e9p n\u00e0y \u1edf nh\u00e0, khi di chuy\u1ec3n ho\u1eb7c \u0111i d\u1ea1o quanh khu ph\u1ed1. Phong c\u00e1ch d\u1ec5 ch\u1ecbu lu\u00f4n s\u1eb5n s\u00e0ng cho t\u1ea5t c\u1ea3.\n\nM\u1eabu d\u00e9p n\u00e0y l\u00e0m t\u1eeb c\u00e1c ch\u1ea5t li\u1ec7u t\u1ef1 nhi\u00ean v\u00e0 c\u00f3 th\u1ec3 t\u00e1i t\u1ea1o, l\u00e0 m\u1ed9t ph\u1ea7n trong h\u00e0nh tr\u00ecnh c\u1ee7a ch\u00fang t\u00f4i h\u01b0\u1edbng t\u1edbi ch\u1ea5m d\u1ee9t s\u1eed d\u1ee5ng t\u00e0i nguy\u00ean h\u1eefu h\u1ea1n v\u00e0 g\u00f3p ph\u1ea7n lo\u1ea1i b\u1ecf r\u00e1c th\u1ea3i nh\u1ef1a.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "D\u00e1ng slip-on",
+          "Th\u00e2n d\u00e9p b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng ch\u1ea5t li\u1ec7u t\u1ed5ng h\u1ee3p",
+          "T\u1ed1i thi\u1ec3u 50% c\u00e1c ch\u1ea5t li\u1ec7u t\u1ef1 nhi\u00ean v\u00e0 c\u00f3 th\u1ec3 t\u00e1i t\u1ea1o"
+        ],
+        "price": "1.400.000\u20ab"
+      }
+    ]
+  },
+  {
+    "brand": "Nike",
+    "products": [{
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f2485beca4334517a377dd8e62fb89e8_9366/gi\u00e0y-byw-select.jpg",
+        "name": "Gi\u00e0y BYW Select",
+        "source": "/vi/gi\u00e0y-byw-select/IE9307.html",
+        "description": "Bay nh\u1ea3y su\u1ed1t tr\u1eadn \u0111\u1ea5u. \u0110\u00f4i gi\u00e0y b\u00f3ng r\u1ed5 adidas n\u00e0y c\u00f3 l\u1edbp \u0111\u1ec7m Lightstrike gi\u00fap b\u1ea1n lu\u00f4n tho\u1ea3i m\u00e1i m\u00e0 kh\u00f4ng g\u00e2y c\u1ea3m gi\u00e1c n\u1eb7ng n\u1ec1. L\u1edbp \u0111\u1ec7m BOOST ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng tr\u00ean t\u1eebng s\u1ea3i b\u01b0\u1edbc, gi\u1eef cho b\u1ea1n lu\u00f4n sung s\u1ee9c \u0111\u1ec3 \u1edf ghi \u0111i\u1ec3m th\u1eddi kh\u1eafc then ch\u1ed1t.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp \u0111\u1ec7m Lightstrike",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su"
+        ],
+        "price": "3.800.000\u20ab"
+      }]
+  },
+  {
+    "brand": "Puma",
+    "products": [{
+        "image_src": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/f2485beca4334517a377dd8e62fb89e8_9366/gi\u00e0y-byw-select.jpg",
+        "name": "Gi\u00e0y BYW Select",
+        "source": "/vi/gi\u00e0y-byw-select/IE9307.html",
+        "description": "Bay nh\u1ea3y su\u1ed1t tr\u1eadn \u0111\u1ea5u. \u0110\u00f4i gi\u00e0y b\u00f3ng r\u1ed5 adidas n\u00e0y c\u00f3 l\u1edbp \u0111\u1ec7m Lightstrike gi\u00fap b\u1ea1n lu\u00f4n tho\u1ea3i m\u00e1i m\u00e0 kh\u00f4ng g\u00e2y c\u1ea3m gi\u00e1c n\u1eb7ng n\u1ec1. L\u1edbp \u0111\u1ec7m BOOST ho\u00e0n tr\u1ea3 n\u0103ng l\u01b0\u1ee3ng tr\u00ean t\u1eebng s\u1ea3i b\u01b0\u1edbc, gi\u1eef cho b\u1ea1n lu\u00f4n sung s\u1ee9c \u0111\u1ec3 \u1edf ghi \u0111i\u1ec3m th\u1eddi kh\u1eafc then ch\u1ed1t.",
+        "detail_information": [
+          "D\u00e1ng regular fit",
+          "C\u00f3 d\u00e2y gi\u00e0y",
+          "Th\u00e2n gi\u00e0y b\u1eb1ng v\u1ea3i l\u01b0\u1edbi",
+          "L\u1edbp l\u00f3t b\u1eb1ng v\u1ea3i d\u1ec7t",
+          "L\u1edbp \u0111\u1ec7m Lightstrike",
+          "\u0110\u1ebf gi\u1eefa BOOST",
+          "\u0110\u1ebf ngo\u00e0i b\u1eb1ng cao su"
+        ],
+        "price": "3.800.000\u20ab"
+      }]
+  }
+]

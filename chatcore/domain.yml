@@ -1,54 +1,85 @@
 version: "3.1"
 
 intents:
+  - ask_buy_shoes
+  - ask_buy_special_shoes
+  - disagree_product
+  - agree_product
   - give_cust_name
   - cust_greet
-  - goodbye
   - bot_or_people
   - ask_name_shop
   - ask_loai_san_pham
   - ask_diachi_shop
   - ask_time_open_close
+  - provide_brand
+  - provide_personal_info
+  - ask_brand_shoe
+  - ask_product_sale
 
-actions:
-  - action_save_name
-  - action_save_hang_giay
+responses:
+  utter_default:
+    - text: "Tôi không hiểu câu hỏi của bạn. Bạn có thể nói rõ nghĩa hơn không?"
 
+  utter_order_confirm:
+    - text: "Dạ quý khách cho shop xin thông tin họ tên và số điện thoại, nhân viên cửa hàng sẽ liên hệ ạ"
+
+  utter_cust_greet:
+  - text: "Chào quý khách! Tên quý khách là gì?"
+
+  utter_ask_name_shop:
+  - text: "Shop tên là Pishoe."
+
+  utter_bot_or_people:
+  - text: "Tôi là bot trả lời tự động của shop."
+ 
+  utter_ask_loai_san_pham:
+  - text: "Shop kinh doanh các loại giày, dép thể thao."
+ 
+  utter_ask_diachi_shop:
+  - text: "Địa chỉ của shop là số 19, Trần Phú, Hà Đông, Hà Nội."
+ 
+  utter_ask_time_open_close:
+  - text: "Shop mở cửa vào tất cả các ngày trong tuần, buổi sáng từ 7:00 đến 11:00, buổi chiều từ 14:00 đến 20:00."
+
+  utter_ask_brand_shoe:
+  - text: "Hiện tại shop kinh doanh các mặt hàng của Nikke, Adidas, Puma."
+
+  utter_ask_cust_name:
+    - text: "Dạ bạn cho shop xin tên của mình với ạ"
+
+  utter_ask_phone_number:
+    - text: "Dạ bạn cho shop xin số điện thoại của mình với ạ"
+
+  utter_ask_product_sale:
+    - text: "Dạ shop đang có chương trình giảm giá toàn bộ cửa hàng, giảm trực tiếp giá vào sản phẩm, bạn quan tâm tới sản phẩm nào ạ?"
 entities:
   - cust_name
-
+  - phone_number
 slots:
   cust_name:
     type: text
-    influence_conversation: true
     mappings:
-    - type: from_entity
-      entity: cust_name
+      - type: from_entity
+        entity: cust_name
+  phone_number:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: phone_number
+forms:
+  order_info_form:
+    required_slots:
+      - cust_name
+      - phone_number
 
-responses:
-  utter_cust_greet:
-  - text: "Chao quy khach! Ten quy khach la gi?"
+actions:
+  - action_recommend_shoes
+  - action_recommend_special_shoes
+  - action_save_cust_name
+  - action_save_info_customer
+  - validate_order_info_form
 
-  utter_ask_name_shop:
-  - text: "Shop ten la The Gioi Giay."
-
-  utter_goodbye:
-  - text: "Cam on quy khach chuc quy khach mot ngay moi tot lanh."
-
-  utter_bot_or_people:
-  - text: "Toi la bot tra loi tu dong cua shop."
-  
-  utter_rep_name:
-  - text: "Xin chao {cust_name} toi co the giup gi cho ban."
-
-  utter_ask_loai_san_pham:
-  - text: "Shop kinh doanh nhieu loai giay nhu: Giay the thao, giay luoi,..."
-
-  utter_ask_diachi_shop:
-  - text: "Dia chi cua shop la So 19, Tran Phu, Ha Dong, Ha Noi."
-
-  utter_ask_time_open_close:
-  - text: "Shop mo cua vao tat ca cac ngay trong tuan, buoi sang tu 7:00 den 11:00, buoi chieu tu 14:00 den 20:00."
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

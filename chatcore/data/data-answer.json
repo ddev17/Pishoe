@@ -1,0 +1,9 @@
+[{
+  "type": "recommend_product",
+  "data": ["", "", ""]
+},
+  {
+  "type": "not_exist_product",
+  "data": ["", "", ""]
+}
+]
