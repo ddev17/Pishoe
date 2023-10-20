@@ -2,29 +2,19 @@ version: "3.1"
 
 stories:
 
-- story: happy path
+- story: TH1
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_great
-  - action: utter_happy
-
-- story: sad path 1
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: affirm
-  - action: utter_happy
-
-- story: sad path 2
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: deny
+  - intent: cust_greet
+  - action: utter_cust_greet
+  - intent: give_cust_name
+  - action: utter_rep_name
+  - intent: ask_name_shop
+  - action: utter_ask_name_shop
+  - intent: ask_loai_san_pham
+  - action: utter_ask_loai_san_pham
+  - intent: ask_diachi_shop
+  - action: utter_ask_diachi_shop
+  - intent: ask_time_open_close
+  - action: utter_ask_time_open_close
+  - intent: goodbye
   - action: utter_goodbye
