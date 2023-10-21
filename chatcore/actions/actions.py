@@ -19,6 +19,8 @@ class ActionRecommendSpecialShoes(Action):
         question = utils.no_accent_vietnamese((tracker.latest_message)['text'])
         brands = utils.parse_brand_from_question(question)
         cust_name = tracker.get_slot('cust_name')
+        if cust_name == None:
+            cust_name = ""
         if len(brands) == 0:
             dispatcher.utter_message(
                 text=f"Dạ cửa hàng đang bán 3 nhãn hiệu thể thao là Adidas, Nike và Puma. Bạn {cust_name} muốn chọn giày nhãn hiệu nào ạ?")
@@ -32,16 +34,12 @@ class ActionRecommendSpecialShoes(Action):
                 return []
 
         price_range = utils.parse_price_from_question(question)
-        recommend_shoes_list = utils.get_recommend_product(1)
-        # recommend_shoes_list = utils.get_recommend_product(1, brands, price_range, 1)
+        # recommend_shoes_list = utils.get_recommend_product(1)
+        recommend_shoes_list = utils.get_recommend_special_product(brands, price_range)
         if (len(recommend_shoes_list)):
             dispatcher.utter_message(
                 text=f"Dạ shop gửi bạn {cust_name} tham khảo mẫu: \nNhãn hiệu: {recommend_shoes_list[0]['brand']}\nSản phẩm: {recommend_shoes_list[0]['name']}\nGiá ưu đãi: {recommend_shoes_list[0]['price']}\n\nMẫu này đang hot, anh chị có muốn đặt hàng không ạ?",
                 image=recommend_shoes_list[0]['image_src'],
-                buttons=[
-                    {"payload": "/ask_buy_shoes", "title": "Yes"},
-                    {"payload": "/deny", "title": "No"},
-                ]
             )
         else:
             dispatcher.utter_message(
