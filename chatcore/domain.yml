@@ -16,10 +16,11 @@ intents:
   - provide_personal_info
   - ask_brand_shoe
   - ask_product_sale
+  - provide_phone_number
 
 responses:
   utter_default:
-    - text: "Tôi không hiểu câu hỏi của bạn. Bạn có thể nói rõ nghĩa hơn không?"
+    - text: "Shop không hiểu câu hỏi của bạn. Bạn có thể nói rõ nghĩa hơn không?"
 
   utter_order_confirm:
     - text: "Dạ quý khách cho shop xin thông tin họ tên và số điện thoại, nhân viên cửa hàng sẽ liên hệ ạ"
@@ -53,6 +54,9 @@ responses:
 
   utter_ask_product_sale:
     - text: "Dạ shop đang có chương trình giảm giá toàn bộ cửa hàng, giảm trực tiếp giá vào sản phẩm, bạn quan tâm tới sản phẩm nào ạ?"
+
+  utter_please_rephrase:
+    - text: "Shop không hiểu câu hỏi của bạn. Bạn có thể nói rõ nghĩa hơn không?"
 entities:
   - cust_name
   - phone_number

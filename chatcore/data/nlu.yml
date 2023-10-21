@@ -5630,6 +5630,8 @@ nlu:
 - intent: disagree_product
   examples: |
     - Mẫu này xấu.
+    - Đổi mẫu khác
+    - Cho tôi mẫu khác
     - Tôi không thích mẫu này.
     - Tôi không thích loại giày này.
     - Tôi không muốn mua mẫu giày này.
@@ -5657,6 +5659,9 @@ nlu:
     - Toi can tim giay Adidas
     - Toi can mua giay Nike
     - Toi can mua giay Puma
+    - Minh can tim giay Adidas
+    - Minh can tim giay Puma
+    - Minh cần mua giày giá từ 1.000.000 VND đến 5 triệu
     - Tôi cần tìm mẫu Adidas Ultraboot 1.0.
     - Tôi cần mẫu giày nam size 42.
     - Tôi cần tìm đôi giày màu đỏ.
@@ -5729,10 +5734,6 @@ nlu:
   examples: |
     - Shop có chương trình giảm giá không
 
-- intent: provide_phone_number
-  examples: |
-    - Sdt của tôi là [0123456789]{"entity": "phone_number"}
-
 - intent: provide_personal_info
   examples: |
     - Tên của tôi là Nguyễn Văn A số điện thoại 0912186754
@@ -5743,3 +5744,16 @@ nlu:
     - Adidas
     - Nike
     - Puma
+
+- regex: phone_number
+  examples: |
+    - /((\+84|0)[1-9][0-9]{8,9})/
+- intent: provide_phone_number
+  examples: |
+    - Số điện thoại của tôi là [0912173333]{"entity": "phone_number"}
+    - Số điện thoại của tôi là [84912173333]{"entity": "phone_number"}
+    - Sdt của tôi là [84912173333]{"entity": "phone_number"}
+    - Sdt tôi [84912173333]{"entity": "phone_number"}
+    - Số tôi [84912173333]{"entity": "phone_number"}
+    - Sdt [84912173333]{"entity": "phone_number"}
+    - [84912173333]{"entity": "phone_number"}
