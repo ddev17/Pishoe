@@ -2,6 +2,13 @@
 
 Pishoe is a chatbot solution developed by a team of four students. It utilizes HTML, CSS, JavaScript, SASS, FastAPI, and the RASA framework to provide an interactive and conversational user experience.
 
+## Author Team
+
+- Nguyễn Mạnh Duy (duym171003@gmail.com)
+- Vũ Tuấn Nam (vutuannam39@gmail.com)
+- Đào Xuân Trí (TriDX.B21CN721@stu.ptit.edu.vn)
+- Cù Xuân Hoà (cuhoa36@gmail.com)
+
 ## Table of Contents
 
 - [Installation](#installation)
