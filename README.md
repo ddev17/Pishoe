@@ -77,7 +77,3 @@ Please follow the project's code of conduct and contribution guidelines, if any.
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as long as you adhere to the terms of the license.
-
----
-
-This README provides an outline for your project documentation on GitHub. Make sure to fill in the specific details and add more information as needed. It should be clear, concise, and informative to help users and potential contributors understand and use your chatbot solution effectively.
