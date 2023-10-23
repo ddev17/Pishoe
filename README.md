@@ -45,13 +45,14 @@ Before running the chatbot, ensure you have completed the installation step. Onc
 3. Start the FastAPI server:
 
    ```bash
-   uvicorn main:app --host 0.0.0.0 --port 27358 --reload
+   python main.py
    ```
 
 4. Run the RASA framework:
 
    ```bash
    rasa run -m models --enable-api --cors "*"
+   rasa run actions
    ```
 
 Now, Pishoe is up and running, and you can interact with the chatbot via a web interface.
