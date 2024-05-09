@@ -1,6 +1,6 @@
 # Pishoe Chatbot Solution
 
-Pishoe is a chatbot solution developed by a team of four students. It utilizes HTML, CSS, JavaScript, SASS, FastAPI, and the RASA framework to provide an interactive and conversational user experience.
+Pishoe is a chatbot solution developed by PTIT student. It utilizes HTML, CSS, JavaScript, SASS, FastAPI, and the RASA framework to provide an interactive and conversational user experience.
 
 ## Table of Contents
 
