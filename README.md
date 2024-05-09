@@ -15,9 +15,6 @@ Pishoe is a chatbot solution developed by a team of four students. It utilizes H
 ## Author Team
 
 - Nguyễn Mạnh Duy (duym171003@gmail.com)
-- Vũ Tuấn Nam (vutuannam39@gmail.com)
-- Đào Xuân Trí (TriDX.B21CN721@stu.ptit.edu.vn)
-- Cù Xuân Hoà (cuhoa36@gmail.com)
 
 ## Installation
 
