@@ -35,7 +35,7 @@ responses:
   - text: "Tôi là bot trả lời tự động của shop."
  
   utter_ask_loai_san_pham:
-  - text: "Shop kinh doanh các loại giày, dép thể thao."
+  - text: "Shop kinh doanh các loại giày, dép thể thao của các nhãn hiệu như Adidas, Nike, Puma"
  
   utter_ask_diachi_shop:
   - text: "Địa chỉ của shop là số 19, Trần Phú, Hà Đông, Hà Nội."
